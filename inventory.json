@@ -1,5 +1,5 @@
 {
-  "LastSync": "2026-01-28 13:51:21",
+  "LastSync": "2026-01-28 13:53:17",
   "Inventory": [
     {
       "Name": "سوراو+قةلةم جاو 1000ي",
@@ -30326,16 +30326,16 @@
         "5285000395164",
         "8606108584163"
       ],
-      "Balance": 490.0,
+      "Balance": 488.0,
       "OpeningStock": 2277.0,
       "NetPurchases": 1803.0,
-      "TotalOut": 3590.0,
+      "TotalOut": 3592.0,
       "SellPrice": 250.0,
       "Cost": 220.0,
       "LastClient": "",
       "ProfitPerOne": 30.0,
       "ProfitRate": 13.64,
-      "TotalStockValue": 107800.0
+      "TotalStockValue": 107360.0
     },
     {
       "Name": "سؤسج قتوو مريشك+مانكا هؤت دؤك",
@@ -45404,16 +45404,16 @@
       "Barcodes": [
         "2000022"
       ],
-      "Balance": 113.60420000000005,
+      "Balance": 112.61920000000004,
       "OpeningStock": 193.517,
       "NetPurchases": 225.5401,
-      "TotalOut": 305.45289999999989,
+      "TotalOut": 306.4378999999999,
       "SellPrice": 5500.0,
       "Cost": 3888.8888888888887,
       "LastClient": "",
       "ProfitPerOne": 1611.11,
       "ProfitRate": 41.43,
-      "TotalStockValue": 441794.11
+      "TotalStockValue": 437963.56
     },
     {
       "Name": "بوكي مةمكةمزة كيس BABY SHower",
@@ -64809,16 +64809,16 @@
         "6212203372400",
         "6212209382403"
       ],
-      "Balance": 625.0,
+      "Balance": 624.0,
       "OpeningStock": 432.0,
       "NetPurchases": 1921.0,
-      "TotalOut": 1728.0,
+      "TotalOut": 1729.0,
       "SellPrice": 250.0,
       "Cost": 212.5,
       "LastClient": "",
       "ProfitPerOne": 37.5,
       "ProfitRate": 17.65,
-      "TotalStockValue": 132812.5
+      "TotalStockValue": 132600.0
     },
     {
       "Name": "جلي كيس هاريبؤ 150غم",
@@ -72439,16 +72439,16 @@
         "6294017106549",
         "6294017129104"
       ],
-      "Balance": 127.0,
+      "Balance": 126.0,
       "OpeningStock": 155.0,
       "NetPurchases": 1.0,
-      "TotalOut": 29.0,
+      "TotalOut": 30.0,
       "SellPrice": 8750.0,
       "Cost": 8413.548,
       "LastClient": "",
       "ProfitPerOne": 336.45,
       "ProfitRate": 4.0,
-      "TotalStockValue": 1068520.6
+      "TotalStockValue": 1060107.05
     },
     {
       "Name": "عمبة شوشة فلة 400غم",
@@ -83111,16 +83111,16 @@
         "6223000552025",
         "6223000552063"
       ],
-      "Balance": 88.0,
+      "Balance": 87.0,
       "OpeningStock": 153.0,
       "NetPurchases": 336.0,
-      "TotalOut": 401.0,
+      "TotalOut": 402.0,
       "SellPrice": 500.0,
       "Cost": 437.5,
       "LastClient": "",
       "ProfitPerOne": 62.5,
       "ProfitRate": 14.29,
-      "TotalStockValue": 38500.0
+      "TotalStockValue": 38062.5
     },
     {
       "Name": "صاص طباخ 500غم",
@@ -120334,16 +120334,16 @@
         "8683704370529",
         "8697411510574"
       ],
-      "Balance": 227.0,
+      "Balance": 226.0,
       "OpeningStock": 114.0,
       "NetPurchases": 286.0,
-      "TotalOut": 173.0,
+      "TotalOut": 174.0,
       "SellPrice": 250.0,
       "Cost": 183.56643356643357,
       "LastClient": "",
       "ProfitPerOne": 66.43,
       "ProfitRate": 36.19,
-      "TotalStockValue": 41669.58
+      "TotalStockValue": 41486.01
     },
     {
       "Name": "دةسكيش حاجةت زينداي 750ي",
