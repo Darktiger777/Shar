@@ -1,5 +1,5 @@
 {
-  "LastSync": "2026-01-28 13:50:59",
+  "LastSync": "2026-01-28 13:51:21",
   "Inventory": [
     {
       "Name": "سوراو+قةلةم جاو 1000ي",
@@ -14319,16 +14319,16 @@
         "201061",
         "6260561201061"
       ],
-      "Balance": 27.0,
+      "Balance": 26.0,
       "OpeningStock": 20.0,
       "NetPurchases": 102.0,
-      "TotalOut": 95.0,
+      "TotalOut": 96.0,
       "SellPrice": 3500.0,
       "Cost": 3250.0,
       "LastClient": "",
       "ProfitPerOne": 250.0,
       "ProfitRate": 7.69,
-      "TotalStockValue": 87750.0
+      "TotalStockValue": 84500.0
     },
     {
       "Name": "جانتاى وةسط نايلؤن ",
