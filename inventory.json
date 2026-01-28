@@ -1,5 +1,5 @@
 {
-  "LastSync": "2026-01-28 14:19:48",
+  "LastSync": "2026-01-28 14:24:10",
   "Inventory": [
     {
       "Name": "سوراو+قةلةم جاو 1000ي",
@@ -458,7 +458,7 @@
       "TotalOut": 15.0,
       "SellPrice": 1000.0,
       "Cost": 627.8,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي بةندةر-ناومالة سليماني",
       "ProfitPerOne": 372.2,
       "ProfitRate": 59.29,
       "TotalStockValue": 109865.0
@@ -557,7 +557,7 @@
       "TotalOut": 24.0,
       "SellPrice": 1000.0,
       "Cost": 319.375,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي بةندةر-ناومالة سليماني",
       "ProfitPerOne": 680.62,
       "ProfitRate": 213.11,
       "TotalStockValue": 52377.5
@@ -2006,7 +2006,7 @@
       "TotalOut": 64.0,
       "SellPrice": 1750.0,
       "Cost": 1550.0,
-      "LastClient": "",
+      "LastClient": "نورهات-ئيتي-دينار",
       "ProfitPerOne": 200.0,
       "ProfitRate": 12.9,
       "TotalStockValue": 55800.0
@@ -2538,7 +2538,7 @@
       "TotalOut": 0.0,
       "SellPrice": 68000.0,
       "Cost": 55500.0,
-      "LastClient": "",
+      "LastClient": "كةنجينةي فريدون-نةوال-دينار",
       "ProfitPerOne": 12500.0,
       "ProfitRate": 22.52,
       "TotalStockValue": 333000.0
@@ -2554,7 +2554,7 @@
       "TotalOut": 1.0,
       "SellPrice": 14000.0,
       "Cost": 11480.466666666667,
-      "LastClient": "",
+      "LastClient": "ليمؤن-ناومالة-سليماني",
       "ProfitPerOne": 2519.53,
       "ProfitRate": 21.95,
       "TotalStockValue": 91843.73
@@ -3588,7 +3588,7 @@
       "TotalOut": 9.0,
       "SellPrice": 1750.0,
       "Cost": 1583.3333333333333,
-      "LastClient": "",
+      "LastClient": "هةردي كروب-تؤري",
       "ProfitPerOne": 166.67,
       "ProfitRate": 10.53,
       "TotalStockValue": 216916.67
@@ -3895,7 +3895,7 @@
       "TotalOut": 53.0,
       "SellPrice": 2500.0,
       "Cost": 2250.0,
-      "LastClient": "",
+      "LastClient": "4.كومبانياي سةفرة مانيزان",
       "ProfitPerOne": 250.0,
       "ProfitRate": 11.11,
       "TotalStockValue": 40500.0
@@ -3959,7 +3959,7 @@
       "TotalOut": 49.0,
       "SellPrice": 3750.0,
       "Cost": 3375.0,
-      "LastClient": "",
+      "LastClient": "4.كومبانياي سةفرة مانيزان",
       "ProfitPerOne": 375.0,
       "ProfitRate": 11.11,
       "TotalStockValue": 30375.0
@@ -4714,7 +4714,7 @@
       "TotalOut": 4.0,
       "SellPrice": 6000.0,
       "Cost": 4467.6,
-      "LastClient": "",
+      "LastClient": "ليمؤن-ناومالة-سليماني",
       "ProfitPerOne": 1532.4,
       "ProfitRate": 34.3,
       "TotalStockValue": 98287.2
@@ -4746,7 +4746,7 @@
       "TotalOut": 0.0,
       "SellPrice": 3500.0,
       "Cost": 2668.1499999999996,
-      "LastClient": "",
+      "LastClient": "ليمؤن-ناومالة-سليماني",
       "ProfitPerOne": 831.85,
       "ProfitRate": 31.18,
       "TotalStockValue": 96053.4
@@ -5049,7 +5049,7 @@
       "TotalOut": 74.0,
       "SellPrice": 1750.0,
       "Cost": 1550.0,
-      "LastClient": "",
+      "LastClient": "نورهات-ئيتي-دينار",
       "ProfitPerOne": 200.0,
       "ProfitRate": 12.9,
       "TotalStockValue": 66650.0
@@ -5158,7 +5158,7 @@
       "TotalOut": 9.0,
       "SellPrice": 2250.0,
       "Cost": 2025.0,
-      "LastClient": "",
+      "LastClient": "نورهات-ئيتي-دينار",
       "ProfitPerOne": 225.0,
       "ProfitRate": 11.11,
       "TotalStockValue": 48600.0
@@ -6043,7 +6043,7 @@
       "TotalOut": 24.0,
       "SellPrice": 1750.0,
       "Cost": 1537.5,
-      "LastClient": "",
+      "LastClient": "كؤكاي مارينا-جلال كلارة-",
       "ProfitPerOne": 212.5,
       "ProfitRate": 13.82,
       "TotalStockValue": 39975.0
@@ -6123,7 +6123,7 @@
       "TotalOut": 3.0,
       "SellPrice": 8000.0,
       "Cost": 7200.0,
-      "LastClient": "",
+      "LastClient": "دابةشكاري جاي محمود-بشوو--دينار",
       "ProfitPerOne": 800.0,
       "ProfitRate": 11.11,
       "TotalStockValue": 129600.0
@@ -7978,7 +7978,7 @@
       "TotalOut": 37.597200000000008,
       "SellPrice": 8000.0,
       "Cost": 6500.0,
-      "LastClient": "",
+      "LastClient": "5-فرؤشكاي ئازاد-جةرةزات-كةلار",
       "ProfitPerOne": 1500.0,
       "ProfitRate": 23.08,
       "TotalStockValue": 64946.7
@@ -8074,7 +8074,7 @@
       "TotalOut": 67.4809,
       "SellPrice": 12500.0,
       "Cost": 11500.0,
-      "LastClient": "",
+      "LastClient": "5-فرؤشكاي ئازاد-جةرةزات-كةلار",
       "ProfitPerOne": 1000.0,
       "ProfitRate": 8.7,
       "TotalStockValue": 408367.3
@@ -8159,7 +8159,7 @@
       "TotalOut": 24.887500000000003,
       "SellPrice": 14000.0,
       "Cost": 10000.0,
-      "LastClient": "",
+      "LastClient": "5-فرؤشكاي ئازاد-جةرةزات-كةلار",
       "ProfitPerOne": 4000.0,
       "ProfitRate": 40.0,
       "TotalStockValue": 151593.0
@@ -8175,7 +8175,7 @@
       "TotalOut": 22.091700000000003,
       "SellPrice": 11000.0,
       "Cost": 9500.0,
-      "LastClient": "",
+      "LastClient": "5-فرؤشكاي ئازاد-جةرةزات-كةلار",
       "ProfitPerOne": 1500.0,
       "ProfitRate": 15.79,
       "TotalStockValue": 119195.55
@@ -8541,7 +8541,7 @@
       "TotalOut": 62.178499999999957,
       "SellPrice": 20000.0,
       "Cost": 15000.0,
-      "LastClient": "",
+      "LastClient": "شةدهان عةدنان-بةنير و كيمر",
       "ProfitPerOne": 5000.0,
       "ProfitRate": 33.33,
       "TotalStockValue": 43851.0
@@ -8557,7 +8557,7 @@
       "TotalOut": 131.90560000000002,
       "SellPrice": 4000.0,
       "Cost": 3000.0,
-      "LastClient": "",
+      "LastClient": "شةدهان عةدنان-بةنير و كيمر",
       "ProfitPerOne": 1000.0,
       "ProfitRate": 33.33,
       "TotalStockValue": 244.2
@@ -8842,7 +8842,7 @@
       "TotalOut": 126.0,
       "SellPrice": 1750.0,
       "Cost": 1500.0,
-      "LastClient": "",
+      "LastClient": "عبد-شار",
       "ProfitPerOne": 250.0,
       "ProfitRate": 16.67,
       "TotalStockValue": 312000.0
@@ -13116,7 +13116,7 @@
       "TotalOut": 11.0,
       "SellPrice": 4000.0,
       "Cost": 3400.0,
-      "LastClient": "",
+      "LastClient": "6-كوكاي محمد \\ بسكيت",
       "ProfitPerOne": 600.0,
       "ProfitRate": 17.65,
       "TotalStockValue": 98600.0
@@ -13234,7 +13234,7 @@
       "TotalOut": 19.0,
       "SellPrice": 1250.0,
       "Cost": 500.0,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ابو محمد-م.مسعود ",
       "ProfitPerOne": 750.0,
       "ProfitRate": 150.0,
       "TotalStockValue": 12500.0
@@ -13266,7 +13266,7 @@
       "TotalOut": 0.0,
       "SellPrice": 69000.0,
       "Cost": 58500.0,
-      "LastClient": "",
+      "LastClient": "كةنجينةي فريدون-نةوال-دينار",
       "ProfitPerOne": 10500.0,
       "ProfitRate": 17.95,
       "TotalStockValue": 292500.0
@@ -13526,7 +13526,7 @@
       "TotalOut": 43.0,
       "SellPrice": 2250.0,
       "Cost": 2000.0,
-      "LastClient": "",
+      "LastClient": "كولدين ميلك / كالة",
       "ProfitPerOne": 250.0,
       "ProfitRate": 12.5,
       "TotalStockValue": 26000.0
@@ -13926,7 +13926,7 @@
       "TotalOut": 17.0,
       "SellPrice": 1000.0,
       "Cost": 817.6,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي بةندةر-ناومالة سليماني",
       "ProfitPerOne": 182.4,
       "ProfitRate": 22.31,
       "TotalStockValue": 122640.0
@@ -15597,7 +15597,7 @@
       "TotalOut": 47.0,
       "SellPrice": 3000.0,
       "Cost": 2250.0,
-      "LastClient": "",
+      "LastClient": "شركه ايفار بغداد/عبدشار",
       "ProfitPerOne": 750.0,
       "ProfitRate": 33.33,
       "TotalStockValue": 693000.0
@@ -16348,7 +16348,7 @@
       "TotalOut": 44.0,
       "SellPrice": 1250.0,
       "Cost": 1100.0,
-      "LastClient": "",
+      "LastClient": "ناني تيري-ئاية",
       "ProfitPerOne": 150.0,
       "ProfitRate": 13.64,
       "TotalStockValue": 72600.0
@@ -16364,7 +16364,7 @@
       "TotalOut": 69.0,
       "SellPrice": 1000.0,
       "Cost": 850.0,
-      "LastClient": "",
+      "LastClient": "ناني تيري-ئاية",
       "ProfitPerOne": 150.0,
       "ProfitRate": 17.65,
       "TotalStockValue": 62050.0
@@ -16447,7 +16447,7 @@
       "TotalOut": 47.0,
       "SellPrice": 2250.0,
       "Cost": 2020.8333333333333,
-      "LastClient": "",
+      "LastClient": "4.كومبانياي سةفرة مانيزان",
       "ProfitPerOne": 229.17,
       "ProfitRate": 11.34,
       "TotalStockValue": 117208.33
@@ -16496,7 +16496,7 @@
       "TotalOut": 71.0,
       "SellPrice": 2500.0,
       "Cost": 2250.0,
-      "LastClient": "",
+      "LastClient": "4.كومبانياي سةفرة مانيزان",
       "ProfitPerOne": 250.0,
       "ProfitRate": 11.11,
       "TotalStockValue": 27000.0
@@ -16831,7 +16831,7 @@
       "TotalOut": 5.0,
       "SellPrice": 2500.0,
       "Cost": 2291.6666666666665,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي البة-ميرسين دينار-حسين",
       "ProfitPerOne": 208.33,
       "ProfitRate": 9.09,
       "TotalStockValue": 48125.0
@@ -17425,7 +17425,7 @@
       "TotalOut": 30.0,
       "SellPrice": 2250.0,
       "Cost": 1850.0,
-      "LastClient": "",
+      "LastClient": "6-كوكاي محمد \\ بسكيت",
       "ProfitPerOne": 400.0,
       "ProfitRate": 21.62,
       "TotalStockValue": 70300.0
@@ -17847,7 +17847,7 @@
       "TotalOut": 289.0,
       "SellPrice": 3250.0,
       "Cost": 3083.3333333333335,
-      "LastClient": "",
+      "LastClient": "هةردي كروب-تؤري",
       "ProfitPerOne": 166.67,
       "ProfitRate": 5.41,
       "TotalStockValue": 1073000.0
@@ -18406,7 +18406,7 @@
       "TotalOut": 0.0,
       "SellPrice": 6000.0,
       "Cost": 4500.0,
-      "LastClient": "",
+      "LastClient": "فروشكاى راويز ناومالة",
       "ProfitPerOne": 1500.0,
       "ProfitRate": 33.33,
       "TotalStockValue": 265500.0
@@ -18981,7 +18981,7 @@
       "TotalOut": 0.0,
       "SellPrice": 1000.0,
       "Cost": 750.0,
-      "LastClient": "",
+      "LastClient": "مخزن بهاءالدين-سليماني",
       "ProfitPerOne": 250.0,
       "ProfitRate": 33.33,
       "TotalStockValue": 27750.0
@@ -19287,7 +19287,7 @@
       "TotalOut": 62.0,
       "SellPrice": 6500.0,
       "Cost": 5800.0,
-      "LastClient": "",
+      "LastClient": "4.كومبانياي سةفرة مانيزان",
       "ProfitPerOne": 700.0,
       "ProfitRate": 12.07,
       "TotalStockValue": 75400.0
@@ -20512,7 +20512,7 @@
       "TotalOut": 48.0,
       "SellPrice": 1500.0,
       "Cost": 1250.0,
-      "LastClient": "",
+      "LastClient": "4.كومبانياي سةفرة مانيزان",
       "ProfitPerOne": 250.0,
       "ProfitRate": 20.0,
       "TotalStockValue": 52500.0
@@ -21218,7 +21218,7 @@
       "TotalOut": 38.0,
       "SellPrice": 2000.0,
       "Cost": 1500.0,
-      "LastClient": "",
+      "LastClient": "فروشكاى راويز ناومالة",
       "ProfitPerOne": 500.0,
       "ProfitRate": 33.33,
       "TotalStockValue": 343500.0
@@ -21699,7 +21699,7 @@
       "TotalOut": 12.0,
       "SellPrice": 1000.0,
       "Cost": 686.19999999999993,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي بةندةر-ناومالة سليماني",
       "ProfitPerOne": 313.8,
       "ProfitRate": 45.73,
       "TotalStockValue": 207918.6
@@ -22224,7 +22224,7 @@
       "TotalOut": 117.0,
       "SellPrice": 2500.0,
       "Cost": 2250.0,
-      "LastClient": "",
+      "LastClient": "4.كومبانياي سةفرة مانيزان",
       "ProfitPerOne": 250.0,
       "ProfitRate": 11.11,
       "TotalStockValue": 27000.0
@@ -22504,7 +22504,7 @@
       "TotalOut": 8.3401000000000014,
       "SellPrice": 6000.0,
       "Cost": 4000.0,
-      "LastClient": "",
+      "LastClient": "5-فرؤشكاي ئازاد-جةرةزات-كةلار",
       "ProfitPerOne": 2000.0,
       "ProfitRate": 50.0,
       "TotalStockValue": 21031.6
@@ -23093,7 +23093,7 @@
       "TotalOut": 130.0,
       "SellPrice": 2500.0,
       "Cost": 2250.0,
-      "LastClient": "",
+      "LastClient": "فروشكاى راويز ناومالة",
       "ProfitPerOne": 250.0,
       "ProfitRate": 11.11,
       "TotalStockValue": 603000.0
@@ -23160,7 +23160,7 @@
       "TotalOut": 13.0,
       "SellPrice": 10000.0,
       "Cost": 8250.0,
-      "LastClient": "",
+      "LastClient": "فروشكاى راويز ناومالة",
       "ProfitPerOne": 1750.0,
       "ProfitRate": 21.21,
       "TotalStockValue": 231000.0
@@ -23177,7 +23177,7 @@
       "TotalOut": 6.0,
       "SellPrice": 7000.0,
       "Cost": 6250.0,
-      "LastClient": "",
+      "LastClient": "فروشكاى راويز ناومالة",
       "ProfitPerOne": 750.0,
       "ProfitRate": 12.0,
       "TotalStockValue": 143750.0
@@ -24123,7 +24123,7 @@
       "TotalOut": 2.0,
       "SellPrice": 1500.0,
       "Cost": 1034.1666666666667,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي بةندةر-ناومالة سليماني",
       "ProfitPerOne": 465.83,
       "ProfitRate": 45.04,
       "TotalStockValue": 53776.67
@@ -24363,7 +24363,7 @@
       "TotalOut": 22.0,
       "SellPrice": 3500.0,
       "Cost": 3083.3333333333335,
-      "LastClient": "",
+      "LastClient": "6-كوكاي محمد \\ بسكيت",
       "ProfitPerOne": 416.67,
       "ProfitRate": 13.51,
       "TotalStockValue": 24666.67
@@ -24551,7 +24551,7 @@
       "TotalOut": 0.0,
       "SellPrice": 5000.0,
       "Cost": 4080.0000000000005,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ميهران-سليماني",
       "ProfitPerOne": 920.0,
       "ProfitRate": 22.55,
       "TotalStockValue": 20400.0
@@ -24567,7 +24567,7 @@
       "TotalOut": 0.0,
       "SellPrice": 5500.0,
       "Cost": 4590.0,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ميهران-سليماني",
       "ProfitPerOne": 910.0,
       "ProfitRate": 19.83,
       "TotalStockValue": 22950.0
@@ -25620,7 +25620,7 @@
       "TotalOut": 6.0,
       "SellPrice": 3000.0,
       "Cost": 2500.0,
-      "LastClient": "",
+      "LastClient": "نبع الرحمة-عبدالرزاق صباح-دينار",
       "ProfitPerOne": 500.0,
       "ProfitRate": 20.0,
       "TotalStockValue": 32500.0
@@ -26678,7 +26678,7 @@
       "TotalOut": 6.0,
       "SellPrice": 8000.0,
       "Cost": 7500.0,
-      "LastClient": "",
+      "LastClient": "زانياركريم -كؤكاي موبين-",
       "ProfitPerOne": 500.0,
       "ProfitRate": 6.67,
       "TotalStockValue": 112500.0
@@ -27184,7 +27184,7 @@
       "TotalOut": 1.0,
       "SellPrice": 5000.0,
       "Cost": 4033.2499999999995,
-      "LastClient": "",
+      "LastClient": "ليمؤن-ناومالة-سليماني",
       "ProfitPerOne": 966.75,
       "ProfitRate": 23.97,
       "TotalStockValue": 120997.5
@@ -27680,7 +27680,7 @@
       "TotalOut": 38.0,
       "SellPrice": 1000.0,
       "Cost": 803.00000000000011,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي بةندةر-ناومالة سليماني",
       "ProfitPerOne": 197.0,
       "ProfitRate": 24.53,
       "TotalStockValue": 93951.0
@@ -28296,7 +28296,7 @@
       "TotalOut": 95.0168,
       "SellPrice": 1000.0,
       "Cost": 500.0,
-      "LastClient": "",
+      "LastClient": "11كؤشت بةرخ- كاك احمد 2",
       "ProfitPerOne": 500.0,
       "ProfitRate": 100.0,
       "TotalStockValue": 10616.6
@@ -28741,7 +28741,7 @@
       "TotalOut": 67.0,
       "SellPrice": 1750.0,
       "Cost": 1416.6666666666667,
-      "LastClient": "",
+      "LastClient": "هةردي كروب-تؤري",
       "ProfitPerOne": 333.33,
       "ProfitRate": 23.53,
       "TotalStockValue": 854250.0
@@ -28896,7 +28896,7 @@
       "TotalOut": 0.0,
       "SellPrice": 8500.0,
       "Cost": 6516.4666666666672,
-      "LastClient": "",
+      "LastClient": "ليمؤن-ناومالة-سليماني",
       "ProfitPerOne": 1983.53,
       "ProfitRate": 30.44,
       "TotalStockValue": 58648.2
@@ -28929,7 +28929,7 @@
       "TotalOut": 1.0,
       "SellPrice": 4000.0,
       "Cost": 3102.5,
-      "LastClient": "",
+      "LastClient": "ليمؤن-ناومالة-سليماني",
       "ProfitPerOne": 897.5,
       "ProfitRate": 28.93,
       "TotalStockValue": 86870.0
@@ -29062,7 +29062,7 @@
       "TotalOut": 1.0,
       "SellPrice": 5000.0,
       "Cost": 3723.0000000000005,
-      "LastClient": "",
+      "LastClient": "ليمؤن-ناومالة-سليماني",
       "ProfitPerOne": 1277.0,
       "ProfitRate": 34.3,
       "TotalStockValue": 59568.0
@@ -29162,7 +29162,7 @@
       "TotalOut": 3.0,
       "SellPrice": 3000.0,
       "Cost": 2358.75,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ميهران-سليماني",
       "ProfitPerOne": 641.25,
       "ProfitRate": 27.19,
       "TotalStockValue": 54251.25
@@ -29262,7 +29262,7 @@
       "TotalOut": 45.0,
       "SellPrice": 500.0,
       "Cost": 400.0,
-      "LastClient": "",
+      "LastClient": "4.كومبانياي سةفرة مانيزان",
       "ProfitPerOne": 100.0,
       "ProfitRate": 25.0,
       "TotalStockValue": 23600.0
@@ -29345,7 +29345,7 @@
       "TotalOut": 16.0,
       "SellPrice": 1500.0,
       "Cost": 833.33333333333337,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ابو محمد-م.مسعود ",
       "ProfitPerOne": 666.67,
       "ProfitRate": 80.0,
       "TotalStockValue": 20833.33
@@ -29364,7 +29364,7 @@
       "TotalOut": 7.0,
       "SellPrice": 1000.0,
       "Cost": 750.0,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ابو محمد-م.مسعود ",
       "ProfitPerOne": 250.0,
       "ProfitRate": 33.33,
       "TotalStockValue": 27750.0
@@ -29414,7 +29414,7 @@
       "TotalOut": 1.0,
       "SellPrice": 2000.0,
       "Cost": 1583.3333333333333,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ابو محمد-م.مسعود ",
       "ProfitPerOne": 416.67,
       "ProfitRate": 26.32,
       "TotalStockValue": 69666.67
@@ -29468,7 +29468,7 @@
       "TotalOut": 59.0,
       "SellPrice": 1000.0,
       "Cost": 666.66666666666663,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ابو محمد-م.مسعود ",
       "ProfitPerOne": 333.33,
       "ProfitRate": 50.0,
       "TotalStockValue": 104000.0
@@ -29972,7 +29972,7 @@
       "TotalOut": 9.0,
       "SellPrice": 3000.0,
       "Cost": 1833.3333333333333,
-      "LastClient": "",
+      "LastClient": "ئاراز كروب سليمانيه دينار",
       "ProfitPerOne": 1166.67,
       "ProfitRate": 63.64,
       "TotalStockValue": 205333.33
@@ -30202,7 +30202,7 @@
       "TotalOut": 5.0,
       "SellPrice": 2500.0,
       "Cost": 1551.25,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي بةندةر-ناومالة سليماني",
       "ProfitPerOne": 948.75,
       "ProfitRate": 61.16,
       "TotalStockValue": 24820.0
@@ -30358,7 +30358,7 @@
       "TotalOut": 0.0,
       "SellPrice": 18000.0,
       "Cost": 15000.0,
-      "LastClient": "",
+      "LastClient": "فروشكاى راويز ناومالة",
       "ProfitPerOne": 3000.0,
       "ProfitRate": 20.0,
       "TotalStockValue": 120000.0
@@ -30800,7 +30800,7 @@
       "TotalOut": 119.0,
       "SellPrice": 1750.0,
       "Cost": 1583.3333333333333,
-      "LastClient": "",
+      "LastClient": "هةردي كروب-تؤري",
       "ProfitPerOne": 166.67,
       "ProfitRate": 10.53,
       "TotalStockValue": 791666.67
@@ -31981,7 +31981,7 @@
       "TotalOut": 33.0,
       "SellPrice": 900.0,
       "Cost": 687.5,
-      "LastClient": "",
+      "LastClient": "زيد ميديا-دورو -ئيفي دينار",
       "ProfitPerOne": 212.5,
       "ProfitRate": 30.91,
       "TotalStockValue": 164312.5
@@ -33512,7 +33512,7 @@
       "TotalOut": 2.0,
       "SellPrice": 5000.0,
       "Cost": 4033.6555555555551,
-      "LastClient": "",
+      "LastClient": "ليمؤن-ناومالة-سليماني",
       "ProfitPerOne": 966.34,
       "ProfitRate": 23.96,
       "TotalStockValue": 84706.77
@@ -35064,7 +35064,7 @@
       "TotalOut": 1.0,
       "SellPrice": 7500.0,
       "Cost": 5250.0,
-      "LastClient": "",
+      "LastClient": "مخزن بهاءالدين-سليماني",
       "ProfitPerOne": 2250.0,
       "ProfitRate": 42.86,
       "TotalStockValue": 131250.0
@@ -35373,7 +35373,7 @@
       "TotalOut": 43.0,
       "SellPrice": 1000.0,
       "Cost": 657.0,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي بةندةر-ناومالة سليماني",
       "ProfitPerOne": 343.0,
       "ProfitRate": 52.21,
       "TotalStockValue": 47304.0
@@ -36112,7 +36112,7 @@
       "TotalOut": 20.0,
       "SellPrice": 1750.0,
       "Cost": 1500.0,
-      "LastClient": "",
+      "LastClient": "ساحل العراق / بكاه",
       "ProfitPerOne": 250.0,
       "ProfitRate": 16.67,
       "TotalStockValue": 99000.0
@@ -36646,7 +36646,7 @@
       "TotalOut": 6.0,
       "SellPrice": 2000.0,
       "Cost": 1500.0,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ابو محمد-م.مسعود ",
       "ProfitPerOne": 500.0,
       "ProfitRate": 33.33,
       "TotalStockValue": 25500.0
@@ -37140,7 +37140,7 @@
       "TotalOut": 1.0,
       "SellPrice": 5500.0,
       "Cost": 4000.0,
-      "LastClient": "",
+      "LastClient": "بيشانكاو كةنجينةي MHD-سليماني",
       "ProfitPerOne": 1500.0,
       "ProfitRate": 37.5,
       "TotalStockValue": 252000.0
@@ -37294,7 +37294,7 @@
       "TotalOut": 1.0,
       "SellPrice": 6500.0,
       "Cost": 5100.0,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ميهران-سليماني",
       "ProfitPerOne": 1400.0,
       "ProfitRate": 27.45,
       "TotalStockValue": 76500.0
@@ -37310,7 +37310,7 @@
       "TotalOut": 0.0,
       "SellPrice": 10000.0,
       "Cost": 7756.25,
-      "LastClient": "",
+      "LastClient": "ليمؤن-ناومالة-سليماني",
       "ProfitPerOne": 2243.75,
       "ProfitRate": 28.93,
       "TotalStockValue": 77562.5
@@ -37375,7 +37375,7 @@
       "TotalOut": 5.0,
       "SellPrice": 25000.0,
       "Cost": 21420.0,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ميهران-سليماني",
       "ProfitPerOne": 3580.0,
       "ProfitRate": 16.71,
       "TotalStockValue": 406980.0
@@ -37773,7 +37773,7 @@
       "TotalOut": 24.0,
       "SellPrice": 4500.0,
       "Cost": 3250.0,
-      "LastClient": "",
+      "LastClient": "شركه ايفار بغداد/عبدشار",
       "ProfitPerOne": 1250.0,
       "ProfitRate": 38.46,
       "TotalStockValue": 624000.0
@@ -37907,7 +37907,7 @@
       "TotalOut": 4.0,
       "SellPrice": 12000.0,
       "Cost": 8500.0,
-      "LastClient": "",
+      "LastClient": "بيشانكاي هيلين-سليماني",
       "ProfitPerOne": 3500.0,
       "ProfitRate": 41.18,
       "TotalStockValue": 1309000.0
@@ -38285,7 +38285,7 @@
       "TotalOut": 11.0,
       "SellPrice": 1000.0,
       "Cost": 583.33333333333337,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ابو محمد-م.مسعود ",
       "ProfitPerOne": 416.67,
       "ProfitRate": 71.43,
       "TotalStockValue": 8166.67
@@ -38654,7 +38654,7 @@
       "TotalOut": 9.0007999999999981,
       "SellPrice": 1500.0,
       "Cost": 1000.0,
-      "LastClient": "",
+      "LastClient": "كؤشت كويرةكة شار-كاك احمد",
       "ProfitPerOne": 500.0,
       "ProfitRate": 50.0,
       "TotalStockValue": 31298.2
@@ -38789,7 +38789,7 @@
       "TotalOut": 28.0,
       "SellPrice": 1000.0,
       "Cost": 666.66666666666663,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ابو محمد-م.مسعود ",
       "ProfitPerOne": 333.33,
       "ProfitRate": 50.0,
       "TotalStockValue": 40000.0
@@ -39687,7 +39687,7 @@
       "TotalOut": 6.0,
       "SellPrice": 1500.0,
       "Cost": 1178.95,
-      "LastClient": "",
+      "LastClient": "ليمؤن-ناومالة-سليماني",
       "ProfitPerOne": 321.05,
       "ProfitRate": 27.23,
       "TotalStockValue": 30652.7
@@ -39719,7 +39719,7 @@
       "TotalOut": 0.0,
       "SellPrice": 1250.0,
       "Cost": 930.75000000000011,
-      "LastClient": "",
+      "LastClient": "ليمؤن-ناومالة-سليماني",
       "ProfitPerOne": 319.25,
       "ProfitRate": 34.3,
       "TotalStockValue": 30714.75
@@ -39783,7 +39783,7 @@
       "TotalOut": 1.0,
       "SellPrice": 1750.0,
       "Cost": 1116.9,
-      "LastClient": "",
+      "LastClient": "ليمؤن-ناومالة-سليماني",
       "ProfitPerOne": 633.1,
       "ProfitRate": 56.68,
       "TotalStockValue": 26805.6
@@ -39864,7 +39864,7 @@
       "TotalOut": 5.0,
       "SellPrice": 1500.0,
       "Cost": 1116.9,
-      "LastClient": "",
+      "LastClient": "ليمؤن-ناومالة-سليماني",
       "ProfitPerOne": 383.1,
       "ProfitRate": 34.3,
       "TotalStockValue": 42442.2
@@ -40472,7 +40472,7 @@
       "TotalOut": 3.0,
       "SellPrice": 4000.0,
       "Cost": 2869.1666666666665,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ميهران-سليماني",
       "ProfitPerOne": 1130.83,
       "ProfitRate": 39.41,
       "TotalStockValue": 60252.5
@@ -40870,7 +40870,7 @@
       "TotalOut": 4.0,
       "SellPrice": 1500.0,
       "Cost": 1250.0,
-      "LastClient": "",
+      "LastClient": "كومبانياي حسن باقي- سن ايج",
       "ProfitPerOne": 250.0,
       "ProfitRate": 20.0,
       "TotalStockValue": 18750.0
@@ -40886,7 +40886,7 @@
       "TotalOut": 0.0,
       "SellPrice": 2000.0,
       "Cost": 1250.0,
-      "LastClient": "",
+      "LastClient": "كةمالياتي يادكار-سليماني",
       "ProfitPerOne": 750.0,
       "ProfitRate": 60.0,
       "TotalStockValue": 77500.0
@@ -40988,7 +40988,7 @@
       "TotalOut": 21.0,
       "SellPrice": 2000.0,
       "Cost": 1666.6666666666667,
-      "LastClient": "",
+      "LastClient": "شركة الامين-كؤلدستار",
       "ProfitPerOne": 333.33,
       "ProfitRate": 20.0,
       "TotalStockValue": 25000.0
@@ -41102,7 +41102,7 @@
       "TotalOut": 19.0,
       "SellPrice": 1000.0,
       "Cost": 625.0,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ابو محمد-م.مسعود ",
       "ProfitPerOne": 375.0,
       "ProfitRate": 60.0,
       "TotalStockValue": 6875.0
@@ -41392,7 +41392,7 @@
       "TotalOut": 1.0,
       "SellPrice": 56000.0,
       "Cost": 49000.0,
-      "LastClient": "",
+      "LastClient": "كةنجينةي فريدون-نةوال-دينار",
       "ProfitPerOne": 7000.0,
       "ProfitRate": 14.29,
       "TotalStockValue": 294000.0
@@ -42135,7 +42135,7 @@
       "TotalOut": 1.0,
       "SellPrice": 7000.0,
       "Cost": 6250.0,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي البة-ميرسين دينار-حسين",
       "ProfitPerOne": 750.0,
       "ProfitRate": 12.0,
       "TotalStockValue": 81250.0
@@ -42592,7 +42592,7 @@
       "TotalOut": 87.0,
       "SellPrice": 2500.0,
       "Cost": 2166.6666666666665,
-      "LastClient": "",
+      "LastClient": "هةردي كروب-تؤري",
       "ProfitPerOne": 333.33,
       "ProfitRate": 15.38,
       "TotalStockValue": 799500.0
@@ -42706,7 +42706,7 @@
       "TotalOut": 6.0,
       "SellPrice": 1500.0,
       "Cost": 1300.0,
-      "LastClient": "",
+      "LastClient": "ساحل العراق / بكاه",
       "ProfitPerOne": 200.0,
       "ProfitRate": 15.38,
       "TotalStockValue": 16900.0
@@ -43113,7 +43113,7 @@
       "TotalOut": 1036.4651000000001,
       "SellPrice": 18750.0,
       "Cost": 17000.0,
-      "LastClient": "",
+      "LastClient": "11كؤشت بةرخ- كاك احمد 2",
       "ProfitPerOne": 1750.0,
       "ProfitRate": 10.29,
       "TotalStockValue": 3348017.4
@@ -43168,7 +43168,7 @@
       "TotalOut": 0.0,
       "SellPrice": 750.0,
       "Cost": 375.0,
-      "LastClient": "",
+      "LastClient": "مخزن بهاءالدين-سليماني",
       "ProfitPerOne": 375.0,
       "ProfitRate": 100.0,
       "TotalStockValue": 9750.0
@@ -44312,7 +44312,7 @@
       "TotalOut": 0.0,
       "SellPrice": 4000.0,
       "Cost": 2792.25,
-      "LastClient": "",
+      "LastClient": "ليمؤن-ناومالة-سليماني",
       "ProfitPerOne": 1207.75,
       "ProfitRate": 43.25,
       "TotalStockValue": 39091.5
@@ -44778,7 +44778,7 @@
       "TotalOut": 1.0,
       "SellPrice": 6500.0,
       "Cost": 4440.0,
-      "LastClient": "",
+      "LastClient": "كةنجينةي فريدون ليكزيكال-دؤلار",
       "ProfitPerOne": 2060.0,
       "ProfitRate": 46.4,
       "TotalStockValue": 106560.0
@@ -45038,7 +45038,7 @@
       "TotalOut": 1.0,
       "SellPrice": 9000.0,
       "Cost": 6750.0,
-      "LastClient": "",
+      "LastClient": "بؤشاكي h&h سليماني",
       "ProfitPerOne": 2250.0,
       "ProfitRate": 33.33,
       "TotalStockValue": 148500.0
@@ -45359,7 +45359,7 @@
       "TotalOut": 81.0,
       "SellPrice": 2500.0,
       "Cost": 2000.0,
-      "LastClient": "",
+      "LastClient": "زيد ميديا-دورو -ئيفي دينار",
       "ProfitPerOne": 500.0,
       "ProfitRate": 25.0,
       "TotalStockValue": 422000.0
@@ -46710,7 +46710,7 @@
       "TotalOut": 10.0,
       "SellPrice": 1000.0,
       "Cost": 627.8,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي بةندةر-ناومالة سليماني",
       "ProfitPerOne": 372.2,
       "ProfitRate": 59.29,
       "TotalStockValue": 61524.4
@@ -46777,7 +46777,7 @@
       "TotalOut": 1.0,
       "SellPrice": 46000.0,
       "Cost": 41500.0,
-      "LastClient": "",
+      "LastClient": "2-كوكاي ئالين+هاوار كروب",
       "ProfitPerOne": 4500.0,
       "ProfitRate": 10.84,
       "TotalStockValue": 207500.0
@@ -46827,7 +46827,7 @@
       "TotalOut": 1.0,
       "SellPrice": 31000.0,
       "Cost": 26640.0,
-      "LastClient": "",
+      "LastClient": "فروشكاى ئةزي ناومالة+دؤلار",
       "ProfitPerOne": 4360.0,
       "ProfitRate": 16.37,
       "TotalStockValue": 159840.0
@@ -46845,7 +46845,7 @@
       "TotalOut": 4.0,
       "SellPrice": 35000.0,
       "Cost": 31080.0,
-      "LastClient": "",
+      "LastClient": "فروشكاى ئةزي ناومالة+دؤلار",
       "ProfitPerOne": 3920.0,
       "ProfitRate": 12.61,
       "TotalStockValue": 279720.0
@@ -46878,7 +46878,7 @@
       "TotalOut": 1.0,
       "SellPrice": 44000.0,
       "Cost": 38480.0,
-      "LastClient": "",
+      "LastClient": "فروشكاى ئةزي ناومالة+دؤلار",
       "ProfitPerOne": 5520.0,
       "ProfitRate": 14.35,
       "TotalStockValue": 346320.0
@@ -47122,7 +47122,7 @@
       "TotalOut": 9.0,
       "SellPrice": 5000.0,
       "Cost": 4395.833333333333,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي نةورةس-دينار",
       "ProfitPerOne": 604.17,
       "ProfitRate": 13.74,
       "TotalStockValue": 70333.33
@@ -47493,7 +47493,7 @@
       "TotalOut": 9.0,
       "SellPrice": 1000.0,
       "Cost": 681.81818181818187,
-      "LastClient": "",
+      "LastClient": "2-كوكاي ئالين+هاوار كروب",
       "ProfitPerOne": 318.18,
       "ProfitRate": 46.67,
       "TotalStockValue": 96818.18
@@ -49324,7 +49324,7 @@
       "TotalOut": 6.0,
       "SellPrice": 4500.0,
       "Cost": 3843.75,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي البة-ميرسين دينار-حسين",
       "ProfitPerOne": 656.25,
       "ProfitRate": 17.07,
       "TotalStockValue": 73031.25
@@ -49356,7 +49356,7 @@
       "TotalOut": 23.0,
       "SellPrice": 2000.0,
       "Cost": 1291.6666666666667,
-      "LastClient": "",
+      "LastClient": "شركه ايفار بغداد/عبدشار",
       "ProfitPerOne": 708.33,
       "ProfitRate": 54.84,
       "TotalStockValue": 215708.33
@@ -49372,7 +49372,7 @@
       "TotalOut": 5.0,
       "SellPrice": 2500.0,
       "Cost": 1458.3333333333333,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ابو محمد-م.مسعود ",
       "ProfitPerOne": 1041.67,
       "ProfitRate": 71.43,
       "TotalStockValue": 18958.33
@@ -49652,7 +49652,7 @@
       "TotalOut": 286.0,
       "SellPrice": 1000.0,
       "Cost": 716.66666666666663,
-      "LastClient": "",
+      "LastClient": "ئاراز كروب سليمانيه دينار",
       "ProfitPerOne": 283.33,
       "ProfitRate": 39.53,
       "TotalStockValue": 584083.33
@@ -49979,7 +49979,7 @@
       "TotalOut": 0.0,
       "SellPrice": 19000.0,
       "Cost": 12000.0,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ابو محمد-م.مسعود ",
       "ProfitPerOne": 7000.0,
       "ProfitRate": 58.33,
       "TotalStockValue": 216000.0
@@ -51430,7 +51430,7 @@
       "TotalOut": 6.0,
       "SellPrice": 1000.0,
       "Cost": 666.66666666666663,
-      "LastClient": "",
+      "LastClient": "مخزن بهاءالدين-سليماني",
       "ProfitPerOne": 333.33,
       "ProfitRate": 50.0,
       "TotalStockValue": 42000.0
@@ -54966,7 +54966,7 @@
       "TotalOut": 98.1649,
       "SellPrice": 11000.0,
       "Cost": 7000.0,
-      "LastClient": "",
+      "LastClient": "11كؤشت بةرخ- كاك احمد 2",
       "ProfitPerOne": 4000.0,
       "ProfitRate": 57.14,
       "TotalStockValue": 10248.7
@@ -55110,7 +55110,7 @@
       "TotalOut": 1.0,
       "SellPrice": 6500.0,
       "Cost": 4839.9,
-      "LastClient": "",
+      "LastClient": "ليمؤن-ناومالة-سليماني",
       "ProfitPerOne": 1660.1,
       "ProfitRate": 34.3,
       "TotalStockValue": 58078.8
@@ -56609,7 +56609,7 @@
       "TotalOut": 28.0,
       "SellPrice": 1000.0,
       "Cost": 525.0,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ابو محمد-م.مسعود ",
       "ProfitPerOne": 475.0,
       "ProfitRate": 90.48,
       "TotalStockValue": 23100.0
@@ -56890,7 +56890,7 @@
       "TotalOut": 7.0,
       "SellPrice": 3000.0,
       "Cost": 2500.0,
-      "LastClient": "",
+      "LastClient": "كومبانياي بيري-سليماني",
       "ProfitPerOne": 500.0,
       "ProfitRate": 20.0,
       "TotalStockValue": 25000.0
@@ -57605,7 +57605,7 @@
       "TotalOut": 0.0,
       "SellPrice": 3000.0,
       "Cost": 2295.85,
-      "LastClient": "",
+      "LastClient": "ليمؤن-ناومالة-سليماني",
       "ProfitPerOne": 704.15,
       "ProfitRate": 30.67,
       "TotalStockValue": 45917.0
@@ -57669,7 +57669,7 @@
       "TotalOut": 15.0,
       "SellPrice": 1500.0,
       "Cost": 1200.0,
-      "LastClient": "",
+      "LastClient": "كؤكاي بةهمةن-سحر معلبات",
       "ProfitPerOne": 300.0,
       "ProfitRate": 25.0,
       "TotalStockValue": 15600.0
@@ -58648,7 +58648,7 @@
       "TotalOut": 46.0,
       "SellPrice": 2000.0,
       "Cost": 1650.0,
-      "LastClient": "",
+      "LastClient": "شركة قلب الملوك-رةوا",
       "ProfitPerOne": 350.0,
       "ProfitRate": 21.21,
       "TotalStockValue": 326700.0
@@ -60049,7 +60049,7 @@
       "TotalOut": 0.0,
       "SellPrice": 4500.0,
       "Cost": 3506.25,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ميهران-سليماني",
       "ProfitPerOne": 993.75,
       "ProfitRate": 28.34,
       "TotalStockValue": 52593.75
@@ -61045,7 +61045,7 @@
       "TotalOut": 1.0,
       "SellPrice": 16000.0,
       "Cost": 12250.0,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ابو محمد-م.مسعود ",
       "ProfitPerOne": 3750.0,
       "ProfitRate": 30.61,
       "TotalStockValue": 61250.0
@@ -61707,7 +61707,7 @@
       "TotalOut": 17.0,
       "SellPrice": 3000.0,
       "Cost": 2604.1666666666665,
-      "LastClient": "",
+      "LastClient": "كومبانياي بيري-سليماني",
       "ProfitPerOne": 395.83,
       "ProfitRate": 15.2,
       "TotalStockValue": 36458.33
@@ -61760,7 +61760,7 @@
       "TotalOut": 12.0,
       "SellPrice": 1250.0,
       "Cost": 1000.0,
-      "LastClient": "",
+      "LastClient": "زانياركريم-طباخ",
       "ProfitPerOne": 250.0,
       "ProfitRate": 25.0,
       "TotalStockValue": 17000.0
@@ -62013,7 +62013,7 @@
       "TotalOut": 30.0,
       "SellPrice": 250.0,
       "Cost": 208.33333333333334,
-      "LastClient": "",
+      "LastClient": "نورفود-ماستةر ئيتي",
       "ProfitPerOne": 41.67,
       "ProfitRate": 20.0,
       "TotalStockValue": 13125.0
@@ -62412,7 +62412,7 @@
       "TotalOut": 11.0,
       "SellPrice": 5500.0,
       "Cost": 5093.75,
-      "LastClient": "",
+      "LastClient": "نورفود-ماستةر ئيتي",
       "ProfitPerOne": 406.25,
       "ProfitRate": 7.98,
       "TotalStockValue": 91687.5
@@ -65181,7 +65181,7 @@
       "TotalOut": 3.0,
       "SellPrice": 10000.0,
       "Cost": 8032.5000000000009,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ميهران-سليماني",
       "ProfitPerOne": 1967.5,
       "ProfitRate": 24.49,
       "TotalStockValue": 64260.0
@@ -65742,7 +65742,7 @@
       "TotalOut": 5.0,
       "SellPrice": 6000.0,
       "Cost": 5500.0,
-      "LastClient": "",
+      "LastClient": "ساحل العراق / بكاه",
       "ProfitPerOne": 500.0,
       "ProfitRate": 9.09,
       "TotalStockValue": 55000.0
@@ -66408,7 +66408,7 @@
       "TotalOut": 0.0,
       "SellPrice": 30000.0,
       "Cost": 21000.0,
-      "LastClient": "",
+      "LastClient": "بيشانكاي هيلين-سليماني",
       "ProfitPerOne": 9000.0,
       "ProfitRate": 42.86,
       "TotalStockValue": 273000.0
@@ -67285,7 +67285,7 @@
       "TotalOut": 0.0,
       "SellPrice": 1000.0,
       "Cost": 458.33333333333331,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ابو محمد-م.مسعود ",
       "ProfitPerOne": 541.67,
       "ProfitRate": 118.18,
       "TotalStockValue": 22916.67
@@ -67878,7 +67878,7 @@
       "TotalOut": 72.0,
       "SellPrice": 2000.0,
       "Cost": 1791.6666666666667,
-      "LastClient": "",
+      "LastClient": "زيد ميديا-دورو -ئيفي دينار",
       "ProfitPerOne": 208.33,
       "ProfitRate": 11.63,
       "TotalStockValue": 331458.33
@@ -68586,7 +68586,7 @@
       "TotalOut": 0.0,
       "SellPrice": 7000.0,
       "Cost": 5737.5,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ميهران-سليماني",
       "ProfitPerOne": 1262.5,
       "ProfitRate": 22.0,
       "TotalStockValue": 51637.5
@@ -69181,7 +69181,7 @@
       "TotalOut": 8.0,
       "SellPrice": 3000.0,
       "Cost": 2000.0,
-      "LastClient": "",
+      "LastClient": "كي جي عطور سليمانيه",
       "ProfitPerOne": 1000.0,
       "ProfitRate": 50.0,
       "TotalStockValue": 158000.0
@@ -69489,7 +69489,7 @@
       "TotalOut": 5.0,
       "SellPrice": 4000.0,
       "Cost": 3000.0,
-      "LastClient": "",
+      "LastClient": "شركه ايفار بغداد/عبدشار",
       "ProfitPerOne": 1000.0,
       "ProfitRate": 33.33,
       "TotalStockValue": 87000.0
@@ -69505,7 +69505,7 @@
       "TotalOut": 3.0,
       "SellPrice": 4000.0,
       "Cost": 3000.0,
-      "LastClient": "",
+      "LastClient": "ئاراز كروب سليمانيه دينار",
       "ProfitPerOne": 1000.0,
       "ProfitRate": 33.33,
       "TotalStockValue": 21000.0
@@ -69607,7 +69607,7 @@
       "TotalOut": 55.0,
       "SellPrice": 1250.0,
       "Cost": 1083.3333333333333,
-      "LastClient": "",
+      "LastClient": "شركة الجيد- KBB-شياو",
       "ProfitPerOne": 166.67,
       "ProfitRate": 15.38,
       "TotalStockValue": 58500.0
@@ -70199,7 +70199,7 @@
       "TotalOut": 0.0,
       "SellPrice": 5500.0,
       "Cost": 3576.6666666666665,
-      "LastClient": "",
+      "LastClient": "كةنجينةي فريدون ليكزيكال-دؤلار",
       "ProfitPerOne": 1923.33,
       "ProfitRate": 53.77,
       "TotalStockValue": 103723.33
@@ -70944,7 +70944,7 @@
       "TotalOut": 256.86099999999988,
       "SellPrice": 7500.0,
       "Cost": 5500.0,
-      "LastClient": "",
+      "LastClient": "12مريشك فرؤشي  حاجي",
       "ProfitPerOne": 2000.0,
       "ProfitRate": 36.36,
       "TotalStockValue": 156399.65
@@ -71548,7 +71548,7 @@
       "TotalOut": 24.0,
       "SellPrice": 1000.0,
       "Cost": 833.33333333333337,
-      "LastClient": "",
+      "LastClient": "كولدين ميلك / كالة",
       "ProfitPerOne": 166.67,
       "ProfitRate": 20.0,
       "TotalStockValue": 75000.0
@@ -71856,7 +71856,7 @@
       "TotalOut": 0.0,
       "SellPrice": 6000.0,
       "Cost": 4272.5,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ميهران-سليماني",
       "ProfitPerOne": 1727.5,
       "ProfitRate": 40.43,
       "TotalStockValue": 29907.5
@@ -72479,7 +72479,7 @@
       "TotalOut": 1.0,
       "SellPrice": 8000.0,
       "Cost": 3750.0,
-      "LastClient": "",
+      "LastClient": "محمد البغدادي موبايلات عبد",
       "ProfitPerOne": 4250.0,
       "ProfitRate": 113.33,
       "TotalStockValue": 26250.0
@@ -72771,7 +72771,7 @@
       "TotalOut": 307.0,
       "SellPrice": 7000.0,
       "Cost": 6500.0,
-      "LastClient": "",
+      "LastClient": "هةردي كروب-تؤري",
       "ProfitPerOne": 500.0,
       "ProfitRate": 7.69,
       "TotalStockValue": 4361500.0
@@ -72887,7 +72887,7 @@
       "TotalOut": 6.0,
       "SellPrice": 29750.0,
       "Cost": 28000.0,
-      "LastClient": "",
+      "LastClient": "2-كوكاي ئالين+هاوار كروب",
       "ProfitPerOne": 1750.0,
       "ProfitRate": 6.25,
       "TotalStockValue": 420000.0
@@ -73316,7 +73316,7 @@
       "TotalOut": 85.0,
       "SellPrice": 1000.0,
       "Cost": 633.33333333333337,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ابو محمد-م.مسعود ",
       "ProfitPerOne": 366.67,
       "ProfitRate": 57.89,
       "TotalStockValue": 219133.33
@@ -73515,7 +73515,7 @@
       "TotalOut": 1.0,
       "SellPrice": 1000.0,
       "Cost": 583.33333333333337,
-      "LastClient": "",
+      "LastClient": "ئاراز كروب سليمانيه دينار",
       "ProfitPerOne": 416.67,
       "ProfitRate": 71.43,
       "TotalStockValue": 50166.67
@@ -73810,7 +73810,7 @@
       "TotalOut": 4.0,
       "SellPrice": 1500.0,
       "Cost": 1291.6666666666667,
-      "LastClient": "",
+      "LastClient": "نبع الرحمة-عبدالرزاق صباح-دينار",
       "ProfitPerOne": 208.33,
       "ProfitRate": 16.13,
       "TotalStockValue": 25833.33
@@ -74169,7 +74169,7 @@
       "TotalOut": 22.0,
       "SellPrice": 2000.0,
       "Cost": 1500.0,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ابو محمد-م.مسعود ",
       "ProfitPerOne": 500.0,
       "ProfitRate": 33.33,
       "TotalStockValue": 123000.0
@@ -74236,7 +74236,7 @@
       "TotalOut": 0.0,
       "SellPrice": 21000.0,
       "Cost": 17760.0,
-      "LastClient": "",
+      "LastClient": "فروشكاى ئةزي ناومالة+دؤلار",
       "ProfitPerOne": 3240.0,
       "ProfitRate": 18.24,
       "TotalStockValue": 177600.0
@@ -74253,7 +74253,7 @@
       "TotalOut": 0.0,
       "SellPrice": 23000.0,
       "Cost": 19240.0,
-      "LastClient": "",
+      "LastClient": "فروشكاى ئةزي ناومالة+دؤلار",
       "ProfitPerOne": 3760.0,
       "ProfitRate": 19.54,
       "TotalStockValue": 192400.0
@@ -75601,7 +75601,7 @@
       "TotalOut": 19.0,
       "SellPrice": 3500.0,
       "Cost": 3023.8095238095239,
-      "LastClient": "",
+      "LastClient": "شركة قلب الملوك-رةوا",
       "ProfitPerOne": 476.19,
       "ProfitRate": 15.75,
       "TotalStockValue": 529166.67
@@ -75650,7 +75650,7 @@
       "TotalOut": 1.0,
       "SellPrice": 2000.0,
       "Cost": 1333.3333333333333,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ابو محمد-م.مسعود ",
       "ProfitPerOne": 666.67,
       "ProfitRate": 50.0,
       "TotalStockValue": 21333.33
@@ -76011,7 +76011,7 @@
       "TotalOut": 8.0,
       "SellPrice": 15750.0,
       "Cost": 14000.0,
-      "LastClient": "",
+      "LastClient": "زيد ميديا-دورو -ئيفي دينار",
       "ProfitPerOne": 1750.0,
       "ProfitRate": 12.5,
       "TotalStockValue": 252000.0
@@ -76043,7 +76043,7 @@
       "TotalOut": 12.0,
       "SellPrice": 15750.0,
       "Cost": 14000.0,
-      "LastClient": "",
+      "LastClient": "زيد ميديا-دورو -ئيفي دينار",
       "ProfitPerOne": 1750.0,
       "ProfitRate": 12.5,
       "TotalStockValue": 308000.0
@@ -80254,7 +80254,7 @@
       "TotalOut": 0.0,
       "SellPrice": 12000.0,
       "Cost": 9928.0,
-      "LastClient": "",
+      "LastClient": "ليمؤن-ناومالة-سليماني",
       "ProfitPerOne": 2072.0,
       "ProfitRate": 20.87,
       "TotalStockValue": 79424.0
@@ -80305,7 +80305,7 @@
       "TotalOut": 1.0,
       "SellPrice": 4000.0,
       "Cost": 2868.75,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ميهران-سليماني",
       "ProfitPerOne": 1131.25,
       "ProfitRate": 39.43,
       "TotalStockValue": 57375.0
@@ -80488,7 +80488,7 @@
       "TotalOut": 130.0,
       "SellPrice": 2000.0,
       "Cost": 1666.6666666666667,
-      "LastClient": "",
+      "LastClient": "هةردي كروب-تؤري",
       "ProfitPerOne": 333.33,
       "ProfitRate": 20.0,
       "TotalStockValue": 1196666.67
@@ -81026,7 +81026,7 @@
       "TotalOut": 2.0,
       "SellPrice": 3000.0,
       "Cost": 1000.0,
-      "LastClient": "",
+      "LastClient": "محمد البغدادي موبايلات عبد",
       "ProfitPerOne": 2000.0,
       "ProfitRate": 200.0,
       "TotalStockValue": 12000.0
@@ -81076,7 +81076,7 @@
       "TotalOut": 0.0,
       "SellPrice": 3500.0,
       "Cost": 1000.0,
-      "LastClient": "",
+      "LastClient": "محمد البغدادي موبايلات عبد",
       "ProfitPerOne": 2500.0,
       "ProfitRate": 250.0,
       "TotalStockValue": 7000.0
@@ -81175,7 +81175,7 @@
       "TotalOut": 172.69990000000004,
       "SellPrice": 4750.0,
       "Cost": 4000.0,
-      "LastClient": "",
+      "LastClient": "12مريشك فرؤشي  حاجي",
       "ProfitPerOne": 750.0,
       "ProfitRate": 18.75,
       "TotalStockValue": -8112.0
@@ -83137,7 +83137,7 @@
       "TotalOut": 26.0,
       "SellPrice": 2000.0,
       "Cost": 1750.0,
-      "LastClient": "",
+      "LastClient": "نبع الرحمة-عبدالرزاق صباح-دينار",
       "ProfitPerOne": 250.0,
       "ProfitRate": 14.29,
       "TotalStockValue": 15750.0
@@ -83230,7 +83230,7 @@
       "TotalOut": 10.0,
       "SellPrice": 2500.0,
       "Cost": 1500.0,
-      "LastClient": "",
+      "LastClient": "شركه ايفار بغداد/عبدشار",
       "ProfitPerOne": 1000.0,
       "ProfitRate": 66.67,
       "TotalStockValue": 63000.0
@@ -83643,7 +83643,7 @@
       "TotalOut": 87.0,
       "SellPrice": 2000.0,
       "Cost": 1529.4117647058824,
-      "LastClient": "",
+      "LastClient": "4.كومبانياي سةفرة مانيزان",
       "ProfitPerOne": 470.59,
       "ProfitRate": 30.77,
       "TotalStockValue": 41294.12
@@ -83660,7 +83660,7 @@
       "TotalOut": 111.0,
       "SellPrice": 1500.0,
       "Cost": 1205.8823529411766,
-      "LastClient": "",
+      "LastClient": "4.كومبانياي سةفرة مانيزان",
       "ProfitPerOne": 294.12,
       "ProfitRate": 24.39,
       "TotalStockValue": 77176.47
@@ -83823,7 +83823,7 @@
       "TotalOut": 0.0,
       "SellPrice": 15000.0,
       "Cost": 11840.0,
-      "LastClient": "",
+      "LastClient": "كةنجينةي فريدون ليكزيكال-دؤلار",
       "ProfitPerOne": 3160.0,
       "ProfitRate": 26.69,
       "TotalStockValue": 722240.0
@@ -83975,7 +83975,7 @@
       "TotalOut": 14.0,
       "SellPrice": 3000.0,
       "Cost": 1750.0,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ابو محمد-م.مسعود ",
       "ProfitPerOne": 1250.0,
       "ProfitRate": 71.43,
       "TotalStockValue": 52500.0
@@ -84072,7 +84072,7 @@
       "TotalOut": 4.0,
       "SellPrice": 4000.0,
       "Cost": 3040.45,
-      "LastClient": "",
+      "LastClient": "ليمؤن-ناومالة-سليماني",
       "ProfitPerOne": 959.55,
       "ProfitRate": 31.56,
       "TotalStockValue": 51687.65
@@ -84339,7 +84339,7 @@
       "TotalOut": 0.0,
       "SellPrice": 36000.0,
       "Cost": 29600.0,
-      "LastClient": "",
+      "LastClient": "فروشكاى ئةزي ناومالة+دؤلار",
       "ProfitPerOne": 6400.0,
       "ProfitRate": 21.62,
       "TotalStockValue": 207200.0
@@ -84371,7 +84371,7 @@
       "TotalOut": 0.0,
       "SellPrice": 44000.0,
       "Cost": 34780.0,
-      "LastClient": "",
+      "LastClient": "فروشكاى ئةزي ناومالة+دؤلار",
       "ProfitPerOne": 9220.0,
       "ProfitRate": 26.51,
       "TotalStockValue": 243460.0
@@ -84667,7 +84667,7 @@
       "TotalOut": 93.0,
       "SellPrice": 500.0,
       "Cost": 383.33333333333331,
-      "LastClient": "",
+      "LastClient": "شركة الجيد- KBB-شياو",
       "ProfitPerOne": 116.67,
       "ProfitRate": 30.43,
       "TotalStockValue": 22233.33
@@ -85061,7 +85061,7 @@
       "TotalOut": 30.0,
       "SellPrice": 750.0,
       "Cost": 500.0,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ابو محمد-م.مسعود ",
       "ProfitPerOne": 250.0,
       "ProfitRate": 50.0,
       "TotalStockValue": 18500.0
@@ -85236,7 +85236,7 @@
       "TotalOut": 2.0,
       "SellPrice": 8000.0,
       "Cost": 7166.666666666667,
-      "LastClient": "",
+      "LastClient": "كؤكاي مارينا-جلال كلارة-",
       "ProfitPerOne": 833.33,
       "ProfitRate": 11.63,
       "TotalStockValue": 64500.0
@@ -85780,7 +85780,7 @@
       "TotalOut": 5.0,
       "SellPrice": 4000.0,
       "Cost": 2250.0,
-      "LastClient": "",
+      "LastClient": "شركه ايفار بغداد/عبدشار",
       "ProfitPerOne": 1750.0,
       "ProfitRate": 77.78,
       "TotalStockValue": 76500.0
@@ -86152,7 +86152,7 @@
       "TotalOut": 3.0,
       "SellPrice": 15750.0,
       "Cost": 15000.0,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي مارد-دينار",
       "ProfitPerOne": 750.0,
       "ProfitRate": 5.0,
       "TotalStockValue": 45000.0
@@ -86411,7 +86411,7 @@
       "TotalOut": 9.0,
       "SellPrice": 2250.0,
       "Cost": 1737.4000000000003,
-      "LastClient": "",
+      "LastClient": "ليمؤن-ناومالة-سليماني",
       "ProfitPerOne": 512.6,
       "ProfitRate": 29.5,
       "TotalStockValue": 66021.2
@@ -86694,7 +86694,7 @@
       "TotalOut": 19.0,
       "SellPrice": 1000.0,
       "Cost": 772.0,
-      "LastClient": "",
+      "LastClient": "كؤكاي بةهمةن-سحر معلبات",
       "ProfitPerOne": 228.0,
       "ProfitRate": 29.53,
       "TotalStockValue": 15440.0
@@ -87160,7 +87160,7 @@
       "TotalOut": 114.0,
       "SellPrice": 2500.0,
       "Cost": 1916.6666666666667,
-      "LastClient": "",
+      "LastClient": "هةردي كروب-تؤري",
       "ProfitPerOne": 583.33,
       "ProfitRate": 30.43,
       "TotalStockValue": 1734583.33
@@ -88259,7 +88259,7 @@
       "TotalOut": 1.0,
       "SellPrice": 20000.0,
       "Cost": 10625.0,
-      "LastClient": "",
+      "LastClient": "عبد-شار",
       "ProfitPerOne": 9375.0,
       "ProfitRate": 88.24,
       "TotalStockValue": 616250.0
@@ -88510,7 +88510,7 @@
       "TotalOut": 0.0,
       "SellPrice": 3000.0,
       "Cost": 2250.0,
-      "LastClient": "",
+      "LastClient": "ئاراز كروب سليمانيه دينار",
       "ProfitPerOne": 750.0,
       "ProfitRate": 33.33,
       "TotalStockValue": 45000.0
@@ -89437,7 +89437,7 @@
       "TotalOut": 1.0,
       "SellPrice": 14000.0,
       "Cost": 10500.0,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ابو محمد-م.مسعود ",
       "ProfitPerOne": 3500.0,
       "ProfitRate": 33.33,
       "TotalStockValue": 94500.0
@@ -91749,7 +91749,7 @@
       "TotalOut": 12.0,
       "SellPrice": 4000.0,
       "Cost": 2416.6666666666665,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ابو محمد-م.مسعود ",
       "ProfitPerOne": 1583.33,
       "ProfitRate": 65.52,
       "TotalStockValue": 79750.0
@@ -92378,7 +92378,7 @@
       "TotalOut": 1.0,
       "SellPrice": 30000.0,
       "Cost": 24206.8,
-      "LastClient": "",
+      "LastClient": "ليمؤن-ناومالة-سليماني",
       "ProfitPerOne": 5793.2,
       "ProfitRate": 23.93,
       "TotalStockValue": 48413.6
@@ -93411,7 +93411,7 @@
       "TotalOut": 1.0,
       "SellPrice": 1500.0,
       "Cost": 1000.0,
-      "LastClient": "",
+      "LastClient": "ئاراز كروب سليمانيه دينار",
       "ProfitPerOne": 500.0,
       "ProfitRate": 50.0,
       "TotalStockValue": 12000.0
@@ -95281,7 +95281,7 @@
       "TotalOut": 1.0,
       "SellPrice": 23000.0,
       "Cost": 18304.75,
-      "LastClient": "",
+      "LastClient": "ليمؤن-ناومالة-سليماني",
       "ProfitPerOne": 4695.25,
       "ProfitRate": 25.65,
       "TotalStockValue": 146438.0
@@ -95713,7 +95713,7 @@
       "TotalOut": 70.0,
       "SellPrice": 1000.0,
       "Cost": 875.0,
-      "LastClient": "",
+      "LastClient": "شركة الجيد- KBB-شياو",
       "ProfitPerOne": 125.0,
       "ProfitRate": 14.29,
       "TotalStockValue": 70000.0
@@ -95922,7 +95922,7 @@
       "TotalOut": 1.0,
       "SellPrice": 3000.0,
       "Cost": 2520.8333333333335,
-      "LastClient": "",
+      "LastClient": "2-كوكاي ئالين+هاوار كروب",
       "ProfitPerOne": 479.17,
       "ProfitRate": 19.01,
       "TotalStockValue": 181500.0
@@ -96230,7 +96230,7 @@
       "TotalOut": 5.0,
       "SellPrice": 1750.0,
       "Cost": 1250.0,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ابو محمد-م.مسعود ",
       "ProfitPerOne": 500.0,
       "ProfitRate": 40.0,
       "TotalStockValue": 38750.0
@@ -96541,7 +96541,7 @@
       "TotalOut": 0.0,
       "SellPrice": 3500.0,
       "Cost": 2500.0,
-      "LastClient": "",
+      "LastClient": "مخزن بهاءالدين-سليماني",
       "ProfitPerOne": 1000.0,
       "ProfitRate": 40.0,
       "TotalStockValue": 112500.0
@@ -96854,7 +96854,7 @@
       "TotalOut": 6.0,
       "SellPrice": 1500.0,
       "Cost": 1200.0,
-      "LastClient": "",
+      "LastClient": "كؤكاي بةهمةن-سحر معلبات",
       "ProfitPerOne": 300.0,
       "ProfitRate": 25.0,
       "TotalStockValue": 14400.0
@@ -96934,7 +96934,7 @@
       "TotalOut": 5.0,
       "SellPrice": 10000.0,
       "Cost": 7500.0,
-      "LastClient": "",
+      "LastClient": "كةنجينةي فريدون-نةوال-دينار",
       "ProfitPerOne": 2500.0,
       "ProfitRate": 33.33,
       "TotalStockValue": 240000.0
@@ -96950,7 +96950,7 @@
       "TotalOut": 1.0,
       "SellPrice": 8000.0,
       "Cost": 6750.0,
-      "LastClient": "",
+      "LastClient": "كةنجينةي فريدون-نةوال-دينار",
       "ProfitPerOne": 1250.0,
       "ProfitRate": 18.52,
       "TotalStockValue": 162000.0
@@ -96966,7 +96966,7 @@
       "TotalOut": 2.0,
       "SellPrice": 9000.0,
       "Cost": 7750.0,
-      "LastClient": "",
+      "LastClient": "كةنجينةي فريدون-نةوال-دينار",
       "ProfitPerOne": 1250.0,
       "ProfitRate": 16.13,
       "TotalStockValue": 93000.0
@@ -97320,7 +97320,7 @@
       "TotalOut": 0.0,
       "SellPrice": 12000.0,
       "Cost": 9000.0,
-      "LastClient": "",
+      "LastClient": "جوملة فرؤشي رابةر-سليماني",
       "ProfitPerOne": 3000.0,
       "ProfitRate": 33.33,
       "TotalStockValue": 117000.0
@@ -97624,7 +97624,7 @@
       "TotalOut": 11.0,
       "SellPrice": 2000.0,
       "Cost": 1500.0,
-      "LastClient": "فروشكاي برايان - هؤشيار",
+      "LastClient": "ئاراز كروب سليمانيه دينار",
       "ProfitPerOne": 500.0,
       "ProfitRate": 33.33,
       "TotalStockValue": 34500.0
@@ -97821,7 +97821,7 @@
       "TotalOut": 16.0,
       "SellPrice": 2250.0,
       "Cost": 1750.0,
-      "LastClient": "",
+      "LastClient": "شيريني سويت هات-سليماني - فةرهاد",
       "ProfitPerOne": 500.0,
       "ProfitRate": 28.57,
       "TotalStockValue": 26250.0
@@ -98082,7 +98082,7 @@
       "TotalOut": 2.0,
       "SellPrice": 3500.0,
       "Cost": 2677.5,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ميهران-سليماني",
       "ProfitPerOne": 822.5,
       "ProfitRate": 30.72,
       "TotalStockValue": 32130.0
@@ -98376,7 +98376,7 @@
       "TotalOut": 23.0,
       "SellPrice": 3750.0,
       "Cost": 3000.0,
-      "LastClient": "",
+      "LastClient": "شركه ايفار بغداد/عبدشار",
       "ProfitPerOne": 750.0,
       "ProfitRate": 25.0,
       "TotalStockValue": 414000.0
@@ -100002,7 +100002,7 @@
       "TotalOut": 14.0,
       "SellPrice": 3000.0,
       "Cost": 2583.3333333333335,
-      "LastClient": "",
+      "LastClient": "شركة الامين-كؤلدستار",
       "ProfitPerOne": 416.67,
       "ProfitRate": 16.13,
       "TotalStockValue": 90416.67
@@ -100226,7 +100226,7 @@
       "TotalOut": 2.0,
       "SellPrice": 3500.0,
       "Cost": 2868.75,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ميهران-سليماني",
       "ProfitPerOne": 631.25,
       "ProfitRate": 22.0,
       "TotalStockValue": 48768.75
@@ -100242,7 +100242,7 @@
       "TotalOut": 1.0,
       "SellPrice": 3000.0,
       "Cost": 2295.0,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ميهران-سليماني",
       "ProfitPerOne": 705.0,
       "ProfitRate": 30.72,
       "TotalStockValue": 29835.0
@@ -100339,7 +100339,7 @@
       "TotalOut": 1.0,
       "SellPrice": 4000.0,
       "Cost": 3226.6,
-      "LastClient": "",
+      "LastClient": "ليمؤن-ناومالة-سليماني",
       "ProfitPerOne": 773.4,
       "ProfitRate": 23.97,
       "TotalStockValue": 90344.8
@@ -101088,7 +101088,7 @@
       "TotalOut": 13.0,
       "SellPrice": 40000.0,
       "Cost": 25000.0,
-      "LastClient": "",
+      "LastClient": "كؤشت كويرةكة شار-كاك احمد",
       "ProfitPerOne": 15000.0,
       "ProfitRate": 60.0,
       "TotalStockValue": 25000.0
@@ -101159,7 +101159,7 @@
       "TotalOut": 4.0,
       "SellPrice": 6000.0,
       "Cost": 5000.0,
-      "LastClient": "",
+      "LastClient": "سركةي ملا رؤوف-كةلار",
       "ProfitPerOne": 1000.0,
       "ProfitRate": 20.0,
       "TotalStockValue": 35000.0
@@ -101195,7 +101195,7 @@
       "TotalOut": 21.0,
       "SellPrice": 2000.0,
       "Cost": 1500.0,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ابو محمد-م.مسعود ",
       "ProfitPerOne": 500.0,
       "ProfitRate": 33.33,
       "TotalStockValue": 93000.0
@@ -101509,7 +101509,7 @@
       "TotalOut": 0.0,
       "SellPrice": 12000.0,
       "Cost": 8875.0,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي كؤلد ناومالة-سليماني",
       "ProfitPerOne": 3125.0,
       "ProfitRate": 35.21,
       "TotalStockValue": 133125.0
@@ -101595,7 +101595,7 @@
       "TotalOut": 6.0,
       "SellPrice": 3750.0,
       "Cost": 3400.0,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي بيري-جكليت و نةستةلة",
       "ProfitPerOne": 350.0,
       "ProfitRate": 10.29,
       "TotalStockValue": 78200.0
@@ -102727,7 +102727,7 @@
       "TotalOut": 30.0,
       "SellPrice": 4500.0,
       "Cost": 4000.0,
-      "LastClient": "",
+      "LastClient": "مكتب ئالان-كؤران",
       "ProfitPerOne": 500.0,
       "ProfitRate": 12.5,
       "TotalStockValue": 436000.0
@@ -102970,7 +102970,7 @@
       "TotalOut": 2.0,
       "SellPrice": 5000.0,
       "Cost": 4032.8444444444444,
-      "LastClient": "",
+      "LastClient": "ليمؤن-ناومالة-سليماني",
       "ProfitPerOne": 967.16,
       "ProfitRate": 23.98,
       "TotalStockValue": 72591.2
@@ -103130,7 +103130,7 @@
       "TotalOut": 2.0,
       "SellPrice": 10000.0,
       "Cost": 8032.5000000000009,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ميهران-سليماني",
       "ProfitPerOne": 1967.5,
       "ProfitRate": 24.49,
       "TotalStockValue": 48195.0
@@ -103666,7 +103666,7 @@
       "TotalOut": 3.0,
       "SellPrice": 1000.0,
       "Cost": 750.0,
-      "LastClient": "",
+      "LastClient": "ئاراز كروب سليمانيه دينار",
       "ProfitPerOne": 250.0,
       "ProfitRate": 33.33,
       "TotalStockValue": 21000.0
@@ -105143,7 +105143,7 @@
       "TotalOut": 11.0,
       "SellPrice": 8500.0,
       "Cost": 7500.0,
-      "LastClient": "",
+      "LastClient": "شركة الامين-كؤلدستار",
       "ProfitPerOne": 1000.0,
       "ProfitRate": 13.33,
       "TotalStockValue": 495000.0
@@ -105312,7 +105312,7 @@
       "TotalOut": 16.8029,
       "SellPrice": 8000.0,
       "Cost": 7000.0,
-      "LastClient": "",
+      "LastClient": "11كؤشت بةرخ- كاك احمد 2",
       "ProfitPerOne": 1000.0,
       "ProfitRate": 14.29,
       "TotalStockValue": 6734.7
@@ -107082,7 +107082,7 @@
       "TotalOut": 3.0,
       "SellPrice": 2500.0,
       "Cost": 1500.0,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ابو محمد-م.مسعود ",
       "ProfitPerOne": 1000.0,
       "ProfitRate": 66.67,
       "TotalStockValue": 31500.0
@@ -107219,7 +107219,7 @@
       "TotalOut": 5.0,
       "SellPrice": 1000.0,
       "Cost": 847.22222222222217,
-      "LastClient": "",
+      "LastClient": "نورهات-ئيتي-دينار",
       "ProfitPerOne": 152.78,
       "ProfitRate": 18.03,
       "TotalStockValue": 24569.44
@@ -107513,7 +107513,7 @@
       "TotalOut": 4.0,
       "SellPrice": 7000.0,
       "Cost": 5500.0,
-      "LastClient": "",
+      "LastClient": "كةنجينةي فريدون-نةوال-دينار",
       "ProfitPerOne": 1500.0,
       "ProfitRate": 27.27,
       "TotalStockValue": 44000.0
@@ -109041,7 +109041,7 @@
       "TotalOut": 19.0,
       "SellPrice": 1500.0,
       "Cost": 1250.0,
-      "LastClient": "",
+      "LastClient": "دابةشكاري مةليك-محمد شيخ رةزا",
       "ProfitPerOne": 250.0,
       "ProfitRate": 20.0,
       "TotalStockValue": 21250.0
@@ -109213,7 +109213,7 @@
       "TotalOut": 11.0,
       "SellPrice": 12000.0,
       "Cost": 11125.0,
-      "LastClient": "",
+      "LastClient": "محل حميد الزهاوي-كةلار",
       "ProfitPerOne": 875.0,
       "ProfitRate": 7.87,
       "TotalStockValue": 1813375.0
@@ -109532,7 +109532,7 @@
       "TotalOut": 8.0,
       "SellPrice": 2250.0,
       "Cost": 1833.3333333333333,
-      "LastClient": "",
+      "LastClient": "نبع الرحمة-عبدالرزاق صباح-دينار",
       "ProfitPerOne": 416.67,
       "ProfitRate": 22.73,
       "TotalStockValue": 34833.33
@@ -110204,7 +110204,7 @@
       "TotalOut": 6.0,
       "SellPrice": 7000.0,
       "Cost": 6000.0,
-      "LastClient": "",
+      "LastClient": "مكتب جنه بيبي ميلك/عبدشار",
       "ProfitPerOne": 1000.0,
       "ProfitRate": 16.67,
       "TotalStockValue": 414000.0
@@ -110252,7 +110252,7 @@
       "TotalOut": 0.0,
       "SellPrice": 4500.0,
       "Cost": 3570.0,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ميهران-سليماني",
       "ProfitPerOne": 930.0,
       "ProfitRate": 26.05,
       "TotalStockValue": 92820.0
@@ -110284,7 +110284,7 @@
       "TotalOut": 0.0,
       "SellPrice": 5000.0,
       "Cost": 4141.2500000000009,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ميهران-سليماني",
       "ProfitPerOne": 858.75,
       "ProfitRate": 20.74,
       "TotalStockValue": 70401.25
@@ -112807,7 +112807,7 @@
       "TotalOut": 0.0,
       "SellPrice": 5000.0,
       "Cost": 4000.0,
-      "LastClient": "",
+      "LastClient": "مكتب ئالان-كؤران",
       "ProfitPerOne": 1000.0,
       "ProfitRate": 25.0,
       "TotalStockValue": 0.0
@@ -113965,7 +113965,7 @@
       "TotalOut": 0.0,
       "SellPrice": 9000.0,
       "Cost": 6750.0,
-      "LastClient": "",
+      "LastClient": "بيشانكاي هيلين-سليماني",
       "ProfitPerOne": 2250.0,
       "ProfitRate": 33.33,
       "TotalStockValue": 182250.0
@@ -113981,7 +113981,7 @@
       "TotalOut": 0.0,
       "SellPrice": 12000.0,
       "Cost": 9500.0,
-      "LastClient": "",
+      "LastClient": "بيشانكاي هيلين-سليماني",
       "ProfitPerOne": 2500.0,
       "ProfitRate": 26.32,
       "TotalStockValue": 237500.0
@@ -114731,7 +114731,7 @@
       "TotalOut": 0.0,
       "SellPrice": 5000.0,
       "Cost": 4034.4666666666662,
-      "LastClient": "",
+      "LastClient": "ليمؤن-ناومالة-سليماني",
       "ProfitPerOne": 965.53,
       "ProfitRate": 23.93,
       "TotalStockValue": 32275.73
@@ -114747,7 +114747,7 @@
       "TotalOut": 1.0,
       "SellPrice": 25000.0,
       "Cost": 22500.0,
-      "LastClient": "",
+      "LastClient": "كؤمبانيي كةي بيتي KBT-دينار",
       "ProfitPerOne": 2500.0,
       "ProfitRate": 11.11,
       "TotalStockValue": 1642500.0
@@ -114907,7 +114907,7 @@
       "TotalOut": 0.0,
       "SellPrice": 69000.0,
       "Cost": 60250.0,
-      "LastClient": "",
+      "LastClient": "كةنجينةي فريدون-نةوال-دينار",
       "ProfitPerOne": 8750.0,
       "ProfitRate": 14.52,
       "TotalStockValue": 301250.0
@@ -116712,7 +116712,7 @@
       "TotalOut": 11.0,
       "SellPrice": 3000.0,
       "Cost": 2650.0,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي باريس-جلال كلارة",
       "ProfitPerOne": 350.0,
       "ProfitRate": 13.21,
       "TotalStockValue": 143100.0
@@ -118063,7 +118063,7 @@
       "TotalOut": 11.0,
       "SellPrice": 5500.0,
       "Cost": 5000.0,
-      "LastClient": "",
+      "LastClient": "هةردي كروب-تؤري",
       "ProfitPerOne": 500.0,
       "ProfitRate": 10.0,
       "TotalStockValue": 600000.0
@@ -118285,7 +118285,7 @@
       "TotalOut": 45.0,
       "SellPrice": 1500.0,
       "Cost": 1125.0,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ابو محمد-م.مسعود ",
       "ProfitPerOne": 375.0,
       "ProfitRate": 33.33,
       "TotalStockValue": 76500.0
@@ -118940,7 +118940,7 @@
       "TotalOut": 3.0,
       "SellPrice": 1000.0,
       "Cost": 825.0,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي نةورةس-دينار",
       "ProfitPerOne": 175.0,
       "ProfitRate": 21.21,
       "TotalStockValue": 33000.0
@@ -119336,7 +119336,7 @@
       "TotalOut": 15.0,
       "SellPrice": 750.0,
       "Cost": 625.0,
-      "LastClient": "",
+      "LastClient": "نورهات-ئيتي-دينار",
       "ProfitPerOne": 125.0,
       "ProfitRate": 20.0,
       "TotalStockValue": 20625.0
@@ -120631,7 +120631,7 @@
       "TotalOut": 5.0,
       "SellPrice": 5000.0,
       "Cost": 3500.0,
-      "LastClient": "",
+      "LastClient": "ئاراز كروب سليمانيه دينار",
       "ProfitPerOne": 1500.0,
       "ProfitRate": 42.86,
       "TotalStockValue": 178500.0
@@ -122347,7 +122347,7 @@
       "TotalOut": 7.0,
       "SellPrice": 1000.0,
       "Cost": 730.0,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي بةندةر-ناومالة سليماني",
       "ProfitPerOne": 270.0,
       "ProfitRate": 36.99,
       "TotalStockValue": 210240.0
@@ -122363,7 +122363,7 @@
       "TotalOut": 3.0,
       "SellPrice": 5000.0,
       "Cost": 2336.0,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي بةندةر-ناومالة سليماني",
       "ProfitPerOne": 2664.0,
       "ProfitRate": 114.04,
       "TotalStockValue": 70080.0
@@ -122558,7 +122558,7 @@
       "TotalOut": 9.0,
       "SellPrice": 2500.0,
       "Cost": 1571.4285714285713,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ابو محمد-م.مسعود ",
       "ProfitPerOne": 928.57,
       "ProfitRate": 59.09,
       "TotalStockValue": 55000.0
@@ -122575,7 +122575,7 @@
       "TotalOut": 6.0,
       "SellPrice": 1000.0,
       "Cost": 625.0,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ابو محمد-م.مسعود ",
       "ProfitPerOne": 375.0,
       "ProfitRate": 60.0,
       "TotalStockValue": 31250.0
@@ -122659,7 +122659,7 @@
       "TotalOut": 25.0,
       "SellPrice": 3000.0,
       "Cost": 2166.6666666666665,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ابو محمد-م.مسعود ",
       "ProfitPerOne": 833.33,
       "ProfitRate": 38.46,
       "TotalStockValue": 86666.67
@@ -122925,7 +122925,7 @@
       "TotalOut": 11.0,
       "SellPrice": 2500.0,
       "Cost": 1916.6666666666667,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ابو محمد-م.مسعود ",
       "ProfitPerOne": 583.33,
       "ProfitRate": 30.43,
       "TotalStockValue": 40250.0
@@ -122989,7 +122989,7 @@
       "TotalOut": 12.0,
       "SellPrice": 2500.0,
       "Cost": 1750.0,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ابو محمد-م.مسعود ",
       "ProfitPerOne": 750.0,
       "ProfitRate": 42.86,
       "TotalStockValue": 15750.0
@@ -123187,7 +123187,7 @@
       "TotalOut": 7.0,
       "SellPrice": 1000.0,
       "Cost": 833.33333333333337,
-      "LastClient": "",
+      "LastClient": "دابةشكاري مةليك-محمد شيخ رةزا",
       "ProfitPerOne": 166.67,
       "ProfitRate": 20.0,
       "TotalStockValue": 15000.0
@@ -125527,7 +125527,7 @@
       "TotalOut": 7.0,
       "SellPrice": 17000.0,
       "Cost": 14500.0,
-      "LastClient": "",
+      "LastClient": "كؤكاي رؤز-رؤيال و ليكزي",
       "ProfitPerOne": 2500.0,
       "ProfitRate": 17.24,
       "TotalStockValue": 174000.0
@@ -125687,7 +125687,7 @@
       "TotalOut": 68.0,
       "SellPrice": 1750.0,
       "Cost": 1329.975,
-      "LastClient": "",
+      "LastClient": "شركة قلب الملوك-رةوا",
       "ProfitPerOne": 420.03,
       "ProfitRate": 31.58,
       "TotalStockValue": 172896.75
@@ -126040,7 +126040,7 @@
       "TotalOut": 8.0,
       "SellPrice": 5000.0,
       "Cost": 3467.5,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي بةندةر-ناومالة سليماني",
       "ProfitPerOne": 1532.5,
       "ProfitRate": 44.2,
       "TotalStockValue": 135232.5
@@ -128306,7 +128306,7 @@
       "TotalOut": 8.0,
       "SellPrice": 1000.0,
       "Cost": 583.33333333333337,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ابو محمد-م.مسعود ",
       "ProfitPerOne": 416.67,
       "ProfitRate": 71.43,
       "TotalStockValue": 7000.0
@@ -128338,7 +128338,7 @@
       "TotalOut": 2.0,
       "SellPrice": 33000.0,
       "Cost": 31000.0,
-      "LastClient": "",
+      "LastClient": "زانياركريم -كؤكاي موبين-",
       "ProfitPerOne": 2000.0,
       "ProfitRate": 6.45,
       "TotalStockValue": 434000.0
@@ -129613,7 +129613,7 @@
       "TotalOut": 8.0,
       "SellPrice": 1750.0,
       "Cost": 1500.0,
-      "LastClient": "",
+      "LastClient": "زانياركريم-طباخ",
       "ProfitPerOne": 250.0,
       "ProfitRate": 16.67,
       "TotalStockValue": 24000.0
@@ -130274,7 +130274,7 @@
       "TotalOut": 0.0,
       "SellPrice": 7500.0,
       "Cost": 5833.333333333333,
-      "LastClient": "",
+      "LastClient": "فرؤشكايي سامي ",
       "ProfitPerOne": 1666.67,
       "ProfitRate": 28.57,
       "TotalStockValue": 140000.0
@@ -130451,7 +130451,7 @@
       "TotalOut": 1.0,
       "SellPrice": 3000.0,
       "Cost": 2500.0,
-      "LastClient": "",
+      "LastClient": "نانةواخانةي-نةوزين سيتي",
       "ProfitPerOne": 500.0,
       "ProfitRate": 20.0,
       "TotalStockValue": 25000.0
@@ -130675,7 +130675,7 @@
       "TotalOut": 27.0,
       "SellPrice": 1000.0,
       "Cost": 875.0,
-      "LastClient": "",
+      "LastClient": "6-كوكاي محمد \\ بسكيت",
       "ProfitPerOne": 125.0,
       "ProfitRate": 14.29,
       "TotalStockValue": 18375.0
@@ -130912,7 +130912,7 @@
       "TotalOut": 8.0,
       "SellPrice": 2500.0,
       "Cost": 2250.0,
-      "LastClient": "",
+      "LastClient": "كومبانياي بيري-سليماني",
       "ProfitPerOne": 250.0,
       "ProfitRate": 11.11,
       "TotalStockValue": 9000.0
@@ -130961,7 +130961,7 @@
       "TotalOut": 0.0,
       "SellPrice": 3500.0,
       "Cost": 3083.3333333333335,
-      "LastClient": "",
+      "LastClient": "كؤكاي ئاميار-كةلار",
       "ProfitPerOne": 416.67,
       "ProfitRate": 13.51,
       "TotalStockValue": 92500.0
@@ -131588,7 +131588,7 @@
       "TotalOut": 5.0,
       "SellPrice": 3500.0,
       "Cost": 3250.0,
-      "LastClient": "",
+      "LastClient": "زانياركريم -كؤكاي موبين-",
       "ProfitPerOne": 250.0,
       "ProfitRate": 7.69,
       "TotalStockValue": 35750.0
@@ -131906,7 +131906,7 @@
       "TotalOut": 0.0,
       "SellPrice": 1000.0,
       "Cost": 833.33333333333337,
-      "LastClient": "",
+      "LastClient": "الودقشركة الودق الذهبي-لؤيال بغداد",
       "ProfitPerOne": 166.67,
       "ProfitRate": 20.0,
       "TotalStockValue": 200000.0
@@ -132037,7 +132037,7 @@
       "TotalOut": 0.0,
       "SellPrice": 2000.0,
       "Cost": 1750.0,
-      "LastClient": "",
+      "LastClient": "زانياركريم -كؤكاي موبين-",
       "ProfitPerOne": 250.0,
       "ProfitRate": 14.29,
       "TotalStockValue": 42000.0
@@ -132053,7 +132053,7 @@
       "TotalOut": 68.0,
       "SellPrice": 2500.0,
       "Cost": 2000.0,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي البة-ميرسين دينار-حسين",
       "ProfitPerOne": 500.0,
       "ProfitRate": 25.0,
       "TotalStockValue": 164000.0
@@ -132277,7 +132277,7 @@
       "TotalOut": 0.0,
       "SellPrice": 3500.0,
       "Cost": 2583.3333333333335,
-      "LastClient": "",
+      "LastClient": "جةرةزاتي سةلام-سليماني",
       "ProfitPerOne": 916.67,
       "ProfitRate": 35.48,
       "TotalStockValue": 62000.0
@@ -132293,7 +132293,7 @@
       "TotalOut": 0.0,
       "SellPrice": 2500.0,
       "Cost": 1750.0,
-      "LastClient": "",
+      "LastClient": "جةرةزاتي سةلام-سليماني",
       "ProfitPerOne": 750.0,
       "ProfitRate": 42.86,
       "TotalStockValue": 42000.0
@@ -132309,7 +132309,7 @@
       "TotalOut": 0.0,
       "SellPrice": 2000.0,
       "Cost": 1500.0,
-      "LastClient": "",
+      "LastClient": "جةرةزاتي سةلام-سليماني",
       "ProfitPerOne": 500.0,
       "ProfitRate": 33.33,
       "TotalStockValue": 30000.0
@@ -132325,7 +132325,7 @@
       "TotalOut": 0.0,
       "SellPrice": 2000.0,
       "Cost": 1500.0,
-      "LastClient": "",
+      "LastClient": "جةرةزاتي سةلام-سليماني",
       "ProfitPerOne": 500.0,
       "ProfitRate": 33.33,
       "TotalStockValue": 30000.0
@@ -132357,7 +132357,7 @@
       "TotalOut": 0.0,
       "SellPrice": 2500.0,
       "Cost": 2000.0,
-      "LastClient": "",
+      "LastClient": "جةرةزاتي سةلام-سليماني",
       "ProfitPerOne": 500.0,
       "ProfitRate": 25.0,
       "TotalStockValue": 20000.0
@@ -132701,7 +132701,7 @@
       "TotalOut": 0.0,
       "SellPrice": 0.0,
       "Cost": 0.0,
-      "LastClient": "",
+      "LastClient": "جوملة فرؤشي رابةر-سليماني",
       "ProfitPerOne": 0.0,
       "ProfitRate": 0.0,
       "TotalStockValue": 0.0
@@ -132734,7 +132734,7 @@
       "TotalOut": 0.0,
       "SellPrice": 12000.0,
       "Cost": 6153.8461538461534,
-      "LastClient": "",
+      "LastClient": "هيمن مخزةن ",
       "ProfitPerOne": 5846.15,
       "ProfitRate": 95.0,
       "TotalStockValue": 8000.0
@@ -132830,7 +132830,7 @@
       "TotalOut": 0.0,
       "SellPrice": 2000.0,
       "Cost": 1750.0,
-      "LastClient": "",
+      "LastClient": "ساحل العراق / بكاه",
       "ProfitPerOne": 250.0,
       "ProfitRate": 14.29,
       "TotalStockValue": 21000.0
@@ -132896,7 +132896,7 @@
       "TotalOut": 0.0,
       "SellPrice": 3000.0,
       "Cost": 2000.0,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي شالاو-سليماني",
       "ProfitPerOne": 1000.0,
       "ProfitRate": 50.0,
       "TotalStockValue": 24000.0
@@ -132912,7 +132912,7 @@
       "TotalOut": 0.0,
       "SellPrice": 2500.0,
       "Cost": 1500.0,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي شالاو-سليماني",
       "ProfitPerOne": 1000.0,
       "ProfitRate": 66.67,
       "TotalStockValue": 24000.0
@@ -133082,7 +133082,7 @@
       "TotalOut": 0.0,
       "SellPrice": 8000.0,
       "Cost": 6666.666666666667,
-      "LastClient": "",
+      "LastClient": "كؤكاي رؤز-رؤيال و ليكزي",
       "ProfitPerOne": 1333.33,
       "ProfitRate": 20.0,
       "TotalStockValue": 80000.0
@@ -133229,7 +133229,7 @@
       "TotalOut": 0.0,
       "SellPrice": 3500.0,
       "Cost": 2000.0,
-      "LastClient": "",
+      "LastClient": "كةمالياتي يادكار-سليماني",
       "ProfitPerOne": 1500.0,
       "ProfitRate": 75.0,
       "TotalStockValue": 48000.0
@@ -133374,7 +133374,7 @@
       "TotalOut": 0.0,
       "SellPrice": 12000.0,
       "Cost": 8000.0,
-      "LastClient": "",
+      "LastClient": "عبدالكريم ناومالة-سليماني",
       "ProfitPerOne": 4000.0,
       "ProfitRate": 50.0,
       "TotalStockValue": 96000.0
@@ -133390,7 +133390,7 @@
       "TotalOut": 0.0,
       "SellPrice": 35000.0,
       "Cost": 28035.714285714286,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي خةندةي مال-سليماني",
       "ProfitPerOne": 6964.29,
       "ProfitRate": 24.84,
       "TotalStockValue": 196250.0
@@ -133617,7 +133617,7 @@
       "TotalOut": 0.0,
       "SellPrice": 45000.0,
       "Cost": 33000.0,
-      "LastClient": "",
+      "LastClient": "متظر العبيدي كوزمتك بغداد/عبد",
       "ProfitPerOne": 12000.0,
       "ProfitRate": 36.36,
       "TotalStockValue": 132000.0
@@ -133681,7 +133681,7 @@
       "TotalOut": 22.0,
       "SellPrice": 750.0,
       "Cost": 600.0,
-      "LastClient": "",
+      "LastClient": "نورهات-ئيتي-دينار",
       "ProfitPerOne": 150.0,
       "ProfitRate": 25.0,
       "TotalStockValue": 13800.0
@@ -133761,7 +133761,7 @@
       "TotalOut": 0.0,
       "SellPrice": 7000.0,
       "Cost": 5000.0,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي سيوة-سليماني",
       "ProfitPerOne": 2000.0,
       "ProfitRate": 40.0,
       "TotalStockValue": 60000.0
@@ -133841,7 +133841,7 @@
       "TotalOut": 0.0,
       "SellPrice": 1000.0,
       "Cost": 500.0,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي سيوة-سليماني",
       "ProfitPerOne": 500.0,
       "ProfitRate": 100.0,
       "TotalStockValue": 2000.0
@@ -134153,7 +134153,7 @@
       "TotalOut": 0.0,
       "SellPrice": 5000.0,
       "Cost": 3750.0,
-      "LastClient": "",
+      "LastClient": "فروشكاى راويز ناومالة",
       "ProfitPerOne": 1250.0,
       "ProfitRate": 33.33,
       "TotalStockValue": 60000.0
@@ -134185,7 +134185,7 @@
       "TotalOut": 0.0,
       "SellPrice": 22000.0,
       "Cost": 17760.0,
-      "LastClient": "",
+      "LastClient": "فروشكاى ئةزي ناومالة+دؤلار",
       "ProfitPerOne": 4240.0,
       "ProfitRate": 23.87,
       "TotalStockValue": 177600.0
@@ -134250,7 +134250,7 @@
       "TotalOut": 0.0,
       "SellPrice": 4000.0,
       "Cost": 2466.666666666667,
-      "LastClient": "",
+      "LastClient": "كةنجينةي فريدون ليكزيكال-دؤلار",
       "ProfitPerOne": 1533.33,
       "ProfitRate": 62.16,
       "TotalStockValue": 59200.0
@@ -134282,7 +134282,7 @@
       "TotalOut": 0.0,
       "SellPrice": 9000.0,
       "Cost": 5673.3333333333339,
-      "LastClient": "",
+      "LastClient": "كةنجينةي فريدون ليكزيكال-دؤلار",
       "ProfitPerOne": 3326.67,
       "ProfitRate": 58.64,
       "TotalStockValue": 68080.0
@@ -134548,7 +134548,7 @@
       "TotalOut": 0.0,
       "SellPrice": 15000.0,
       "Cost": 11840.0,
-      "LastClient": "",
+      "LastClient": "كةنجينةي فريدون ليكزيكال-دؤلار",
       "ProfitPerOne": 3160.0,
       "ProfitRate": 26.69,
       "TotalStockValue": 189440.0
@@ -134564,7 +134564,7 @@
       "TotalOut": 0.0,
       "SellPrice": 22000.0,
       "Cost": 16280.0,
-      "LastClient": "",
+      "LastClient": "كةنجينةي فريدون ليكزيكال-دؤلار",
       "ProfitPerOne": 5720.0,
       "ProfitRate": 35.14,
       "TotalStockValue": 195360.0
@@ -134596,7 +134596,7 @@
       "TotalOut": 0.0,
       "SellPrice": 17000.0,
       "Cost": 12210.0,
-      "LastClient": "",
+      "LastClient": "كةنجينةي فريدون ليكزيكال-دؤلار",
       "ProfitPerOne": 4790.0,
       "ProfitRate": 39.23,
       "TotalStockValue": 146520.0
@@ -134712,7 +134712,7 @@
       "TotalOut": 0.0,
       "SellPrice": 23000.0,
       "Cost": 18000.0,
-      "LastClient": "",
+      "LastClient": "كؤمبانيي كةي بيتي KBT-دينار",
       "ProfitPerOne": 5000.0,
       "ProfitRate": 27.78,
       "TotalStockValue": 864000.0
@@ -134746,7 +134746,7 @@
       "TotalOut": 0.0,
       "SellPrice": 20000.0,
       "Cost": 17400.0,
-      "LastClient": "",
+      "LastClient": "كؤمبانيي كةي بيتي KBT-دينار",
       "ProfitPerOne": 2600.0,
       "ProfitRate": 14.94,
       "TotalStockValue": 417600.0
@@ -134762,7 +134762,7 @@
       "TotalOut": 0.0,
       "SellPrice": 35000.0,
       "Cost": 27000.0,
-      "LastClient": "",
+      "LastClient": "كؤمبانيي كةي بيتي KBT-دينار",
       "ProfitPerOne": 8000.0,
       "ProfitRate": 29.63,
       "TotalStockValue": 324000.0
@@ -134778,7 +134778,7 @@
       "TotalOut": 0.0,
       "SellPrice": 14500.0,
       "Cost": 13050.0,
-      "LastClient": "",
+      "LastClient": "كؤمبانيي كةي بيتي KBT-دينار",
       "ProfitPerOne": 1450.0,
       "ProfitRate": 11.11,
       "TotalStockValue": 313200.0
@@ -134797,7 +134797,7 @@
       "TotalOut": 0.0,
       "SellPrice": 30000.0,
       "Cost": 27000.0,
-      "LastClient": "",
+      "LastClient": "كؤمبانيي كةي بيتي KBT-دينار",
       "ProfitPerOne": 3000.0,
       "ProfitRate": 11.11,
       "TotalStockValue": 972000.0
@@ -134829,7 +134829,7 @@
       "TotalOut": 0.0,
       "SellPrice": 14000.0,
       "Cost": 12500.0,
-      "LastClient": "",
+      "LastClient": "كؤكاي باران-كؤكاي ئاراز",
       "ProfitPerOne": 1500.0,
       "ProfitRate": 12.0,
       "TotalStockValue": 250000.0
@@ -134877,7 +134877,7 @@
       "TotalOut": 0.0,
       "SellPrice": 7750.0,
       "Cost": 5625.0,
-      "LastClient": "",
+      "LastClient": "كؤكاي بزيشكي يارا-اسعد",
       "ProfitPerOne": 2125.0,
       "ProfitRate": 37.78,
       "TotalStockValue": 67500.0
@@ -134893,7 +134893,7 @@
       "TotalOut": 0.0,
       "SellPrice": 7750.0,
       "Cost": 5625.0,
-      "LastClient": "",
+      "LastClient": "كؤكاي بزيشكي يارا-اسعد",
       "ProfitPerOne": 2125.0,
       "ProfitRate": 37.78,
       "TotalStockValue": 67500.0
@@ -135105,7 +135105,7 @@
       "TotalOut": 7.0,
       "SellPrice": 3000.0,
       "Cost": 2400.0,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي البة-ميرسين دينار-حسين",
       "ProfitPerOne": 600.0,
       "ProfitRate": 25.0,
       "TotalStockValue": 55200.0
@@ -135233,7 +135233,7 @@
       "TotalOut": 0.0,
       "SellPrice": 11000.0,
       "Cost": 5250.0,
-      "LastClient": "",
+      "LastClient": "محمد البغدادي موبايلات عبد",
       "ProfitPerOne": 5750.0,
       "ProfitRate": 109.52,
       "TotalStockValue": 31500.0
@@ -135842,7 +135842,7 @@
       "TotalOut": 0.0,
       "SellPrice": 9000.0,
       "Cost": 7250.0,
-      "LastClient": "",
+      "LastClient": "كةنجينةي فريدون-نةوال-دينار",
       "ProfitPerOne": 1750.0,
       "ProfitRate": 24.14,
       "TotalStockValue": 43500.0
@@ -135858,7 +135858,7 @@
       "TotalOut": 0.0,
       "SellPrice": 14000.0,
       "Cost": 12000.0,
-      "LastClient": "",
+      "LastClient": "كةنجينةي فريدون-نةوال-دينار",
       "ProfitPerOne": 2000.0,
       "ProfitRate": 16.67,
       "TotalStockValue": 96000.0
@@ -135890,7 +135890,7 @@
       "TotalOut": 0.0,
       "SellPrice": 7000.0,
       "Cost": 5000.0,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي بيك-محمد صين",
       "ProfitPerOne": 2000.0,
       "ProfitRate": 40.0,
       "TotalStockValue": 70000.0
@@ -135970,7 +135970,7 @@
       "TotalOut": 0.0,
       "SellPrice": 10000.0,
       "Cost": 7750.0,
-      "LastClient": "",
+      "LastClient": "بيشانكاي هيلين-سليماني",
       "ProfitPerOne": 2250.0,
       "ProfitRate": 29.03,
       "TotalStockValue": 186000.0
@@ -135986,7 +135986,7 @@
       "TotalOut": 0.0,
       "SellPrice": 20000.0,
       "Cost": 15444.444444444445,
-      "LastClient": "",
+      "LastClient": "بيشانكاي هيلين-سليماني",
       "ProfitPerOne": 4555.56,
       "ProfitRate": 29.5,
       "TotalStockValue": 1668000.0
@@ -136002,7 +136002,7 @@
       "TotalOut": 0.0,
       "SellPrice": 22000.0,
       "Cost": 16500.0,
-      "LastClient": "",
+      "LastClient": "بيشانكاي هيلين-سليماني",
       "ProfitPerOne": 5500.0,
       "ProfitRate": 33.33,
       "TotalStockValue": 792000.0
@@ -136034,7 +136034,7 @@
       "TotalOut": 0.0,
       "SellPrice": 13000.0,
       "Cost": 10000.0,
-      "LastClient": "",
+      "LastClient": "كةنجينةى بةهمةن-ناومالة",
       "ProfitPerOne": 3000.0,
       "ProfitRate": 30.0,
       "TotalStockValue": 240000.0
@@ -136050,7 +136050,7 @@
       "TotalOut": 0.0,
       "SellPrice": 15000.0,
       "Cost": 11000.0,
-      "LastClient": "",
+      "LastClient": "كةنجينةى بةهمةن-ناومالة",
       "ProfitPerOne": 4000.0,
       "ProfitRate": 36.36,
       "TotalStockValue": 264000.0
@@ -136066,7 +136066,7 @@
       "TotalOut": 0.0,
       "SellPrice": 1000.0,
       "Cost": 666.66666666666663,
-      "LastClient": "",
+      "LastClient": "كةنجينةى بةهمةن-ناومالة",
       "ProfitPerOne": 333.33,
       "ProfitRate": 50.0,
       "TotalStockValue": 32000.0
@@ -136082,7 +136082,7 @@
       "TotalOut": 0.0,
       "SellPrice": 50000.0,
       "Cost": 41000.0,
-      "LastClient": "",
+      "LastClient": "كةنجينةى بةهمةن-ناومالة",
       "ProfitPerOne": 9000.0,
       "ProfitRate": 21.95,
       "TotalStockValue": 164000.0
@@ -136098,7 +136098,7 @@
       "TotalOut": 0.0,
       "SellPrice": 58000.0,
       "Cost": 48000.0,
-      "LastClient": "",
+      "LastClient": "كةنجينةى بةهمةن-ناومالة",
       "ProfitPerOne": 10000.0,
       "ProfitRate": 20.83,
       "TotalStockValue": 192000.0
@@ -136130,7 +136130,7 @@
       "TotalOut": 0.0,
       "SellPrice": 3500.0,
       "Cost": 2250.0,
-      "LastClient": "",
+      "LastClient": "كةنجينةى بةهمةن-ناومالة",
       "ProfitPerOne": 1250.0,
       "ProfitRate": 55.56,
       "TotalStockValue": 81000.0
@@ -136296,7 +136296,7 @@
       "TotalOut": 1.0,
       "SellPrice": 1000.0,
       "Cost": 875.0,
-      "LastClient": "",
+      "LastClient": "6-كوكاي محمد \\ بسكيت",
       "ProfitPerOne": 125.0,
       "ProfitRate": 14.29,
       "TotalStockValue": 20125.0
@@ -136312,7 +136312,7 @@
       "TotalOut": 0.0,
       "SellPrice": 10000.0,
       "Cost": 7000.0,
-      "LastClient": "",
+      "LastClient": "داودشريني-خورما",
       "ProfitPerOne": 3000.0,
       "ProfitRate": 42.86,
       "TotalStockValue": 112000.0
@@ -136596,7 +136596,7 @@
       "TotalOut": 0.0,
       "SellPrice": 5000.0,
       "Cost": 2750.0,
-      "LastClient": "",
+      "LastClient": "مخزن بهاءالدين-سليماني",
       "ProfitPerOne": 2250.0,
       "ProfitRate": 81.82,
       "TotalStockValue": 99000.0
@@ -136919,7 +136919,7 @@
       "TotalOut": 0.0,
       "SellPrice": 5000.0,
       "Cost": 3050.0,
-      "LastClient": "",
+      "LastClient": "جوملة فرؤشي رابةر-سليماني",
       "ProfitPerOne": 1950.0,
       "ProfitRate": 63.93,
       "TotalStockValue": 152500.0
@@ -136935,7 +136935,7 @@
       "TotalOut": 0.0,
       "SellPrice": 5000.0,
       "Cost": 3750.0,
-      "LastClient": "",
+      "LastClient": "جوملة فرؤشي رابةر-سليماني",
       "ProfitPerOne": 1250.0,
       "ProfitRate": 33.33,
       "TotalStockValue": 37500.0
@@ -136967,7 +136967,7 @@
       "TotalOut": 0.0,
       "SellPrice": 20000.0,
       "Cost": 12000.0,
-      "LastClient": "",
+      "LastClient": "جوملة فرؤشي رابةر-سليماني",
       "ProfitPerOne": 8000.0,
       "ProfitRate": 66.67,
       "TotalStockValue": 120000.0
@@ -136999,7 +136999,7 @@
       "TotalOut": 0.0,
       "SellPrice": 12000.0,
       "Cost": 7000.0,
-      "LastClient": "",
+      "LastClient": "جوملة فرؤشي رابةر-سليماني",
       "ProfitPerOne": 5000.0,
       "ProfitRate": 71.43,
       "TotalStockValue": 84000.0
@@ -137031,7 +137031,7 @@
       "TotalOut": 0.0,
       "SellPrice": 12000.0,
       "Cost": 8500.0,
-      "LastClient": "",
+      "LastClient": "جوملة فرؤشي رابةر-سليماني",
       "ProfitPerOne": 3500.0,
       "ProfitRate": 41.18,
       "TotalStockValue": 102000.0
@@ -137047,7 +137047,7 @@
       "TotalOut": 0.0,
       "SellPrice": 4000.0,
       "Cost": 2250.0,
-      "LastClient": "",
+      "LastClient": "جوملة فرؤشي رابةر-سليماني",
       "ProfitPerOne": 1750.0,
       "ProfitRate": 77.78,
       "TotalStockValue": 27000.0
@@ -137063,7 +137063,7 @@
       "TotalOut": 0.0,
       "SellPrice": 6000.0,
       "Cost": 4000.0,
-      "LastClient": "",
+      "LastClient": "جوملة فرؤشي رابةر-سليماني",
       "ProfitPerOne": 2000.0,
       "ProfitRate": 50.0,
       "TotalStockValue": 48000.0
@@ -137079,7 +137079,7 @@
       "TotalOut": 0.0,
       "SellPrice": 4000.0,
       "Cost": 2500.0,
-      "LastClient": "",
+      "LastClient": "جوملة فرؤشي رابةر-سليماني",
       "ProfitPerOne": 1500.0,
       "ProfitRate": 60.0,
       "TotalStockValue": 50000.0
@@ -137095,7 +137095,7 @@
       "TotalOut": 0.0,
       "SellPrice": 6000.0,
       "Cost": 4000.0,
-      "LastClient": "",
+      "LastClient": "بيشانكاو كةنجينةي MHD-سليماني",
       "ProfitPerOne": 2000.0,
       "ProfitRate": 50.0,
       "TotalStockValue": 28000.0
@@ -137145,7 +137145,7 @@
       "TotalOut": 0.0,
       "SellPrice": 2000.0,
       "Cost": 1357.1428571428571,
-      "LastClient": "",
+      "LastClient": "بيشانكاو كةنجينةي MHD-سليماني",
       "ProfitPerOne": 642.86,
       "ProfitRate": 47.37,
       "TotalStockValue": 114000.0
@@ -137161,7 +137161,7 @@
       "TotalOut": 0.0,
       "SellPrice": 24000.0,
       "Cost": 18000.0,
-      "LastClient": "",
+      "LastClient": "بيشانكاو كةنجينةي MHD-سليماني",
       "ProfitPerOne": 6000.0,
       "ProfitRate": 33.33,
       "TotalStockValue": 108000.0
@@ -137194,7 +137194,7 @@
       "TotalOut": 0.0,
       "SellPrice": 5000.0,
       "Cost": 3000.0,
-      "LastClient": "",
+      "LastClient": "بيشانكاو كةنجينةي MHD-سليماني",
       "ProfitPerOne": 2000.0,
       "ProfitRate": 66.67,
       "TotalStockValue": 36000.0
@@ -137271,7 +137271,7 @@
       "TotalOut": 0.0,
       "SellPrice": 3500.0,
       "Cost": 3000.0,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ياد-محمد",
       "ProfitPerOne": 500.0,
       "ProfitRate": 16.67,
       "TotalStockValue": 162000.0
@@ -137419,7 +137419,7 @@
       "TotalOut": 0.0,
       "SellPrice": 14000.0,
       "Cost": 13000.0,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي خاوين- برايةتي-ريبوار-دينار",
       "ProfitPerOne": 1000.0,
       "ProfitRate": 7.69,
       "TotalStockValue": 1300000.0
@@ -137467,7 +137467,7 @@
       "TotalOut": 0.0,
       "SellPrice": 8500.0,
       "Cost": 7500.0,
-      "LastClient": "",
+      "LastClient": "نانةواخانةي-نةوزين سيتي",
       "ProfitPerOne": 1000.0,
       "ProfitRate": 13.33,
       "TotalStockValue": 75000.0
@@ -137483,7 +137483,7 @@
       "TotalOut": 0.0,
       "SellPrice": 6000.0,
       "Cost": 5000.0,
-      "LastClient": "",
+      "LastClient": "نانةواخانةي-نةوزين سيتي",
       "ProfitPerOne": 1000.0,
       "ProfitRate": 20.0,
       "TotalStockValue": 10000.0
@@ -137547,7 +137547,7 @@
       "TotalOut": 0.0,
       "SellPrice": 7000.0,
       "Cost": 5212.2000000000007,
-      "LastClient": "",
+      "LastClient": "ليمؤن-ناومالة-سليماني",
       "ProfitPerOne": 1787.8,
       "ProfitRate": 34.3,
       "TotalStockValue": 62546.4
@@ -137563,7 +137563,7 @@
       "TotalOut": 0.0,
       "SellPrice": 8000.0,
       "Cost": 6205.0,
-      "LastClient": "",
+      "LastClient": "ليمؤن-ناومالة-سليماني",
       "ProfitPerOne": 1795.0,
       "ProfitRate": 28.93,
       "TotalStockValue": 74460.0
@@ -137579,7 +137579,7 @@
       "TotalOut": 0.0,
       "SellPrice": 25000.0,
       "Cost": 19856.0,
-      "LastClient": "",
+      "LastClient": "ليمؤن-ناومالة-سليماني",
       "ProfitPerOne": 5144.0,
       "ProfitRate": 25.91,
       "TotalStockValue": 79424.0
@@ -137595,7 +137595,7 @@
       "TotalOut": 0.0,
       "SellPrice": 22000.0,
       "Cost": 17374.0,
-      "LastClient": "",
+      "LastClient": "ليمؤن-ناومالة-سليماني",
       "ProfitPerOne": 4626.0,
       "ProfitRate": 26.63,
       "TotalStockValue": 69496.0
@@ -137611,7 +137611,7 @@
       "TotalOut": 0.0,
       "SellPrice": 1750.0,
       "Cost": 1241.0,
-      "LastClient": "",
+      "LastClient": "ليمؤن-ناومالة-سليماني",
       "ProfitPerOne": 509.0,
       "ProfitRate": 41.02,
       "TotalStockValue": 29784.0
@@ -137627,7 +137627,7 @@
       "TotalOut": 0.0,
       "SellPrice": 8000.0,
       "Cost": 5895.9666666666662,
-      "LastClient": "",
+      "LastClient": "ليمؤن-ناومالة-سليماني",
       "ProfitPerOne": 2104.03,
       "ProfitRate": 35.69,
       "TotalStockValue": 35375.8
@@ -137643,7 +137643,7 @@
       "TotalOut": 0.0,
       "SellPrice": 10000.0,
       "Cost": 8066.4999999999991,
-      "LastClient": "",
+      "LastClient": "ليمؤن-ناومالة-سليماني",
       "ProfitPerOne": 1933.5,
       "ProfitRate": 23.97,
       "TotalStockValue": 48399.0
@@ -137676,7 +137676,7 @@
       "TotalOut": 0.0,
       "SellPrice": 3000.0,
       "Cost": 2357.9,
-      "LastClient": "",
+      "LastClient": "ليمؤن-ناومالة-سليماني",
       "ProfitPerOne": 642.1,
       "ProfitRate": 27.23,
       "TotalStockValue": 28294.8
@@ -137724,7 +137724,7 @@
       "TotalOut": 0.0,
       "SellPrice": 2500.0,
       "Cost": 1861.5000000000002,
-      "LastClient": "",
+      "LastClient": "ليمؤن-ناومالة-سليماني",
       "ProfitPerOne": 638.5,
       "ProfitRate": 34.3,
       "TotalStockValue": 44676.0
@@ -137740,7 +137740,7 @@
       "TotalOut": 0.0,
       "SellPrice": 2000.0,
       "Cost": 1489.2,
-      "LastClient": "",
+      "LastClient": "ليمؤن-ناومالة-سليماني",
       "ProfitPerOne": 510.8,
       "ProfitRate": 34.3,
       "TotalStockValue": 35740.8
@@ -137756,7 +137756,7 @@
       "TotalOut": 0.0,
       "SellPrice": 1500.0,
       "Cost": 1054.8500000000001,
-      "LastClient": "",
+      "LastClient": "ليمؤن-ناومالة-سليماني",
       "ProfitPerOne": 445.15,
       "ProfitRate": 42.2,
       "TotalStockValue": 25316.4
@@ -137772,7 +137772,7 @@
       "TotalOut": 0.0,
       "SellPrice": 3500.0,
       "Cost": 2295.85,
-      "LastClient": "",
+      "LastClient": "ليمؤن-ناومالة-سليماني",
       "ProfitPerOne": 1204.15,
       "ProfitRate": 52.45,
       "TotalStockValue": 27550.2
@@ -137836,7 +137836,7 @@
       "TotalOut": 0.0,
       "SellPrice": 8000.0,
       "Cost": 5584.5,
-      "LastClient": "",
+      "LastClient": "ليمؤن-ناومالة-سليماني",
       "ProfitPerOne": 2415.5,
       "ProfitRate": 43.25,
       "TotalStockValue": 67014.0
@@ -137852,7 +137852,7 @@
       "TotalOut": 0.0,
       "SellPrice": 9000.0,
       "Cost": 6516.4666666666672,
-      "LastClient": "",
+      "LastClient": "ليمؤن-ناومالة-سليماني",
       "ProfitPerOne": 2483.53,
       "ProfitRate": 38.11,
       "TotalStockValue": 39098.8
@@ -137868,7 +137868,7 @@
       "TotalOut": 0.0,
       "SellPrice": 2000.0,
       "Cost": 1551.25,
-      "LastClient": "",
+      "LastClient": "ليمؤن-ناومالة-سليماني",
       "ProfitPerOne": 448.75,
       "ProfitRate": 28.93,
       "TotalStockValue": 37230.0
@@ -137884,7 +137884,7 @@
       "TotalOut": 0.0,
       "SellPrice": 5000.0,
       "Cost": 3412.75,
-      "LastClient": "",
+      "LastClient": "ليمؤن-ناومالة-سليماني",
       "ProfitPerOne": 1587.25,
       "ProfitRate": 46.51,
       "TotalStockValue": 40953.0
@@ -137900,7 +137900,7 @@
       "TotalOut": 0.0,
       "SellPrice": 35000.0,
       "Cost": 28543.0,
-      "LastClient": "",
+      "LastClient": "ليمؤن-ناومالة-سليماني",
       "ProfitPerOne": 6457.0,
       "ProfitRate": 22.62,
       "TotalStockValue": 114172.0
@@ -137932,7 +137932,7 @@
       "TotalOut": 0.0,
       "SellPrice": 6500.0,
       "Cost": 4972.5,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ميهران-سليماني",
       "ProfitPerOne": 1527.5,
       "ProfitRate": 30.72,
       "TotalStockValue": 19890.0
@@ -137964,7 +137964,7 @@
       "TotalOut": 0.0,
       "SellPrice": 4000.0,
       "Cost": 3124.166666666667,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ميهران-سليماني",
       "ProfitPerOne": 875.83,
       "ProfitRate": 28.03,
       "TotalStockValue": 56235.0
@@ -137980,7 +137980,7 @@
       "TotalOut": 0.0,
       "SellPrice": 13000.0,
       "Cost": 9435.0,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ميهران-سليماني",
       "ProfitPerOne": 3565.0,
       "ProfitRate": 37.78,
       "TotalStockValue": 37740.0
@@ -137996,7 +137996,7 @@
       "TotalOut": 0.0,
       "SellPrice": 6500.0,
       "Cost": 4717.5,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ميهران-سليماني",
       "ProfitPerOne": 1782.5,
       "ProfitRate": 37.78,
       "TotalStockValue": 37740.0
@@ -138012,7 +138012,7 @@
       "TotalOut": 0.0,
       "SellPrice": 4500.0,
       "Cost": 3315.0,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ميهران-سليماني",
       "ProfitPerOne": 1185.0,
       "ProfitRate": 35.75,
       "TotalStockValue": 26520.0
@@ -138028,7 +138028,7 @@
       "TotalOut": 0.0,
       "SellPrice": 2000.0,
       "Cost": 1593.75,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ميهران-سليماني",
       "ProfitPerOne": 406.25,
       "ProfitRate": 25.49,
       "TotalStockValue": 38250.0
@@ -138060,7 +138060,7 @@
       "TotalOut": 0.0,
       "SellPrice": 4000.0,
       "Cost": 3315.0,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ميهران-سليماني",
       "ProfitPerOne": 685.0,
       "ProfitRate": 20.66,
       "TotalStockValue": 79560.0
@@ -138076,7 +138076,7 @@
       "TotalOut": 0.0,
       "SellPrice": 3500.0,
       "Cost": 2932.5,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ميهران-سليماني",
       "ProfitPerOne": 567.5,
       "ProfitRate": 19.35,
       "TotalStockValue": 70380.0
@@ -138092,7 +138092,7 @@
       "TotalOut": 0.0,
       "SellPrice": 14000.0,
       "Cost": 9882.5,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ميهران-سليماني",
       "ProfitPerOne": 4117.5,
       "ProfitRate": 41.66,
       "TotalStockValue": 59295.0
@@ -138142,7 +138142,7 @@
       "TotalOut": 0.0,
       "SellPrice": 8000.0,
       "Cost": 6057.5,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ميهران-سليماني",
       "ProfitPerOne": 1942.5,
       "ProfitRate": 32.07,
       "TotalStockValue": 36345.0
@@ -138158,7 +138158,7 @@
       "TotalOut": 0.0,
       "SellPrice": 3500.0,
       "Cost": 2677.5,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ميهران-سليماني",
       "ProfitPerOne": 822.5,
       "ProfitRate": 30.72,
       "TotalStockValue": 64260.0
@@ -138174,7 +138174,7 @@
       "TotalOut": 0.0,
       "SellPrice": 9000.0,
       "Cost": 6687.5,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ميهران-سليماني",
       "ProfitPerOne": 2312.5,
       "ProfitRate": 34.58,
       "TotalStockValue": 40125.0
@@ -138190,7 +138190,7 @@
       "TotalOut": 0.0,
       "SellPrice": 12000.0,
       "Cost": 10950.0,
-      "LastClient": "",
+      "LastClient": "ليمؤن-ناومالة-سليماني",
       "ProfitPerOne": 1050.0,
       "ProfitRate": 9.59,
       "TotalStockValue": 65700.0
@@ -138206,7 +138206,7 @@
       "TotalOut": 0.0,
       "SellPrice": 8000.0,
       "Cost": 7300.0,
-      "LastClient": "",
+      "LastClient": "ليمؤن-ناومالة-سليماني",
       "ProfitPerOne": 700.0,
       "ProfitRate": 9.59,
       "TotalStockValue": 43800.0
@@ -138222,7 +138222,7 @@
       "TotalOut": 0.0,
       "SellPrice": 1000.0,
       "Cost": 730.0,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي بةندةر-ناومالة سليماني",
       "ProfitPerOne": 270.0,
       "ProfitRate": 36.99,
       "TotalStockValue": 78840.0
@@ -138238,7 +138238,7 @@
       "TotalOut": 0.0,
       "SellPrice": 500.0,
       "Cost": 375.0,
-      "LastClient": "",
+      "LastClient": "شركة الجيد- KBB-شياو",
       "ProfitPerOne": 125.0,
       "ProfitRate": 33.33,
       "TotalStockValue": 0.0
@@ -138441,7 +138441,7 @@
       "TotalOut": 0.0,
       "SellPrice": 2500.0,
       "Cost": 1750.0,
-      "LastClient": "",
+      "LastClient": "فروشكاى راويز ناومالة",
       "ProfitPerOne": 750.0,
       "ProfitRate": 42.86,
       "TotalStockValue": 42000.0
@@ -138602,7 +138602,7 @@
       "TotalOut": 0.0,
       "SellPrice": 32000.0,
       "Cost": 25500.0,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ابو محمد-م.مسعود ",
       "ProfitPerOne": 6500.0,
       "ProfitRate": 25.49,
       "TotalStockValue": 51000.0
@@ -138618,7 +138618,7 @@
       "TotalOut": 0.0,
       "SellPrice": 25000.0,
       "Cost": 17000.0,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ابو محمد-م.مسعود ",
       "ProfitPerOne": 8000.0,
       "ProfitRate": 47.06,
       "TotalStockValue": 51000.0
@@ -138634,7 +138634,7 @@
       "TotalOut": 0.0,
       "SellPrice": 25000.0,
       "Cost": 18000.0,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ابو محمد-م.مسعود ",
       "ProfitPerOne": 7000.0,
       "ProfitRate": 38.89,
       "TotalStockValue": 54000.0
@@ -138650,7 +138650,7 @@
       "TotalOut": 0.0,
       "SellPrice": 25000.0,
       "Cost": 18000.0,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ابو محمد-م.مسعود ",
       "ProfitPerOne": 7000.0,
       "ProfitRate": 38.89,
       "TotalStockValue": 54000.0
@@ -138666,7 +138666,7 @@
       "TotalOut": 0.0,
       "SellPrice": 22000.0,
       "Cost": 16000.0,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ابو محمد-م.مسعود ",
       "ProfitPerOne": 6000.0,
       "ProfitRate": 37.5,
       "TotalStockValue": 48000.0
@@ -138682,7 +138682,7 @@
       "TotalOut": 0.0,
       "SellPrice": 20000.0,
       "Cost": 15500.0,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ابو محمد-م.مسعود ",
       "ProfitPerOne": 4500.0,
       "ProfitRate": 29.03,
       "TotalStockValue": 46500.0
@@ -138698,7 +138698,7 @@
       "TotalOut": 0.0,
       "SellPrice": 12500.0,
       "Cost": 9500.0,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ابو محمد-م.مسعود ",
       "ProfitPerOne": 3000.0,
       "ProfitRate": 31.58,
       "TotalStockValue": 28500.0
@@ -138714,7 +138714,7 @@
       "TotalOut": 0.0,
       "SellPrice": 16000.0,
       "Cost": 12500.0,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ابو محمد-م.مسعود ",
       "ProfitPerOne": 3500.0,
       "ProfitRate": 28.0,
       "TotalStockValue": 50000.0
@@ -138730,7 +138730,7 @@
       "TotalOut": 0.0,
       "SellPrice": 15000.0,
       "Cost": 11500.0,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ابو محمد-م.مسعود ",
       "ProfitPerOne": 3500.0,
       "ProfitRate": 30.43,
       "TotalStockValue": 23000.0
@@ -138778,7 +138778,7 @@
       "TotalOut": 0.0,
       "SellPrice": 1500.0,
       "Cost": 1277.7777777777778,
-      "LastClient": "",
+      "LastClient": "ساحل العراق / بكاه",
       "ProfitPerOne": 222.22,
       "ProfitRate": 17.39,
       "TotalStockValue": 23000.0
@@ -138826,7 +138826,7 @@
       "TotalOut": 0.0,
       "SellPrice": 2750.0,
       "Cost": 2375.0,
-      "LastClient": "",
+      "LastClient": "زانياركريم-طباخ",
       "ProfitPerOne": 375.0,
       "ProfitRate": 15.79,
       "TotalStockValue": 28500.0
@@ -138858,7 +138858,7 @@
       "TotalOut": 0.0,
       "SellPrice": 3500.0,
       "Cost": 3000.0,
-      "LastClient": "",
+      "LastClient": "زانياركريم -كؤكاي موبين-",
       "ProfitPerOne": 500.0,
       "ProfitRate": 16.67,
       "TotalStockValue": 24000.0
@@ -138938,7 +138938,7 @@
       "TotalOut": 0.0,
       "SellPrice": 3000.0,
       "Cost": 2633.3333333333335,
-      "LastClient": "",
+      "LastClient": "زانياركريم -كؤكاي موبين-",
       "ProfitPerOne": 366.67,
       "ProfitRate": 13.92,
       "TotalStockValue": 39500.0
@@ -139068,7 +139068,7 @@
       "TotalOut": 0.0,
       "SellPrice": 2000.0,
       "Cost": 1750.0,
-      "LastClient": "",
+      "LastClient": "وةنةوشةي شار-شرين عسل",
       "ProfitPerOne": 250.0,
       "ProfitRate": 14.29,
       "TotalStockValue": 14000.0
@@ -139182,7 +139182,7 @@
       "TotalOut": 0.0,
       "SellPrice": 1250.0,
       "Cost": 1083.3333333333333,
-      "LastClient": "",
+      "LastClient": "وةنةوشةي شار-شرين عسل",
       "ProfitPerOne": 166.67,
       "ProfitRate": 15.38,
       "TotalStockValue": 26000.0
@@ -139214,7 +139214,7 @@
       "TotalOut": 0.0,
       "SellPrice": 1000.0,
       "Cost": 833.33333333333337,
-      "LastClient": "",
+      "LastClient": "وةنةوشةي شار-شرين عسل",
       "ProfitPerOne": 166.67,
       "ProfitRate": 20.0,
       "TotalStockValue": 10000.0
@@ -139230,7 +139230,7 @@
       "TotalOut": 0.0,
       "SellPrice": 1500.0,
       "Cost": 1200.0,
-      "LastClient": "",
+      "LastClient": "وةنةوشةي شار-شرين عسل",
       "ProfitPerOne": 300.0,
       "ProfitRate": 25.0,
       "TotalStockValue": 12000.0
@@ -139301,7 +139301,7 @@
       "TotalOut": 0.0,
       "SellPrice": 750.0,
       "Cost": 604.16666666666663,
-      "LastClient": "",
+      "LastClient": "وةنةوشةي شار-شرين عسل",
       "ProfitPerOne": 145.83,
       "ProfitRate": 24.14,
       "TotalStockValue": 7250.0
@@ -139366,7 +139366,7 @@
       "TotalOut": 0.0,
       "SellPrice": 1250.0,
       "Cost": 1047.6190476190477,
-      "LastClient": "",
+      "LastClient": "وةنةوشةي شار-شرين عسل",
       "ProfitPerOne": 202.38,
       "ProfitRate": 19.32,
       "TotalStockValue": 44000.0
@@ -139414,7 +139414,7 @@
       "TotalOut": 0.0,
       "SellPrice": 1250.0,
       "Cost": 1000.0,
-      "LastClient": "",
+      "LastClient": "وةنةوشةي شار-شرين عسل",
       "ProfitPerOne": 250.0,
       "ProfitRate": 25.0,
       "TotalStockValue": 6000.0
@@ -139430,7 +139430,7 @@
       "TotalOut": 1.0,
       "SellPrice": 2750.0,
       "Cost": 2500.0,
-      "LastClient": "",
+      "LastClient": "وةنةوشةي شار-شرين عسل",
       "ProfitPerOne": 250.0,
       "ProfitRate": 10.0,
       "TotalStockValue": 17500.0
@@ -139464,7 +139464,7 @@
       "TotalOut": 0.0,
       "SellPrice": 750.0,
       "Cost": 604.16666666666663,
-      "LastClient": "",
+      "LastClient": "وةنةوشةي شار-شرين عسل",
       "ProfitPerOne": 145.83,
       "ProfitRate": 24.14,
       "TotalStockValue": 7250.0
@@ -139496,7 +139496,7 @@
       "TotalOut": 0.0,
       "SellPrice": 2500.0,
       "Cost": 2145.8333333333335,
-      "LastClient": "",
+      "LastClient": "وةنةوشةي شار-شرين عسل",
       "ProfitPerOne": 354.17,
       "ProfitRate": 16.5,
       "TotalStockValue": 51500.0
@@ -139528,7 +139528,7 @@
       "TotalOut": 0.0,
       "SellPrice": 2250.0,
       "Cost": 1875.0,
-      "LastClient": "",
+      "LastClient": "وةنةوشةي شار-شرين عسل",
       "ProfitPerOne": 375.0,
       "ProfitRate": 20.0,
       "TotalStockValue": 7500.0
@@ -139577,7 +139577,7 @@
       "TotalOut": 0.0,
       "SellPrice": 2500.0,
       "Cost": 2000.0,
-      "LastClient": "",
+      "LastClient": "نبع الرحمة-عبدالرزاق صباح-دينار",
       "ProfitPerOne": 500.0,
       "ProfitRate": 25.0,
       "TotalStockValue": 12000.0
@@ -139593,7 +139593,7 @@
       "TotalOut": 0.0,
       "SellPrice": 2500.0,
       "Cost": 2000.0,
-      "LastClient": "",
+      "LastClient": "نبع الرحمة-عبدالرزاق صباح-دينار",
       "ProfitPerOne": 500.0,
       "ProfitRate": 25.0,
       "TotalStockValue": 12000.0
@@ -139786,7 +139786,7 @@
       "TotalOut": 0.0,
       "SellPrice": 10000.0,
       "Cost": 9333.3333333333339,
-      "LastClient": "",
+      "LastClient": "2-كوكاي ئالين+هاوار كروب",
       "ProfitPerOne": 666.67,
       "ProfitRate": 7.14,
       "TotalStockValue": 84000.0
@@ -139803,7 +139803,7 @@
       "TotalOut": 0.0,
       "SellPrice": 2750.0,
       "Cost": 2250.0,
-      "LastClient": "",
+      "LastClient": "2-كوكاي ئالين+هاوار كروب",
       "ProfitPerOne": 500.0,
       "ProfitRate": 22.22,
       "TotalStockValue": 81000.0
@@ -139999,7 +139999,7 @@
       "TotalOut": 0.0,
       "SellPrice": 250.0,
       "Cost": 225.0,
-      "LastClient": "",
+      "LastClient": "كولدين ميلك / كالة",
       "ProfitPerOne": 25.0,
       "ProfitRate": 11.11,
       "TotalStockValue": 9000.0
@@ -140016,7 +140016,7 @@
       "TotalOut": 0.0,
       "SellPrice": 2500.0,
       "Cost": 1750.0,
-      "LastClient": "",
+      "LastClient": "مخزن بهاءالدين-سليماني",
       "ProfitPerOne": 750.0,
       "ProfitRate": 42.86,
       "TotalStockValue": 84000.0
@@ -140065,7 +140065,7 @@
       "TotalOut": 0.0,
       "SellPrice": 750.0,
       "Cost": 375.0,
-      "LastClient": "",
+      "LastClient": "مخزن بهاءالدين-سليماني",
       "ProfitPerOne": 375.0,
       "ProfitRate": 100.0,
       "TotalStockValue": 27000.0
@@ -140119,7 +140119,7 @@
       "TotalOut": 0.0,
       "SellPrice": 1000.0,
       "Cost": 750.0,
-      "LastClient": "",
+      "LastClient": "مخزن بهاءالدين-سليماني",
       "ProfitPerOne": 250.0,
       "ProfitRate": 33.33,
       "TotalStockValue": 36000.0
@@ -140135,7 +140135,7 @@
       "TotalOut": 0.0,
       "SellPrice": 1000.0,
       "Cost": 730.0,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي بةندةر-ناومالة سليماني",
       "ProfitPerOne": 270.0,
       "ProfitRate": 36.99,
       "TotalStockValue": 26280.0
@@ -140151,7 +140151,7 @@
       "TotalOut": 0.0,
       "SellPrice": 3500.0,
       "Cost": 2250.0,
-      "LastClient": "",
+      "LastClient": "مخزن بهاءالدين-سليماني",
       "ProfitPerOne": 1250.0,
       "ProfitRate": 55.56,
       "TotalStockValue": 81000.0
@@ -140167,7 +140167,7 @@
       "TotalOut": 0.0,
       "SellPrice": 1500.0,
       "Cost": 1000.0,
-      "LastClient": "",
+      "LastClient": "مخزن بهاءالدين-سليماني",
       "ProfitPerOne": 500.0,
       "ProfitRate": 50.0,
       "TotalStockValue": 48000.0
@@ -140215,7 +140215,7 @@
       "TotalOut": 0.0,
       "SellPrice": 6000.0,
       "Cost": 4250.0,
-      "LastClient": "",
+      "LastClient": "مخزن بهاءالدين-سليماني",
       "ProfitPerOne": 1750.0,
       "ProfitRate": 41.18,
       "TotalStockValue": 51000.0
@@ -140265,7 +140265,7 @@
       "TotalOut": 0.0,
       "SellPrice": 7000.0,
       "Cost": 4526.0,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي بةندةر-ناومالة سليماني",
       "ProfitPerOne": 2474.0,
       "ProfitRate": 54.66,
       "TotalStockValue": 54312.0
@@ -140281,7 +140281,7 @@
       "TotalOut": 0.0,
       "SellPrice": 16000.0,
       "Cost": 11315.0,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي بةندةر-ناومالة سليماني",
       "ProfitPerOne": 4685.0,
       "ProfitRate": 41.41,
       "TotalStockValue": 135780.0
@@ -140297,7 +140297,7 @@
       "TotalOut": 0.0,
       "SellPrice": 1000.0,
       "Cost": 657.0,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي بةندةر-ناومالة سليماني",
       "ProfitPerOne": 343.0,
       "ProfitRate": 52.21,
       "TotalStockValue": 39420.0
@@ -140313,7 +140313,7 @@
       "TotalOut": 0.0,
       "SellPrice": 1000.0,
       "Cost": 803.00000000000011,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي بةندةر-ناومالة سليماني",
       "ProfitPerOne": 197.0,
       "ProfitRate": 24.53,
       "TotalStockValue": 64240.0
@@ -140377,7 +140377,7 @@
       "TotalOut": 0.0,
       "SellPrice": 4000.0,
       "Cost": 2336.0,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي بةندةر-ناومالة سليماني",
       "ProfitPerOne": 1664.0,
       "ProfitRate": 71.23,
       "TotalStockValue": 56064.0
@@ -140393,7 +140393,7 @@
       "TotalOut": 0.0,
       "SellPrice": 3000.0,
       "Cost": 1897.9999999999998,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي بةندةر-ناومالة سليماني",
       "ProfitPerOne": 1102.0,
       "ProfitRate": 58.06,
       "TotalStockValue": 68328.0
@@ -140425,7 +140425,7 @@
       "TotalOut": 0.0,
       "SellPrice": 750.0,
       "Cost": 335.8,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي بةندةر-ناومالة سليماني",
       "ProfitPerOne": 414.2,
       "ProfitRate": 123.35,
       "TotalStockValue": 80592.0
@@ -140441,7 +140441,7 @@
       "TotalOut": 0.0,
       "SellPrice": 3000.0,
       "Cost": 1605.9999999999998,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي بةندةر-ناومالة سليماني",
       "ProfitPerOne": 1394.0,
       "ProfitRate": 86.8,
       "TotalStockValue": 38544.0
@@ -140491,7 +140491,7 @@
       "TotalOut": 0.0,
       "SellPrice": 1000.0,
       "Cost": 759.2,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي بةندةر-ناومالة سليماني",
       "ProfitPerOne": 240.8,
       "ProfitRate": 31.72,
       "TotalStockValue": 54662.4
@@ -140557,7 +140557,7 @@
       "TotalOut": 0.0,
       "SellPrice": 4000.0,
       "Cost": 1833.3333333333333,
-      "LastClient": "",
+      "LastClient": "محمد البغدادي موبايلات عبد",
       "ProfitPerOne": 2166.67,
       "ProfitRate": 118.18,
       "TotalStockValue": 22000.0
@@ -140573,7 +140573,7 @@
       "TotalOut": 0.0,
       "SellPrice": 5000.0,
       "Cost": 2250.0,
-      "LastClient": "",
+      "LastClient": "محمد البغدادي موبايلات عبد",
       "ProfitPerOne": 2750.0,
       "ProfitRate": 122.22,
       "TotalStockValue": 13500.0
@@ -140589,7 +140589,7 @@
       "TotalOut": 0.0,
       "SellPrice": 2000.0,
       "Cost": 1000.0,
-      "LastClient": "",
+      "LastClient": "محمد البغدادي موبايلات عبد",
       "ProfitPerOne": 1000.0,
       "ProfitRate": 100.0,
       "TotalStockValue": 6000.0
@@ -140606,7 +140606,7 @@
       "TotalOut": 0.0,
       "SellPrice": 2500.0,
       "Cost": 1000.0,
-      "LastClient": "",
+      "LastClient": "محمد البغدادي موبايلات عبد",
       "ProfitPerOne": 1500.0,
       "ProfitRate": 150.0,
       "TotalStockValue": 12000.0
@@ -140638,7 +140638,7 @@
       "TotalOut": 0.0,
       "SellPrice": 2000.0,
       "Cost": 1000.0,
-      "LastClient": "",
+      "LastClient": "محمد البغدادي موبايلات عبد",
       "ProfitPerOne": 1000.0,
       "ProfitRate": 100.0,
       "TotalStockValue": 6000.0
@@ -140656,7 +140656,7 @@
       "TotalOut": 0.0,
       "SellPrice": 15000.0,
       "Cost": 7500.0,
-      "LastClient": "",
+      "LastClient": "محمد البغدادي موبايلات عبد",
       "ProfitPerOne": 7500.0,
       "ProfitRate": 100.0,
       "TotalStockValue": 60000.0
@@ -140672,7 +140672,7 @@
       "TotalOut": 0.0,
       "SellPrice": 4000.0,
       "Cost": 2250.0,
-      "LastClient": "",
+      "LastClient": "محمد البغدادي موبايلات عبد",
       "ProfitPerOne": 1750.0,
       "ProfitRate": 77.78,
       "TotalStockValue": 13500.0
@@ -140689,7 +140689,7 @@
       "TotalOut": 0.0,
       "SellPrice": 4500.0,
       "Cost": 2250.0,
-      "LastClient": "",
+      "LastClient": "محمد البغدادي موبايلات عبد",
       "ProfitPerOne": 2250.0,
       "ProfitRate": 100.0,
       "TotalStockValue": 27000.0
@@ -140737,7 +140737,7 @@
       "TotalOut": 0.0,
       "SellPrice": 1500.0,
       "Cost": 1166.6666666666667,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ابو محمد-م.مسعود ",
       "ProfitPerOne": 333.33,
       "ProfitRate": 28.57,
       "TotalStockValue": 28000.0
@@ -140801,7 +140801,7 @@
       "TotalOut": 0.0,
       "SellPrice": 1500.0,
       "Cost": 916.66666666666663,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ابو محمد-م.مسعود ",
       "ProfitPerOne": 583.33,
       "ProfitRate": 63.64,
       "TotalStockValue": 11000.0
@@ -140817,7 +140817,7 @@
       "TotalOut": 0.0,
       "SellPrice": 3000.0,
       "Cost": 2000.0,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ابو محمد-م.مسعود ",
       "ProfitPerOne": 1000.0,
       "ProfitRate": 50.0,
       "TotalStockValue": 24000.0
@@ -140849,7 +140849,7 @@
       "TotalOut": 0.0,
       "SellPrice": 1500.0,
       "Cost": 1041.6666666666667,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ابو محمد-م.مسعود ",
       "ProfitPerOne": 458.33,
       "ProfitRate": 44.0,
       "TotalStockValue": 12500.0
@@ -140881,7 +140881,7 @@
       "TotalOut": 0.0,
       "SellPrice": 500.0,
       "Cost": 416.66666666666669,
-      "LastClient": "",
+      "LastClient": "كؤكاي كاروانجي -فاخرة -فايربؤل",
       "ProfitPerOne": 83.33,
       "ProfitRate": 20.0,
       "TotalStockValue": 10000.0
@@ -140897,7 +140897,7 @@
       "TotalOut": 0.0,
       "SellPrice": 1500.0,
       "Cost": 1200.0,
-      "LastClient": "",
+      "LastClient": "كؤكاي بةهمةن-سحر معلبات",
       "ProfitPerOne": 300.0,
       "ProfitRate": 25.0,
       "TotalStockValue": 28800.0
@@ -140913,7 +140913,7 @@
       "TotalOut": 0.0,
       "SellPrice": 1500.0,
       "Cost": 1200.0,
-      "LastClient": "",
+      "LastClient": "كؤكاي بةهمةن-سحر معلبات",
       "ProfitPerOne": 300.0,
       "ProfitRate": 25.0,
       "TotalStockValue": 43200.0
@@ -140929,7 +140929,7 @@
       "TotalOut": 0.0,
       "SellPrice": 2500.0,
       "Cost": 2000.0,
-      "LastClient": "",
+      "LastClient": "كؤكاي بةهمةن-سحر معلبات",
       "ProfitPerOne": 500.0,
       "ProfitRate": 25.0,
       "TotalStockValue": 48000.0
@@ -140984,7 +140984,7 @@
       "TotalOut": 0.0,
       "SellPrice": 2000.0,
       "Cost": 1216.6666666666667,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي بةندةر-ناومالة سليماني",
       "ProfitPerOne": 783.33,
       "ProfitRate": 64.38,
       "TotalStockValue": 14600.0
@@ -141000,7 +141000,7 @@
       "TotalOut": 0.0,
       "SellPrice": 2000.0,
       "Cost": 1009.8333333333333,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي بةندةر-ناومالة سليماني",
       "ProfitPerOne": 990.17,
       "ProfitRate": 98.05,
       "TotalStockValue": 36354.0
@@ -141016,7 +141016,7 @@
       "TotalOut": 0.0,
       "SellPrice": 2000.0,
       "Cost": 1331.0333333333333,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي بةندةر-ناومالة سليماني",
       "ProfitPerOne": 668.97,
       "ProfitRate": 50.26,
       "TotalStockValue": 23958.6
@@ -141032,7 +141032,7 @@
       "TotalOut": 0.0,
       "SellPrice": 2500.0,
       "Cost": 1460.0,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي بةندةر-ناومالة سليماني",
       "ProfitPerOne": 1040.0,
       "ProfitRate": 71.23,
       "TotalStockValue": 35040.0
@@ -141048,7 +141048,7 @@
       "TotalOut": 0.0,
       "SellPrice": 1000.0,
       "Cost": 817.6,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي بةندةر-ناومالة سليماني",
       "ProfitPerOne": 182.4,
       "ProfitRate": 22.31,
       "TotalStockValue": 24528.0
@@ -141064,7 +141064,7 @@
       "TotalOut": 0.0,
       "SellPrice": 3000.0,
       "Cost": 1995.333333333333,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي بةندةر-ناومالة سليماني",
       "ProfitPerOne": 1004.67,
       "ProfitRate": 50.35,
       "TotalStockValue": 47888.0
@@ -141080,7 +141080,7 @@
       "TotalOut": 0.0,
       "SellPrice": 1000.0,
       "Cost": 863.83333333333337,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي بةندةر-ناومالة سليماني",
       "ProfitPerOne": 136.17,
       "ProfitRate": 15.76,
       "TotalStockValue": 20732.0
@@ -141096,7 +141096,7 @@
       "TotalOut": 0.0,
       "SellPrice": 22000.0,
       "Cost": 17228.0,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي بةندةر-ناومالة سليماني",
       "ProfitPerOne": 4772.0,
       "ProfitRate": 27.7,
       "TotalStockValue": 103368.0
@@ -141112,7 +141112,7 @@
       "TotalOut": 0.0,
       "SellPrice": 25000.0,
       "Cost": 18688.0,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي بةندةر-ناومالة سليماني",
       "ProfitPerOne": 6312.0,
       "ProfitRate": 33.78,
       "TotalStockValue": 112128.0
@@ -141128,7 +141128,7 @@
       "TotalOut": 0.0,
       "SellPrice": 45000.0,
       "Cost": 36000.0,
-      "LastClient": "",
+      "LastClient": "كي جي عطور سليمانيه",
       "ProfitPerOne": 9000.0,
       "ProfitRate": 25.0,
       "TotalStockValue": 72000.0
@@ -141144,7 +141144,7 @@
       "TotalOut": 0.0,
       "SellPrice": 500.0,
       "Cost": 535.33333333333337,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي بةندةر-ناومالة سليماني",
       "ProfitPerOne": -35.33,
       "ProfitRate": -6.6,
       "TotalStockValue": 25696.0
@@ -141160,7 +141160,7 @@
       "TotalOut": 0.0,
       "SellPrice": 3250.0,
       "Cost": 2750.0,
-      "LastClient": "",
+      "LastClient": "كومبانياي بيري-سليماني",
       "ProfitPerOne": 500.0,
       "ProfitRate": 18.18,
       "TotalStockValue": 33000.0
@@ -141176,7 +141176,7 @@
       "TotalOut": 0.0,
       "SellPrice": 3250.0,
       "Cost": 2750.0,
-      "LastClient": "",
+      "LastClient": "كومبانياي بيري-سليماني",
       "ProfitPerOne": 500.0,
       "ProfitRate": 18.18,
       "TotalStockValue": 33000.0
@@ -141192,7 +141192,7 @@
       "TotalOut": 0.0,
       "SellPrice": 1000.0,
       "Cost": 833.33333333333337,
-      "LastClient": "",
+      "LastClient": "وةنةوشةي شار-شرين عسل",
       "ProfitPerOne": 166.67,
       "ProfitRate": 20.0,
       "TotalStockValue": 10000.0
@@ -141262,7 +141262,7 @@
       "TotalOut": 0.0,
       "SellPrice": 1250.0,
       "Cost": 1000.0,
-      "LastClient": "",
+      "LastClient": "كولدين ميلك / كالة",
       "ProfitPerOne": 250.0,
       "ProfitRate": 25.0,
       "TotalStockValue": 9000.0
@@ -141278,7 +141278,7 @@
       "TotalOut": 0.0,
       "SellPrice": 750.0,
       "Cost": 625.0,
-      "LastClient": "",
+      "LastClient": "كولدين ميلك / كالة",
       "ProfitPerOne": 125.0,
       "ProfitRate": 20.0,
       "TotalStockValue": 15000.0
@@ -141314,7 +141314,7 @@
       "TotalOut": 0.0,
       "SellPrice": 2500.0,
       "Cost": 2166.6666666666665,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي بيري-جكليت و نةستةلة",
       "ProfitPerOne": 333.33,
       "ProfitRate": 15.38,
       "TotalStockValue": 65000.0
@@ -141346,7 +141346,7 @@
       "TotalOut": 0.0,
       "SellPrice": 4500.0,
       "Cost": 3750.0,
-      "LastClient": "",
+      "LastClient": "شيرةمةني لادي-كاك صلاح ماست",
       "ProfitPerOne": 750.0,
       "ProfitRate": 20.0,
       "TotalStockValue": 33750.0
@@ -141362,7 +141362,7 @@
       "TotalOut": 0.0,
       "SellPrice": 500.0,
       "Cost": 425.0,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي بيري-جكليت و نةستةلة",
       "ProfitPerOne": 75.0,
       "ProfitRate": 17.65,
       "TotalStockValue": 20400.0
@@ -141394,7 +141394,7 @@
       "TotalOut": 0.0,
       "SellPrice": 250.0,
       "Cost": 229.16666666666666,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي بيري-جكليت و نةستةلة",
       "ProfitPerOne": 20.83,
       "ProfitRate": 9.09,
       "TotalStockValue": 11000.0
@@ -141410,7 +141410,7 @@
       "TotalOut": 0.0,
       "SellPrice": 3500.0,
       "Cost": 3000.0,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي بيري-جكليت و نةستةلة",
       "ProfitPerOne": 500.0,
       "ProfitRate": 16.67,
       "TotalStockValue": 36000.0
@@ -141445,7 +141445,7 @@
       "TotalOut": 0.0,
       "SellPrice": 6500.0,
       "Cost": 5500.0,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي البة-ميرسين دينار-حسين",
       "ProfitPerOne": 1000.0,
       "ProfitRate": 18.18,
       "TotalStockValue": 44000.0
@@ -141477,7 +141477,7 @@
       "TotalOut": 0.0,
       "SellPrice": 2500.0,
       "Cost": 2083.3333333333335,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي البة-ميرسين دينار-حسين",
       "ProfitPerOne": 416.67,
       "ProfitRate": 20.0,
       "TotalStockValue": 25000.0
@@ -141493,7 +141493,7 @@
       "TotalOut": 0.0,
       "SellPrice": 4000.0,
       "Cost": 3425.0,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي البة-ميرسين دينار-حسين",
       "ProfitPerOne": 575.0,
       "ProfitRate": 16.79,
       "TotalStockValue": 68500.0
@@ -141541,7 +141541,7 @@
       "TotalOut": 0.0,
       "SellPrice": 5500.0,
       "Cost": 4500.0,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي البة-ميرسين دينار-حسين",
       "ProfitPerOne": 1000.0,
       "ProfitRate": 22.22,
       "TotalStockValue": 36000.0
@@ -141557,7 +141557,7 @@
       "TotalOut": 0.0,
       "SellPrice": 2500.0,
       "Cost": 1875.0,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي البة-ميرسين دينار-حسين",
       "ProfitPerOne": 625.0,
       "ProfitRate": 33.33,
       "TotalStockValue": 15000.0
@@ -141573,7 +141573,7 @@
       "TotalOut": 0.0,
       "SellPrice": 2000.0,
       "Cost": 1770.8333333333333,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي البة-ميرسين دينار-حسين",
       "ProfitPerOne": 229.17,
       "ProfitRate": 12.94,
       "TotalStockValue": 21250.0
@@ -141589,7 +141589,7 @@
       "TotalOut": 0.0,
       "SellPrice": 3500.0,
       "Cost": 1958.3333333333333,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي البة-ميرسين دينار-حسين",
       "ProfitPerOne": 1541.67,
       "ProfitRate": 78.72,
       "TotalStockValue": 23500.0
@@ -141637,7 +141637,7 @@
       "TotalOut": 0.0,
       "SellPrice": 5000.0,
       "Cost": 4375.0,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي البة-ميرسين دينار-حسين",
       "ProfitPerOne": 625.0,
       "ProfitRate": 14.29,
       "TotalStockValue": 26250.0
@@ -141653,7 +141653,7 @@
       "TotalOut": 0.0,
       "SellPrice": 3500.0,
       "Cost": 3125.0,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي البة-ميرسين دينار-حسين",
       "ProfitPerOne": 375.0,
       "ProfitRate": 12.0,
       "TotalStockValue": 56250.0
@@ -141701,7 +141701,7 @@
       "TotalOut": 0.0,
       "SellPrice": 2250.0,
       "Cost": 1729.1666666666667,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي البة-ميرسين دينار-حسين",
       "ProfitPerOne": 520.83,
       "ProfitRate": 30.12,
       "TotalStockValue": 20750.0
@@ -141717,7 +141717,7 @@
       "TotalOut": 0.0,
       "SellPrice": 1500.0,
       "Cost": 1055.5555555555557,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي البة-ميرسين دينار-حسين",
       "ProfitPerOne": 444.44,
       "ProfitRate": 42.11,
       "TotalStockValue": 19000.0
@@ -141733,7 +141733,7 @@
       "TotalOut": 0.0,
       "SellPrice": 2250.0,
       "Cost": 1750.0,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي البة-ميرسين دينار-حسين",
       "ProfitPerOne": 500.0,
       "ProfitRate": 28.57,
       "TotalStockValue": 17500.0
@@ -141749,7 +141749,7 @@
       "TotalOut": 0.0,
       "SellPrice": 1500.0,
       "Cost": 1055.5555555555557,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي البة-ميرسين دينار-حسين",
       "ProfitPerOne": 444.44,
       "ProfitRate": 42.11,
       "TotalStockValue": 19000.0
@@ -141765,7 +141765,7 @@
       "TotalOut": 0.0,
       "SellPrice": 16000.0,
       "Cost": 14475.0,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي البة-ميرسين دينار-حسين",
       "ProfitPerOne": 1525.0,
       "ProfitRate": 10.54,
       "TotalStockValue": 144750.0
@@ -141797,7 +141797,7 @@
       "TotalOut": 0.0,
       "SellPrice": 2500.0,
       "Cost": 1975.0,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي البة-ميرسين دينار-حسين",
       "ProfitPerOne": 525.0,
       "ProfitRate": 26.58,
       "TotalStockValue": 39500.0
@@ -141813,7 +141813,7 @@
       "TotalOut": 0.0,
       "SellPrice": 7500.0,
       "Cost": 6875.0,
-      "LastClient": "",
+      "LastClient": "زيد ميديا-دورو -ئيفي دينار",
       "ProfitPerOne": 625.0,
       "ProfitRate": 9.09,
       "TotalStockValue": 137500.0
@@ -141829,7 +141829,7 @@
       "TotalOut": 0.0,
       "SellPrice": 4000.0,
       "Cost": 3500.0,
-      "LastClient": "",
+      "LastClient": "مكتب ئالان-كؤران",
       "ProfitPerOne": 500.0,
       "ProfitRate": 14.29,
       "TotalStockValue": 189000.0
@@ -141901,7 +141901,7 @@
       "TotalOut": 0.0,
       "SellPrice": 250.0,
       "Cost": 218.75,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي بيري-جكليت و نةستةلة",
       "ProfitPerOne": 31.25,
       "ProfitRate": 14.29,
       "TotalStockValue": 10500.0
@@ -141922,7 +141922,7 @@
       "TotalOut": 0.0,
       "SellPrice": 250.0,
       "Cost": 218.75,
-      "LastClient": "",
+      "LastClient": "كؤمبانياي بيري-جكليت و نةستةلة",
       "ProfitPerOne": 31.25,
       "ProfitRate": 14.29,
       "TotalStockValue": 31500.0
@@ -141938,7 +141938,7 @@
       "TotalOut": 0.0,
       "SellPrice": 4000.0,
       "Cost": 3500.0,
-      "LastClient": "",
+      "LastClient": "كاركةي ئاوي بةهار-دالاهؤ",
       "ProfitPerOne": 500.0,
       "ProfitRate": 14.29,
       "TotalStockValue": 87500.0
@@ -141972,7 +141972,7 @@
       "TotalOut": 0.0,
       "SellPrice": 4500.0,
       "Cost": 3750.0,
-      "LastClient": "",
+      "LastClient": "مكتب جنه بيبي ميلك/عبدشار",
       "ProfitPerOne": 750.0,
       "ProfitRate": 20.0,
       "TotalStockValue": 135000.0
@@ -141991,7 +141991,7 @@
       "TotalOut": 0.0,
       "SellPrice": 5500.0,
       "Cost": 4750.0,
-      "LastClient": "",
+      "LastClient": "ئاراز كروب سليمانيه دينار",
       "ProfitPerOne": 750.0,
       "ProfitRate": 15.79,
       "TotalStockValue": 114000.0
@@ -142007,7 +142007,7 @@
       "TotalOut": 0.0,
       "SellPrice": 3000.0,
       "Cost": 2500.0,
-      "LastClient": "",
+      "LastClient": "ئاراز كروب سليمانيه دينار",
       "ProfitPerOne": 500.0,
       "ProfitRate": 20.0,
       "TotalStockValue": 150000.0
@@ -142029,7 +142029,7 @@
       "TotalOut": 0.0,
       "SellPrice": 2000.0,
       "Cost": 1250.0,
-      "LastClient": "",
+      "LastClient": "مكتب جنه بيبي ميلك/عبدشار",
       "ProfitPerOne": 750.0,
       "ProfitRate": 60.0,
       "TotalStockValue": 30000.0
@@ -142046,7 +142046,7 @@
       "TotalOut": 0.0,
       "SellPrice": 1250.0,
       "Cost": 833.33333333333337,
-      "LastClient": "",
+      "LastClient": "مكتب جنه بيبي ميلك/عبدشار",
       "ProfitPerOne": 416.67,
       "ProfitRate": 50.0,
       "TotalStockValue": 40000.0
@@ -142063,7 +142063,7 @@
       "TotalOut": 0.0,
       "SellPrice": 3250.0,
       "Cost": 2750.0,
-      "LastClient": "",
+      "LastClient": "مكتب جنه بيبي ميلك/عبدشار",
       "ProfitPerOne": 500.0,
       "ProfitRate": 18.18,
       "TotalStockValue": 66000.0
@@ -142079,7 +142079,7 @@
       "TotalOut": 0.0,
       "SellPrice": 2500.0,
       "Cost": 1750.0,
-      "LastClient": "",
+      "LastClient": "مكتب جنه بيبي ميلك/عبدشار",
       "ProfitPerOne": 750.0,
       "ProfitRate": 42.86,
       "TotalStockValue": 21000.0
@@ -142095,7 +142095,7 @@
       "TotalOut": 0.0,
       "SellPrice": 1500.0,
       "Cost": 1000.0,
-      "LastClient": "",
+      "LastClient": "ئاراز كروب سليمانيه دينار",
       "ProfitPerOne": 500.0,
       "ProfitRate": 50.0,
       "TotalStockValue": 12000.0
@@ -142119,7 +142119,7 @@
       "TotalOut": 0.0,
       "SellPrice": 4000.0,
       "Cost": 3000.0,
-      "LastClient": "",
+      "LastClient": "ئاراز كروب سليمانيه دينار",
       "ProfitPerOne": 1000.0,
       "ProfitRate": 33.33,
       "TotalStockValue": 135000.0
@@ -142138,7 +142138,7 @@
       "TotalOut": 0.0,
       "SellPrice": 4000.0,
       "Cost": 3000.0,
-      "LastClient": "",
+      "LastClient": "ئاراز كروب سليمانيه دينار",
       "ProfitPerOne": 1000.0,
       "ProfitRate": 33.33,
       "TotalStockValue": 72000.0
@@ -142160,7 +142160,7 @@
       "TotalOut": 0.0,
       "SellPrice": 3500.0,
       "Cost": 2500.0,
-      "LastClient": "",
+      "LastClient": "ئاراز كروب سليمانيه دينار",
       "ProfitPerOne": 1000.0,
       "ProfitRate": 40.0,
       "TotalStockValue": 62500.0
@@ -142176,7 +142176,7 @@
       "TotalOut": 0.0,
       "SellPrice": 2750.0,
       "Cost": 2375.0,
-      "LastClient": "",
+      "LastClient": "هةردي كروب-تؤري",
       "ProfitPerOne": 375.0,
       "ProfitRate": 15.79,
       "TotalStockValue": 71250.0
@@ -142192,7 +142192,7 @@
       "TotalOut": 0.0,
       "SellPrice": 2000.0,
       "Cost": 1750.0,
-      "LastClient": "",
+      "LastClient": "هةردي كروب-تؤري",
       "ProfitPerOne": 250.0,
       "ProfitRate": 14.29,
       "TotalStockValue": 105000.0
@@ -142209,7 +142209,7 @@
       "TotalOut": 0.0,
       "SellPrice": 2500.0,
       "Cost": 1500.0,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ابو محمد-م.مسعود ",
       "ProfitPerOne": 1000.0,
       "ProfitRate": 66.67,
       "TotalStockValue": 36000.0
@@ -142225,7 +142225,7 @@
       "TotalOut": 0.0,
       "SellPrice": 3000.0,
       "Cost": 1875.0,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ابو محمد-م.مسعود ",
       "ProfitPerOne": 1125.0,
       "ProfitRate": 60.0,
       "TotalStockValue": 45000.0
@@ -142241,7 +142241,7 @@
       "TotalOut": 0.0,
       "SellPrice": 1000.0,
       "Cost": 666.66666666666663,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ابو محمد-م.مسعود ",
       "ProfitPerOne": 333.33,
       "ProfitRate": 50.0,
       "TotalStockValue": 16000.0
@@ -142257,7 +142257,7 @@
       "TotalOut": 0.0,
       "SellPrice": 1500.0,
       "Cost": 1000.0,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ابو محمد-م.مسعود ",
       "ProfitPerOne": 500.0,
       "ProfitRate": 50.0,
       "TotalStockValue": 12000.0
@@ -142274,7 +142274,7 @@
       "TotalOut": 0.0,
       "SellPrice": 1000.0,
       "Cost": 791.66666666666663,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ابو محمد-م.مسعود ",
       "ProfitPerOne": 208.33,
       "ProfitRate": 26.32,
       "TotalStockValue": 38000.0
@@ -142290,7 +142290,7 @@
       "TotalOut": 0.0,
       "SellPrice": 1000.0,
       "Cost": 750.0,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ابو محمد-م.مسعود ",
       "ProfitPerOne": 250.0,
       "ProfitRate": 33.33,
       "TotalStockValue": 18000.0
@@ -142306,7 +142306,7 @@
       "TotalOut": 0.0,
       "SellPrice": 2000.0,
       "Cost": 1500.0,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ابو محمد-م.مسعود ",
       "ProfitPerOne": 500.0,
       "ProfitRate": 33.33,
       "TotalStockValue": 18000.0
@@ -142323,7 +142323,7 @@
       "TotalOut": 0.0,
       "SellPrice": 2000.0,
       "Cost": 1500.0,
-      "LastClient": "",
+      "LastClient": "فرؤشكاي ابو محمد-م.مسعود ",
       "ProfitPerOne": 500.0,
       "ProfitRate": 33.33,
       "TotalStockValue": 36000.0
@@ -142339,7 +142339,7 @@
       "TotalOut": 0.0,
       "SellPrice": 2000.0,
       "Cost": 1319.4444444444443,
-      "LastClient": "",
+      "LastClient": "شركه ايفار بغداد/عبدشار",
       "ProfitPerOne": 680.56,
       "ProfitRate": 51.58,
       "TotalStockValue": 95000.0
@@ -142355,7 +142355,7 @@
       "TotalOut": 0.0,
       "SellPrice": 3500.0,
       "Cost": 2500.0,
-      "LastClient": "",
+      "LastClient": "شركه ايفار بغداد/عبدشار",
       "ProfitPerOne": 1000.0,
       "ProfitRate": 40.0,
       "TotalStockValue": 90000.0
