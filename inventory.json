@@ -1,5 +1,5 @@
 {
-  "LastSync": "2026-01-31 10:35:19",
+  "LastSync": "2026-01-31 10:35:36",
   "Inventory": [
     {
       "Name": "سوراو+قةلةم جاو 1000ي",
@@ -93303,16 +93303,16 @@
       "Barcodes": [
         "5578019655450"
       ],
-      "Balance": 15.0,
+      "Balance": 14.0,
       "OpeningStock": 11.0,
       "NetPurchases": 18.0,
-      "TotalOut": 14.0,
+      "TotalOut": 15.0,
       "SellPrice": 1000.0,
       "Cost": 666.66666666666663,
       "LastClient": "شركة الجيد- KBB-شياو",
       "ProfitPerOne": 333.33,
       "ProfitRate": 50.0,
-      "TotalStockValue": 10000.0
+      "TotalStockValue": 9333.33
     },
     {
       "Name": "ناوكة فستق فةل",
@@ -99948,16 +99948,16 @@
         "8699969232991",
         "8699969233011"
       ],
-      "Balance": 251.0,
+      "Balance": 249.0,
       "OpeningStock": 295.0,
       "NetPurchases": 0.0,
-      "TotalOut": 44.0,
+      "TotalOut": 46.0,
       "SellPrice": 125.0,
       "Cost": 75.0,
       "LastClient": "",
       "ProfitPerOne": 50.0,
       "ProfitRate": 66.67,
-      "TotalStockValue": 18825.0
+      "TotalStockValue": 18675.0
     },
     {
       "Name": "شامبؤي منال نيوتس 750مل هةموو",
