@@ -1,5 +1,5 @@
 {
-  "LastSync": "2026-02-21 14:23:43",
+  "LastSync": "2026-02-21 14:30:13",
   "Inventory": [
     {
       "Name": "سوراو+قةلةم جاو 1000ي",
@@ -3226,16 +3226,16 @@
         "6212203172116",
         "6212206272110"
       ],
-      "Balance": 497.0,
+      "Balance": 496.0,
       "OpeningStock": 38.0,
       "NetPurchases": 1226.0,
-      "TotalOut": 767.0,
+      "TotalOut": 768.0,
       "SellPrice": 1250.0,
       "Cost": 994.74633333333315,
       "LastClient": "كؤمبانيايي حياة-بيبسي",
       "ProfitPerOne": 255.25,
       "ProfitRate": 25.66,
-      "TotalStockValue": 494388.93
+      "TotalStockValue": 493394.18
     },
     {
       "Name": "ساردي دبه ‌750مل",
@@ -3638,16 +3638,16 @@
       "Barcodes": [
         "6253504112210"
       ],
-      "Balance": 308.0,
+      "Balance": 307.0,
       "OpeningStock": 31.0,
       "NetPurchases": 420.0,
-      "TotalOut": 143.0,
+      "TotalOut": 144.0,
       "SellPrice": 2750.0,
       "Cost": 2416.6666666666665,
       "LastClient": "لاوزةند كروب-تؤري",
       "ProfitPerOne": 333.33,
       "ProfitRate": 13.79,
-      "TotalStockValue": 744333.33
+      "TotalStockValue": 741916.67
     },
     {
       "Name": "زاهي لميس 900 ملم",
@@ -4321,16 +4321,16 @@
       "Barcodes": [
         "5014176003760"
       ],
-      "Balance": 117.0,
+      "Balance": 116.0,
       "OpeningStock": 45.0,
       "NetPurchases": 192.0,
-      "TotalOut": 120.0,
+      "TotalOut": 121.0,
       "SellPrice": 1000.0,
       "Cost": 804.53125,
       "LastClient": "شركة جيهان-كةلار",
       "ProfitPerOne": 195.47,
       "ProfitRate": 24.3,
-      "TotalStockValue": 94130.16
+      "TotalStockValue": 93325.62
     },
     {
       "Name": "چاي دوغزال 400غم كيس",
@@ -7350,16 +7350,16 @@
         "2000070",
         "200090"
       ],
-      "Balance": 43.4068999999927,
+      "Balance": 42.236799999992428,
       "OpeningStock": -122.201,
       "NetPurchases": 5662.9393000000009,
-      "TotalOut": 5497.3314000000246,
+      "TotalOut": 5498.5015000000249,
       "SellPrice": 5250.0,
       "Cost": 4498.4227129337542,
       "LastClient": "12مريشك فرؤشي  حاجي",
       "ProfitPerOne": 751.58,
       "ProfitRate": 16.71,
-      "TotalStockValue": 195262.58
+      "TotalStockValue": 189998.98
     },
     {
       "Name": "راني مريشك",
@@ -7369,16 +7369,16 @@
         "2000081",
         "2000082"
       ],
-      "Balance": -64.758899999991485,
+      "Balance": -68.4511999999921,
       "OpeningStock": -161.206,
       "NetPurchases": 4324.2991,
-      "TotalOut": 4227.851999999999,
+      "TotalOut": 4231.5443,
       "SellPrice": 4250.0,
       "Cost": 3496.5517241379312,
       "LastClient": "12مريشك فرؤشي  حاجي",
       "ProfitPerOne": 753.45,
       "ProfitRate": 21.55,
-      "TotalStockValue": -226432.84
+      "TotalStockValue": -239343.16
     },
     {
       "Name": "بالي مريشك",
@@ -7531,16 +7531,16 @@
         "2030",
         "8697449901337"
       ],
-      "Balance": 15.0,
+      "Balance": 14.0,
       "OpeningStock": 58.0,
       "NetPurchases": 239.0,
-      "TotalOut": 282.0,
+      "TotalOut": 283.0,
       "SellPrice": 44000.0,
       "Cost": 42688.0,
       "LastClient": "كؤمبانياي بةمؤ-هةواري سليماني-برنج محمود",
       "ProfitPerOne": 1312.0,
       "ProfitRate": 3.07,
-      "TotalStockValue": 640320.0
+      "TotalStockValue": 597632.0
     },
     {
       "Name": "اسفنج سةيارة شؤرين 250ي",
@@ -7984,16 +7984,16 @@
       "Barcodes": [
         "2700006"
       ],
-      "Balance": 8.13319999999999,
+      "Balance": 7.6311999999999944,
       "OpeningStock": 2.589,
       "NetPurchases": 85.0,
-      "TotalOut": 79.455800000000011,
+      "TotalOut": 79.9578,
       "SellPrice": 8000.0,
       "Cost": 6500.0,
       "LastClient": "5-فرؤشكاي ئازاد-جةرةزات-كةلار",
       "ProfitPerOne": 1500.0,
       "ProfitRate": 23.08,
-      "TotalStockValue": 52865.8
+      "TotalStockValue": 49602.8
     },
     {
       "Name": "جةرةزات تيكةلة 4",
@@ -8048,16 +8048,16 @@
       "Barcodes": [
         "2700010"
       ],
-      "Balance": 36.81249999999995,
+      "Balance": 35.809299999999944,
       "OpeningStock": 28.448,
       "NetPurchases": 130.0,
-      "TotalOut": 121.63550000000002,
+      "TotalOut": 122.63870000000003,
       "SellPrice": 18500.0,
       "Cost": 15500.0,
       "LastClient": "5-فرؤشكاي ئازاد-جةرةزات-كةلار",
       "ProfitPerOne": 3000.0,
       "ProfitRate": 19.35,
-      "TotalStockValue": 570593.75
+      "TotalStockValue": 555044.15
     },
     {
       "Name": "توي وشك فةل",
@@ -8404,16 +8404,16 @@
       "Barcodes": [
         "2700037"
       ],
-      "Balance": 6.2596000000000034,
+      "Balance": 5.759000000000003,
       "OpeningStock": 1.3,
       "NetPurchases": 20.2524,
-      "TotalOut": 15.292799999999998,
+      "TotalOut": 15.793399999999998,
       "SellPrice": 10000.0,
       "Cost": 8000.0,
       "LastClient": "5-فرؤشكاي ئازاد-جةرةزات-كةلار",
       "ProfitPerOne": 2000.0,
       "ProfitRate": 25.0,
-      "TotalStockValue": 50076.8
+      "TotalStockValue": 46072.0
     },
     {
       "Name": "قه‌يسي بي ناوك",
@@ -16230,16 +16230,16 @@
       "Barcodes": [
         "2700061"
       ],
-      "Balance": 71.8834,
+      "Balance": 69.8766,
       "OpeningStock": 37.327,
       "NetPurchases": 75.0,
-      "TotalOut": 40.4436,
+      "TotalOut": 42.4504,
       "SellPrice": 2000.0,
       "Cost": 1066.6666666666667,
       "LastClient": "كؤكاي عدنان-باناسياو",
       "ProfitPerOne": 933.33,
       "ProfitRate": 87.5,
-      "TotalStockValue": 76675.63
+      "TotalStockValue": 74535.04
     },
     {
       "Name": "شةربةت تراوبي عيراقي",
@@ -16751,16 +16751,16 @@
         "6260176808266",
         "6260176808648"
       ],
-      "Balance": 102.0,
+      "Balance": 100.0,
       "OpeningStock": 85.0,
       "NetPurchases": 722.0,
-      "TotalOut": 705.0,
+      "TotalOut": 707.0,
       "SellPrice": 1250.0,
       "Cost": 1125.0,
       "LastClient": "كومبانياي حسن باقي- سن ايج",
       "ProfitPerOne": 125.0,
       "ProfitRate": 11.11,
-      "TotalStockValue": 114750.0
+      "TotalStockValue": 112500.0
     },
     {
       "Name": "بةنير بوك 500غم نيلي",
@@ -19797,16 +19797,16 @@
       "Barcodes": [
         "2060"
       ],
-      "Balance": 22.0,
+      "Balance": 21.0,
       "OpeningStock": 41.0,
       "NetPurchases": 47.0,
-      "TotalOut": 66.0,
+      "TotalOut": 67.0,
       "SellPrice": 28000.0,
       "Cost": 27000.0,
       "LastClient": "كؤكاي محمد حاجي كلسوم",
       "ProfitPerOne": 1000.0,
       "ProfitRate": 3.7,
-      "TotalStockValue": 594000.0
+      "TotalStockValue": 567000.0
     },
     {
       "Name": "سيرؤم كولاجين",
@@ -20856,16 +20856,16 @@
       "Barcodes": [
         "2052"
       ],
-      "Balance": 70.0,
+      "Balance": 69.0,
       "OpeningStock": 5.0,
       "NetPurchases": 231.0,
-      "TotalOut": 166.0,
+      "TotalOut": 167.0,
       "SellPrice": 25500.0,
       "Cost": 24100.0,
       "LastClient": "بشتيوان جملة دينار-باناسياو",
       "ProfitPerOne": 1400.0,
       "ProfitRate": 5.81,
-      "TotalStockValue": 1687000.0
+      "TotalStockValue": 1662900.0
     },
     {
       "Name": "ساوةر 700غم زير ورد******",
@@ -26957,16 +26957,16 @@
         "7290015828130",
         "9520250728109"
       ],
-      "Balance": 596.0,
+      "Balance": 595.0,
       "OpeningStock": 609.0,
       "NetPurchases": 442.0,
-      "TotalOut": 455.0,
+      "TotalOut": 456.0,
       "SellPrice": 1000.0,
       "Cost": 825.0,
       "LastClient": "كةنجينةي نيكا-مواد سةفةري ",
       "ProfitPerOne": 175.0,
       "ProfitRate": 21.21,
-      "TotalStockValue": 491700.0
+      "TotalStockValue": 490875.0
     },
     {
       "Name": "شامبؤ+مكيف سانسليك 350مل مصري",
@@ -35916,16 +35916,16 @@
         "6260100660038",
         "6260100683938"
       ],
-      "Balance": 46.0,
+      "Balance": 45.0,
       "OpeningStock": 28.0,
       "NetPurchases": 92.0,
-      "TotalOut": 74.0,
+      "TotalOut": 75.0,
       "SellPrice": 6250.0,
       "Cost": 5500.0,
       "LastClient": "كومبانياي حسن باقي- سن ايج",
       "ProfitPerOne": 750.0,
       "ProfitRate": 13.64,
-      "TotalStockValue": 253000.0
+      "TotalStockValue": 247500.0
     },
     {
       "Name": "شير سيميلاك 1*400 غم كؤلد",
@@ -36176,16 +36176,16 @@
         "0770",
         "1845"
       ],
-      "Balance": 39.0,
+      "Balance": 31.0,
       "OpeningStock": 110.0,
       "NetPurchases": 1276.0,
-      "TotalOut": 1347.0,
+      "TotalOut": 1355.0,
       "SellPrice": 750.0,
       "Cost": 500.0,
       "LastClient": "ماست شار -خؤمالي",
       "ProfitPerOne": 250.0,
       "ProfitRate": 50.0,
-      "TotalStockValue": 19500.0
+      "TotalStockValue": 15500.0
     },
     {
       "Name": "لانشون دجاج 200غم نةورةس خر",
@@ -41901,16 +41901,16 @@
         "8697422820860",
         "8697422820884"
       ],
-      "Balance": 523.0,
+      "Balance": 522.0,
       "OpeningStock": 437.0,
       "NetPurchases": 192.0,
-      "TotalOut": 106.0,
+      "TotalOut": 107.0,
       "SellPrice": 1000.0,
       "Cost": 583.33333333333337,
       "LastClient": "فرؤشكاي هيرش-سليماني",
       "ProfitPerOne": 416.67,
       "ProfitRate": 71.43,
-      "TotalStockValue": 305083.33
+      "TotalStockValue": 304500.0
     },
     {
       "Name": "كوبةي موصلي ميرسين مريشك",
@@ -44921,16 +44921,16 @@
         "8433295058029",
         "8433295058036"
       ],
-      "Balance": 34.0,
+      "Balance": 33.0,
       "OpeningStock": 48.0,
       "NetPurchases": 0.0,
-      "TotalOut": 14.0,
+      "TotalOut": 15.0,
       "SellPrice": 2500.0,
       "Cost": 2083.333,
       "LastClient": "",
       "ProfitPerOne": 416.67,
       "ProfitRate": 20.0,
-      "TotalStockValue": 70833.32
+      "TotalStockValue": 68749.99
     },
     {
       "Name": "مةكينةي حةفة ئابتايم 88",
@@ -45549,16 +45549,16 @@
       "Barcodes": [
         "2000022"
       ],
-      "Balance": 225.50860000000029,
+      "Balance": 225.14810000000028,
       "OpeningStock": 193.517,
       "NetPurchases": 648.54009999999994,
-      "TotalOut": 616.54849999999988,
+      "TotalOut": 616.90899999999988,
       "SellPrice": 5500.0,
       "Cost": 4500.0,
       "LastClient": "ترشياتي بركة -محمد -خانقين",
       "ProfitPerOne": 1000.0,
       "ProfitRate": 22.22,
-      "TotalStockValue": 1014788.7
+      "TotalStockValue": 1013166.45
     },
     {
       "Name": "بوكي مةمكةمزة كيس BABY SHower",
@@ -45621,16 +45621,16 @@
         "6261946100801",
         "6261946100863"
       ],
-      "Balance": 52.0,
+      "Balance": 51.0,
       "OpeningStock": 29.0,
       "NetPurchases": 288.0,
-      "TotalOut": 265.0,
+      "TotalOut": 266.0,
       "SellPrice": 1250.0,
       "Cost": 1083.3333333333333,
       "LastClient": "3.ابراهيم بةراد",
       "ProfitPerOne": 166.67,
       "ProfitRate": 15.38,
-      "TotalStockValue": 56333.33
+      "TotalStockValue": 55250.0
     },
     {
       "Name": "دؤي باندا 270مل ",
@@ -57107,16 +57107,16 @@
         "9009301000369",
         "9009301000376"
       ],
-      "Balance": 59.0,
+      "Balance": 58.0,
       "OpeningStock": 27.0,
       "NetPurchases": 96.0,
-      "TotalOut": 64.0,
+      "TotalOut": 65.0,
       "SellPrice": 2500.0,
       "Cost": 2250.0,
       "LastClient": "ابراهيم براد-بوك",
       "ProfitPerOne": 250.0,
       "ProfitRate": 11.11,
-      "TotalStockValue": 132750.0
+      "TotalStockValue": 130500.0
     },
     {
       "Name": "سفرةي كولبةرك 500غم",
@@ -57459,16 +57459,16 @@
         "4004600120232",
         "4004600120256"
       ],
-      "Balance": 35.0,
+      "Balance": 34.0,
       "OpeningStock": 2.0,
       "NetPurchases": 40.0,
-      "TotalOut": 7.0,
+      "TotalOut": 8.0,
       "SellPrice": 2000.0,
       "Cost": 1500.0,
       "LastClient": "كومبانياي لايف وةي-دينار",
       "ProfitPerOne": 500.0,
       "ProfitRate": 33.33,
-      "TotalStockValue": 52500.0
+      "TotalStockValue": 51000.0
     },
     {
       "Name": "بؤنبرةي تواليت 3عدد FASTER+",
@@ -63707,16 +63707,16 @@
       "Barcodes": [
         "2000020"
       ],
-      "Balance": 142.30409999999981,
+      "Balance": 141.93889999999982,
       "OpeningStock": 162.531,
       "NetPurchases": 200.0,
-      "TotalOut": 220.22690000000014,
+      "TotalOut": 220.59210000000013,
       "SellPrice": 7000.0,
       "Cost": 5375.15,
       "LastClient": "ساحل العراق / بكاه",
       "ProfitPerOne": 1624.85,
       "ProfitRate": 30.23,
-      "TotalStockValue": 764905.88
+      "TotalStockValue": 762942.88
     },
     {
       "Name": "رب هةنار مارينا 1 كيلؤ",
@@ -67165,6 +67165,7 @@
       "Name": "شامبؤي جسم هايةر توركي 500مل",
       "Barcodes": [
         "8690511003281",
+        "8690511003298",
         "8690511003311",
         "8690511003311"
       ],
@@ -70957,16 +70958,16 @@
       "Barcodes": [
         "2000027"
       ],
-      "Balance": 289.09490000000108,
+      "Balance": 287.534600000001,
       "OpeningStock": 296.341,
       "NetPurchases": 1256.6,
-      "TotalOut": 1263.8461000000002,
+      "TotalOut": 1265.4064000000003,
       "SellPrice": 7000.0,
       "Cost": 4500.0,
       "LastClient": "12مريشك فرؤشي  حاجي",
       "ProfitPerOne": 2500.0,
       "ProfitRate": 55.56,
-      "TotalStockValue": 1300927.05
+      "TotalStockValue": 1293905.7
     },
     {
       "Name": "عطر فولا شوشة خر*******",
@@ -74741,16 +74742,16 @@
         "8902240010745",
         "8902240010769"
       ],
-      "Balance": 130.0,
+      "Balance": 129.0,
       "OpeningStock": 382.0,
       "NetPurchases": 0.0,
-      "TotalOut": 252.0,
+      "TotalOut": 253.0,
       "SellPrice": 750.0,
       "Cost": 381.944,
       "LastClient": "",
       "ProfitPerOne": 368.06,
       "ProfitRate": 96.36,
-      "TotalStockValue": 49652.72
+      "TotalStockValue": 49270.78
     },
     {
       "Name": "بخور شخاطه اوربي+رؤز و هيم",
@@ -75555,9 +75556,14 @@
         "8690511010869",
         "8690511192473",
         "8690511192794",
+        "8690511192831",
+        "8690511192855",
         "8690511192886",
         "8690511192893",
+        "8690511192909",
+        "8690511193067",
         "8690511193074",
+        "8690511193098",
         "8690511405948",
         "8690511405962",
         "8690511405986",
@@ -86138,16 +86144,16 @@
       "Barcodes": [
         "6260161533814"
       ],
-      "Balance": 26.0,
+      "Balance": 25.0,
       "OpeningStock": 63.0,
       "NetPurchases": 270.0,
-      "TotalOut": 307.0,
+      "TotalOut": 308.0,
       "SellPrice": 250.0,
       "Cost": 200.0,
       "LastClient": "كولدين ميلك / كالة",
       "ProfitPerOne": 50.0,
       "ProfitRate": 25.0,
-      "TotalStockValue": 5200.0
+      "TotalStockValue": 5000.0
     },
     {
       "Name": "زةيت كانولا 1لتر RS",
