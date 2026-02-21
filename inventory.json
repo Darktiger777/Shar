@@ -1,5 +1,5 @@
 {
-  "LastSync": "2026-02-21 14:30:13",
+  "LastSync": "2026-02-21 14:30:32",
   "Inventory": [
     {
       "Name": "سوراو+قةلةم جاو 1000ي",
@@ -3045,16 +3045,16 @@
         "6260360023024",
         "6260360026216"
       ],
-      "Balance": 15832.0,
+      "Balance": 15820.0,
       "OpeningStock": 1813.0,
       "NetPurchases": 18228.0,
-      "TotalOut": 4209.0,
+      "TotalOut": 4221.0,
       "SellPrice": 450.0,
       "Cost": 395.83333333333331,
       "LastClient": "ساحل العراق / بكاه",
       "ProfitPerOne": 54.17,
       "ProfitRate": 13.68,
-      "TotalStockValue": 6266833.33
+      "TotalStockValue": 6262083.33
     },
     {
       "Name": "زراتي شيرين كسيح 340 غم",
@@ -35916,16 +35916,16 @@
         "6260100660038",
         "6260100683938"
       ],
-      "Balance": 45.0,
+      "Balance": 44.0,
       "OpeningStock": 28.0,
       "NetPurchases": 92.0,
-      "TotalOut": 75.0,
+      "TotalOut": 76.0,
       "SellPrice": 6250.0,
       "Cost": 5500.0,
       "LastClient": "كومبانياي حسن باقي- سن ايج",
       "ProfitPerOne": 750.0,
       "ProfitRate": 13.64,
-      "TotalStockValue": 247500.0
+      "TotalStockValue": 242000.0
     },
     {
       "Name": "شير سيميلاك 1*400 غم كؤلد",
@@ -43137,16 +43137,16 @@
       "Barcodes": [
         "2000001"
       ],
-      "Balance": 76.23260000000613,
+      "Balance": 74.97590000000622,
       "OpeningStock": -1.214,
       "NetPurchases": 3993.1678,
-      "TotalOut": 3915.7211999999909,
+      "TotalOut": 3916.9778999999908,
       "SellPrice": 16500.0,
       "Cost": 12741.116751269035,
       "LastClient": "كؤشت كويرةكة شار-كاك احمد",
       "ProfitPerOne": 3758.88,
       "ProfitRate": 29.5,
-      "TotalStockValue": 971288.46
+      "TotalStockValue": 955276.7
     },
     {
       "Name": "كؤشتي بةرخ ",
@@ -81511,16 +81511,16 @@
         "6260000568229",
         "6268280601193"
       ],
-      "Balance": 995.0,
+      "Balance": 994.0,
       "OpeningStock": 2.0,
       "NetPurchases": 2133.0,
-      "TotalOut": 1140.0,
+      "TotalOut": 1141.0,
       "SellPrice": 2750.0,
       "Cost": 2500.0,
       "LastClient": "نبع الرحمة-عبدالرزاق صباح-دينار",
       "ProfitPerOne": 250.0,
       "ProfitRate": 10.0,
-      "TotalStockValue": 2487500.0
+      "TotalStockValue": 2485000.0
     },
     {
       "Name": "برنج سامان 5كيلؤ خر",
@@ -129142,16 +129142,16 @@
       "Barcodes": [
         "6268836"
       ],
-      "Balance": 13.0,
+      "Balance": 12.0,
       "OpeningStock": 0.0,
       "NetPurchases": 384.0,
-      "TotalOut": 371.0,
+      "TotalOut": 372.0,
       "SellPrice": 2000.0,
       "Cost": 1437.5,
       "LastClient": "كؤكاي هيليا-هاوكار",
       "ProfitPerOne": 562.5,
       "ProfitRate": 39.13,
-      "TotalStockValue": 18687.5
+      "TotalStockValue": 17250.0
     },
     {
       "Name": "زةيت الدار 900مل",
