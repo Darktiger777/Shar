@@ -1,5 +1,5 @@
 {
-  "LastSync": "2026-03-16 22:03:36",
+  "LastSync": "2026-03-16 22:04:33",
   "Inventory": [
     {
       "Name": "سوراو+قةلةم جاو 1000ي",
@@ -7235,10 +7235,10 @@
       "Barcodes": [
         "2143"
       ],
-      "Balance": 59.0,
+      "Balance": 58.0,
       "OpeningStock": 82.0,
       "NetPurchases": 2208.0,
-      "TotalOut": 2231.0,
+      "TotalOut": 2232.0,
       "SellPrice": 5000.0,
       "Cost": 4458.333333333333,
       "LastClient": "كوكاى سةيوان هيلكة"
@@ -10092,10 +10092,10 @@
         "8698995512831",
         "8698995512848"
       ],
-      "Balance": 1041.0,
+      "Balance": 1039.0,
       "OpeningStock": 612.0,
       "NetPurchases": 3150.0,
-      "TotalOut": 2721.0,
+      "TotalOut": 2723.0,
       "SellPrice": 125.0,
       "Cost": 93.75,
       "LastClient": "كؤمبانياي نةورةس-دينار"
@@ -26341,10 +26341,10 @@
       "Barcodes": [
         "2015"
       ],
-      "Balance": 63.0,
+      "Balance": 61.0,
       "OpeningStock": 80.0,
       "NetPurchases": 1775.0,
-      "TotalOut": 1792.0,
+      "TotalOut": 1794.0,
       "SellPrice": 1500.0,
       "Cost": 1250.0,
       "LastClient": "كاركةي ئاوي بةهار-دالاهؤ"
@@ -26482,10 +26482,10 @@
       "Barcodes": [
         "2000010"
       ],
-      "Balance": -17.6108999999992,
+      "Balance": -18.155999999999249,
       "OpeningStock": -5.855,
       "NetPurchases": 1006.6,
-      "TotalOut": 1018.3558999999995,
+      "TotalOut": 1018.9009999999995,
       "SellPrice": 5500.0,
       "Cost": 4500.0,
       "LastClient": "12مريشك فرؤشي  حاجي"
@@ -27302,10 +27302,10 @@
       "Barcodes": [
         "8680694028263"
       ],
-      "Balance": 3.0,
+      "Balance": 2.0,
       "OpeningStock": 3.0,
       "NetPurchases": 0.0,
-      "TotalOut": 0.0,
+      "TotalOut": 1.0,
       "SellPrice": 33000.0,
       "Cost": 20750.0,
       "LastClient": ""
@@ -28745,10 +28745,10 @@
         "5285000395164",
         "8606108584163"
       ],
-      "Balance": 620.0,
+      "Balance": 618.0,
       "OpeningStock": 2277.0,
       "NetPurchases": 7808.0,
-      "TotalOut": 9465.0,
+      "TotalOut": 9467.0,
       "SellPrice": 250.0,
       "Cost": 225.0,
       "LastClient": "كؤفرؤش 3براكة-كةلار"
@@ -35624,10 +35624,10 @@
         "9780203379622",
         "9780206379629"
       ],
-      "Balance": 6426.0,
+      "Balance": 6425.0,
       "OpeningStock": 6974.0,
       "NetPurchases": 19255.0,
-      "TotalOut": 19803.0,
+      "TotalOut": 19804.0,
       "SellPrice": 250.0,
       "Cost": 203.125,
       "LastClient": "فرؤشكاي زمناكؤ / جبس"
@@ -49762,10 +49762,10 @@
         "6251044001445",
         "6281036560209"
       ],
-      "Balance": 926.0,
+      "Balance": 925.0,
       "OpeningStock": 51.0,
       "NetPurchases": 1713.0,
-      "TotalOut": 838.0,
+      "TotalOut": 839.0,
       "SellPrice": 250.0,
       "Cost": 203.125,
       "LastClient": "فرؤشكاي زمناكؤ / جبس"
@@ -51393,10 +51393,10 @@
       "Barcodes": [
         "6930518400204"
       ],
-      "Balance": 4.0,
+      "Balance": 3.0,
       "OpeningStock": 5.0,
       "NetPurchases": 1.0,
-      "TotalOut": 2.0,
+      "TotalOut": 3.0,
       "SellPrice": 22000.0,
       "Cost": 18000.0,
       "LastClient": ""
@@ -65593,10 +65593,10 @@
         "6251044001278",
         "6251044001544"
       ],
-      "Balance": 2680.0,
+      "Balance": 2679.0,
       "OpeningStock": 4582.0,
       "NetPurchases": 6006.0,
-      "TotalOut": 7908.0,
+      "TotalOut": 7909.0,
       "SellPrice": 250.0,
       "Cost": 211.45833333333334,
       "LastClient": "فرؤشكاي زمناكؤ / جبس"
@@ -77898,10 +77898,10 @@
         "8690146680314",
         "8692751228417"
       ],
-      "Balance": 424.0,
+      "Balance": 423.0,
       "OpeningStock": 254.0,
       "NetPurchases": 1095.0,
-      "TotalOut": 925.0,
+      "TotalOut": 926.0,
       "SellPrice": 250.0,
       "Cost": 211.11111111111111,
       "LastClient": "دابةشكاري زيرين-سليماني"
@@ -81126,7 +81126,7 @@
         "6922343908864",
         "6922343908871"
       ],
-      "Balance": 129.0,
+      "Balance": 128.0,
       "OpeningStock": 179.0,
       "NetPurchases": 0.0,
       "TotalOut": 51.0,
@@ -142590,10 +142590,10 @@
       "Barcodes": [
         "2700152"
       ],
-      "Balance": 133.3133,
+      "Balance": 132.80669999999998,
       "OpeningStock": 0.0,
       "NetPurchases": 198.0165,
-      "TotalOut": 64.70320000000001,
+      "TotalOut": 65.209800000000016,
       "SellPrice": 6500.0,
       "Cost": 4720.0,
       "LastClient": "5-فرؤشكاي ئازاد-جةرةزات-كةلار"
