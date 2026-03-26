@@ -1,5 +1,5 @@
 {
-  "LastSync": "2026-03-26 11:45:58",
+  "LastSync": "2026-03-26 11:46:55",
   "Inventory": [
     {
       "Name": "سوراو+قةلةم جاو 1000ي",
@@ -12353,10 +12353,10 @@
         "8691707095301",
         "8691707195308"
       ],
-      "Balance": 497.0,
+      "Balance": 496.0,
       "OpeningStock": 179.0,
       "NetPurchases": 1153.0,
-      "TotalOut": 835.0,
+      "TotalOut": 836.0,
       "SellPrice": 250.0,
       "Cost": 229.16666666666666,
       "LastClient": "6-كوكاي محمد \\ بسكيت"
@@ -35626,10 +35626,10 @@
         "9780203379622",
         "9780206379629"
       ],
-      "Balance": 4404.0,
+      "Balance": 4403.0,
       "OpeningStock": 6974.0,
       "NetPurchases": 19257.0,
-      "TotalOut": 21827.0,
+      "TotalOut": 21828.0,
       "SellPrice": 250.0,
       "Cost": 203.125,
       "LastClient": "فرؤشكاي زمناكؤ / جبس"
@@ -40810,10 +40810,10 @@
       "Barcodes": [
         "2000001"
       ],
-      "Balance": -129.1951000000218,
+      "Balance": -130.30530000002187,
       "OpeningStock": -1.214,
       "NetPurchases": 7429.9641999999976,
-      "TotalOut": 7557.94530000005,
+      "TotalOut": 7559.05550000005,
       "SellPrice": 18000.0,
       "Cost": 12720.417633410672,
       "LastClient": "كؤشت كويرةكة شار-كاك احمد"
@@ -73794,10 +73794,10 @@
         "8682091112194",
         "8683749092806"
       ],
-      "Balance": 163.0,
+      "Balance": 162.0,
       "OpeningStock": 215.0,
       "NetPurchases": 673.0,
-      "TotalOut": 725.0,
+      "TotalOut": 726.0,
       "SellPrice": 250.0,
       "Cost": 218.75,
       "LastClient": "نورفود-ماستةر ئيتي"
