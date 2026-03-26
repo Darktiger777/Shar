@@ -1,5 +1,5 @@
 {
-  "LastSync": "2026-03-26 11:46:55",
+  "LastSync": "2026-03-26 15:01:13",
   "Inventory": [
     {
       "Name": "سوراو+قةلةم جاو 1000ي",
@@ -41,10 +41,10 @@
         "8690604111299",
         "8690604111305"
       ],
-      "Balance": 683.0,
+      "Balance": 682.0,
       "OpeningStock": 883.0,
       "NetPurchases": 459.0,
-      "TotalOut": 659.0,
+      "TotalOut": 660.0,
       "SellPrice": 1000.0,
       "Cost": 451.38888888888891,
       "LastClient": "نؤفان كروب-دينار"
@@ -203,10 +203,10 @@
         "7902191693265",
         "7902196315568"
       ],
-      "Balance": 612.0,
+      "Balance": 610.0,
       "OpeningStock": 1025.0,
       "NetPurchases": 182.0,
-      "TotalOut": 595.0,
+      "TotalOut": 597.0,
       "SellPrice": 1000.0,
       "Cost": 416.66666666666669,
       "LastClient": "ئاسؤي حاجي ابراهيم-ناومالة"
@@ -264,10 +264,10 @@
         "1425",
         "7801563693127"
       ],
-      "Balance": 1888.0,
+      "Balance": 1885.0,
       "OpeningStock": 1121.0,
       "NetPurchases": 2110.0,
-      "TotalOut": 1343.0,
+      "TotalOut": 1346.0,
       "SellPrice": 2750.0,
       "Cost": 2261.9047619047619,
       "LastClient": "بؤشاكي h&h سليماني"
@@ -385,10 +385,10 @@
         "1700",
         "1717"
       ],
-      "Balance": 85.0,
+      "Balance": 81.0,
       "OpeningStock": 53.0,
       "NetPurchases": 2235.0,
-      "TotalOut": 2203.0,
+      "TotalOut": 2207.0,
       "SellPrice": 1000.0,
       "Cost": 750.0,
       "LastClient": "نانةواخانةى ئارؤ"
@@ -1067,10 +1067,10 @@
         "9066085415291",
         "9066085418681"
       ],
-      "Balance": 133.0,
+      "Balance": 129.0,
       "OpeningStock": 134.0,
       "NetPurchases": 816.0,
-      "TotalOut": 817.0,
+      "TotalOut": 821.0,
       "SellPrice": 5000.0,
       "Cost": 4555.5555555555557,
       "LastClient": "فرؤشكاي عبدالله-كةلار-عثمان"
@@ -1147,10 +1147,10 @@
         "8683420536438",
         "9277013106437"
       ],
-      "Balance": 20.0,
+      "Balance": 19.0,
       "OpeningStock": 47.0,
       "NetPurchases": 132.0,
-      "TotalOut": 159.0,
+      "TotalOut": 160.0,
       "SellPrice": 1500.0,
       "Cost": 1250.0,
       "LastClient": "زانياركريم-طباخ"
@@ -1170,10 +1170,10 @@
         "9277013106550",
         "9277013106567"
       ],
-      "Balance": 19.0,
+      "Balance": 18.0,
       "OpeningStock": 14.0,
       "NetPurchases": 145.0,
-      "TotalOut": 140.0,
+      "TotalOut": 141.0,
       "SellPrice": 1000.0,
       "Cost": 750.0,
       "LastClient": "زانياركريم-طباخ"
@@ -1233,10 +1233,10 @@
         "6084012090673",
         "9300650263437"
       ],
-      "Balance": 90.0,
+      "Balance": 89.0,
       "OpeningStock": 21.0,
       "NetPurchases": 301.0,
-      "TotalOut": 232.0,
+      "TotalOut": 233.0,
       "SellPrice": 3500.0,
       "Cost": 3250.0,
       "LastClient": "ابراهيم براد-بوك"
@@ -1249,10 +1249,10 @@
         "941156218437",
         "9411562184379"
       ],
-      "Balance": 24.0,
+      "Balance": 22.0,
       "OpeningStock": 60.0,
       "NetPurchases": 271.0,
-      "TotalOut": 307.0,
+      "TotalOut": 309.0,
       "SellPrice": 1500.0,
       "Cost": 1300.0,
       "LastClient": "كؤكاي محمد حاجي كلسوم"
@@ -1324,10 +1324,10 @@
         "9556023221423",
         "9556023227180"
       ],
-      "Balance": 21.0,
+      "Balance": 20.0,
       "OpeningStock": 137.0,
       "NetPurchases": 552.0,
-      "TotalOut": 668.0,
+      "TotalOut": 669.0,
       "SellPrice": 1500.0,
       "Cost": 1229.1666666666667,
       "LastClient": "زانياركريم -كؤكاي موبين-"
@@ -1390,10 +1390,10 @@
         "8699182388840",
         "911127"
       ],
-      "Balance": 0.0,
+      "Balance": -1.0,
       "OpeningStock": 2.0,
       "NetPurchases": 0.0,
-      "TotalOut": 2.0,
+      "TotalOut": 3.0,
       "SellPrice": 1000.0,
       "Cost": 833.333,
       "LastClient": ""
@@ -1512,10 +1512,10 @@
       "Barcodes": [
         "55"
       ],
-      "Balance": 24.0,
+      "Balance": 20.0,
       "OpeningStock": 22.0,
       "NetPurchases": 560.0,
-      "TotalOut": 558.0,
+      "TotalOut": 562.0,
       "SellPrice": 1750.0,
       "Cost": 1500.0,
       "LastClient": "حاجي جوهر باوةجاني-ئاوي ئالا"
@@ -1628,9 +1628,9 @@
         "8690506490478",
         "8690506494568"
       ],
-      "Balance": 131.0,
+      "Balance": 275.0,
       "OpeningStock": 173.0,
-      "NetPurchases": 394.0,
+      "NetPurchases": 538.0,
       "TotalOut": 436.0,
       "SellPrice": 1000.0,
       "Cost": 666.66666666666663,
@@ -1741,10 +1741,10 @@
       "Barcodes": [
         "8690511171331"
       ],
-      "Balance": 39.0,
+      "Balance": 37.0,
       "OpeningStock": 77.0,
       "NetPurchases": 103.0,
-      "TotalOut": 141.0,
+      "TotalOut": 143.0,
       "SellPrice": 6000.0,
       "Cost": 5586.429,
       "LastClient": "شركة قلب الملوك-رةوا"
@@ -2018,12 +2018,12 @@
         "8414227050182",
         "8414227050205"
       ],
-      "Balance": 134.0,
+      "Balance": 190.0,
       "OpeningStock": 194.0,
-      "NetPurchases": 72.0,
+      "NetPurchases": 128.0,
       "TotalOut": 132.0,
       "SellPrice": 3500.0,
-      "Cost": 3151.7857142857142,
+      "Cost": 3150.0,
       "LastClient": "مكتب ئالان-كؤران"
     },
     {
@@ -2033,10 +2033,10 @@
       "Barcodes": [
         "8420701103053"
       ],
-      "Balance": 27.0,
+      "Balance": 26.0,
       "OpeningStock": 16.0,
       "NetPurchases": 60.0,
-      "TotalOut": 49.0,
+      "TotalOut": 50.0,
       "SellPrice": 3000.0,
       "Cost": 2650.0,
       "LastClient": "كؤمبانياي مارد-دينار"
@@ -2153,10 +2153,10 @@
       "Barcodes": [
         "8680171930454"
       ],
-      "Balance": 22.0,
+      "Balance": 21.0,
       "OpeningStock": 20.0,
       "NetPurchases": 63.0,
-      "TotalOut": 61.0,
+      "TotalOut": 62.0,
       "SellPrice": 1750.0,
       "Cost": 1400.0,
       "LastClient": "كؤمبانياي البة-ميرسين دينار-حسين"
@@ -2493,10 +2493,10 @@
         "6260161581754",
         "6267287300764"
       ],
-      "Balance": 411.0,
+      "Balance": 409.0,
       "OpeningStock": 1.0,
       "NetPurchases": 5124.0,
-      "TotalOut": 4714.0,
+      "TotalOut": 4716.0,
       "SellPrice": 500.0,
       "Cost": 450.0,
       "LastClient": "كولدين ميلك / كالة"
@@ -2598,10 +2598,10 @@
       "Barcodes": [
         "6260162501997"
       ],
-      "Balance": 2347.0,
+      "Balance": 2346.0,
       "OpeningStock": 3664.0,
       "NetPurchases": 1.0,
-      "TotalOut": 1318.0,
+      "TotalOut": 1319.0,
       "SellPrice": 1750.0,
       "Cost": 1500.0,
       "LastClient": ""
@@ -2630,10 +2630,10 @@
         "6260171523454",
         "6260171530025"
       ],
-      "Balance": 577.0,
+      "Balance": 575.0,
       "OpeningStock": 2057.0,
       "NetPurchases": 4005.0,
-      "TotalOut": 5485.0,
+      "TotalOut": 5487.0,
       "SellPrice": 1000.0,
       "Cost": 750.0,
       "LastClient": "2-كوكاي ئالين+هاوار كروب"
@@ -2692,10 +2692,10 @@
       "Barcodes": [
         "6260235240211"
       ],
-      "Balance": 114.0,
+      "Balance": 112.0,
       "OpeningStock": 94.0,
       "NetPurchases": 120.0,
-      "TotalOut": 100.0,
+      "TotalOut": 102.0,
       "SellPrice": 500.0,
       "Cost": 208.33333333333334,
       "LastClient": "فروشكاي برايان - هؤشيار"
@@ -2859,10 +2859,10 @@
       "Barcodes": [
         "6260308351943"
       ],
-      "Balance": 25.0,
+      "Balance": 24.0,
       "OpeningStock": 24.0,
       "NetPurchases": 72.0,
-      "TotalOut": 71.0,
+      "TotalOut": 72.0,
       "SellPrice": 1750.0,
       "Cost": 1500.0,
       "LastClient": "كؤكاي بةهمةن-سحر معلبات"
@@ -2884,10 +2884,10 @@
         "6260360023024",
         "6260360026216"
       ],
-      "Balance": 11791.0,
+      "Balance": 11788.0,
       "OpeningStock": 1813.0,
       "NetPurchases": 18238.0,
-      "TotalOut": 8260.0,
+      "TotalOut": 8263.0,
       "SellPrice": 450.0,
       "Cost": 395.83333333333331,
       "LastClient": "ساحل العراق / بكاه"
@@ -3035,10 +3035,10 @@
         "6212206271090",
         "6212209381284"
       ],
-      "Balance": 51215.5,
+      "Balance": 51170.5,
       "OpeningStock": 1156.5,
       "NetPurchases": 119117.0,
-      "TotalOut": 69058.0,
+      "TotalOut": 69103.0,
       "SellPrice": 250.0,
       "Cost": 188.66560846560844,
       "LastClient": "كؤمبانيايي حياة-بيبسي"
@@ -3056,10 +3056,10 @@
         "6212203172116",
         "6212206272110"
       ],
-      "Balance": 32.0,
+      "Balance": 30.0,
       "OpeningStock": 38.0,
       "NetPurchases": 1228.0,
-      "TotalOut": 1234.0,
+      "TotalOut": 1236.0,
       "SellPrice": 1250.0,
       "Cost": 994.74633333333315,
       "LastClient": "كؤمبانيايي حياة-بيبسي"
@@ -3084,10 +3084,10 @@
         "6212553021140",
         "6212556011148"
       ],
-      "Balance": 1971.0,
+      "Balance": 1962.0,
       "OpeningStock": 815.0,
       "NetPurchases": 4677.0,
-      "TotalOut": 3521.0,
+      "TotalOut": 3530.0,
       "SellPrice": 750.0,
       "Cost": 497.32905982905982,
       "LastClient": "كؤمبانيايي حياة-بيبسي"
@@ -3106,10 +3106,10 @@
         "6212203163015",
         "6212203263012"
       ],
-      "Balance": 1418.0,
+      "Balance": 1415.0,
       "OpeningStock": 829.0,
       "NetPurchases": 4113.0,
-      "TotalOut": 3524.0,
+      "TotalOut": 3527.0,
       "SellPrice": 500.0,
       "Cost": 395.83333333333331,
       "LastClient": "كؤمبانيايي حياة-بيبسي"
@@ -3367,10 +3367,10 @@
         "6253009224869",
         "6253009224876"
       ],
-      "Balance": 174.0,
+      "Balance": 173.0,
       "OpeningStock": 163.0,
       "NetPurchases": 121.0,
-      "TotalOut": 110.0,
+      "TotalOut": 111.0,
       "SellPrice": 2250.0,
       "Cost": 2083.3333333333335,
       "LastClient": "كؤكاي مارينا-بيرؤز"
@@ -3382,10 +3382,10 @@
       "Barcodes": [
         "6253503460022"
       ],
-      "Balance": 380.0,
+      "Balance": 378.0,
       "OpeningStock": 267.0,
       "NetPurchases": 841.0,
-      "TotalOut": 728.0,
+      "TotalOut": 730.0,
       "SellPrice": 1000.0,
       "Cost": 875.0,
       "LastClient": "جبسي كيش-بةرهةم"
@@ -3397,10 +3397,10 @@
       "Barcodes": [
         "6253504111701"
       ],
-      "Balance": 111.0,
+      "Balance": 110.0,
       "OpeningStock": 26.0,
       "NetPurchases": 120.0,
-      "TotalOut": 35.0,
+      "TotalOut": 36.0,
       "SellPrice": 1750.0,
       "Cost": 1583.3333333333333,
       "LastClient": "هةردي كروب-تؤري"
@@ -3433,10 +3433,10 @@
         "6253504117819",
         "6253504117826"
       ],
-      "Balance": 358.0,
+      "Balance": 357.0,
       "OpeningStock": 51.0,
       "NetPurchases": 540.0,
-      "TotalOut": 233.0,
+      "TotalOut": 234.0,
       "SellPrice": 2000.0,
       "Cost": 1833.3333333333333,
       "LastClient": "لاوزةند كروب-تؤري"
@@ -3484,10 +3484,10 @@
         "6253506810053",
         "8681511320775"
       ],
-      "Balance": 510.0,
+      "Balance": 506.0,
       "OpeningStock": 201.0,
       "NetPurchases": 1440.0,
-      "TotalOut": 1131.0,
+      "TotalOut": 1135.0,
       "SellPrice": 250.0,
       "Cost": 152.77777777777777,
       "LastClient": "كؤفرؤش 3براكة-كةلار"
@@ -3514,10 +3514,10 @@
       "Barcodes": [
         "6260002900980"
       ],
-      "Balance": 478.0,
+      "Balance": 476.0,
       "OpeningStock": 143.0,
       "NetPurchases": 1483.0,
-      "TotalOut": 1148.0,
+      "TotalOut": 1150.0,
       "SellPrice": 8250.0,
       "Cost": 8042.8907278481011,
       "LastClient": "برنج كؤباني-دؤلار"
@@ -3594,10 +3594,10 @@
         "6260112909958",
         "66"
       ],
-      "Balance": 7200.0,
+      "Balance": 7181.0,
       "OpeningStock": 6592.0,
       "NetPurchases": 8648.0,
-      "TotalOut": 8040.0,
+      "TotalOut": 8059.0,
       "SellPrice": 1250.0,
       "Cost": 968.75,
       "LastClient": "فرؤشكاي زمناكؤ / جبس"
@@ -3673,10 +3673,10 @@
       "Barcodes": [
         "6260480101176"
       ],
-      "Balance": 4.0,
+      "Balance": 3.0,
       "OpeningStock": 15.0,
       "NetPurchases": 204.0,
-      "TotalOut": 215.0,
+      "TotalOut": 216.0,
       "SellPrice": 1500.0,
       "Cost": 1250.0,
       "LastClient": "4.كومبانياي سةفرة مانيزان"
@@ -3689,10 +3689,10 @@
         "6260480101480",
         "788792552012"
       ],
-      "Balance": 7.0,
+      "Balance": 6.0,
       "OpeningStock": 11.0,
       "NetPurchases": 120.0,
-      "TotalOut": 124.0,
+      "TotalOut": 125.0,
       "SellPrice": 2500.0,
       "Cost": 2250.0,
       "LastClient": "4.كومبانياي سةفرة مانيزان"
@@ -3719,10 +3719,10 @@
       "Barcodes": [
         "6260480121013"
       ],
-      "Balance": 53.0,
+      "Balance": 52.0,
       "OpeningStock": 56.0,
       "NetPurchases": 1200.0,
-      "TotalOut": 1203.0,
+      "TotalOut": 1204.0,
       "SellPrice": 750.0,
       "Cost": 587.5,
       "LastClient": "4.كومبانياي سةفرة مانيزان"
@@ -3782,10 +3782,10 @@
         "8681820172799",
         "8681820174427"
       ],
-      "Balance": 298.0,
+      "Balance": 294.0,
       "OpeningStock": 293.0,
       "NetPurchases": 912.0,
-      "TotalOut": 907.0,
+      "TotalOut": 911.0,
       "SellPrice": 1500.0,
       "Cost": 1312.5,
       "LastClient": "كؤمبانياي نةورةس-دينار"
@@ -3847,10 +3847,10 @@
         "6261479301157",
         "750122825455"
       ],
-      "Balance": 169.0,
+      "Balance": 167.0,
       "OpeningStock": 326.0,
       "NetPurchases": 261.0,
-      "TotalOut": 418.0,
+      "TotalOut": 420.0,
       "SellPrice": 4250.0,
       "Cost": 3562.5,
       "LastClient": "الراشدية -جميل -دينار"
@@ -3892,10 +3892,10 @@
       "Barcodes": [
         "6261479301263"
       ],
-      "Balance": 202.0,
+      "Balance": 201.0,
       "OpeningStock": 123.0,
       "NetPurchases": 301.0,
-      "TotalOut": 222.0,
+      "TotalOut": 223.0,
       "SellPrice": 2500.0,
       "Cost": 2187.5,
       "LastClient": "الراشدية -جميل -دينار"
@@ -3957,10 +3957,10 @@
       "Barcodes": [
         "5000159459228"
       ],
-      "Balance": 140.0,
+      "Balance": 139.0,
       "OpeningStock": 152.0,
       "NetPurchases": 266.0,
-      "TotalOut": 278.0,
+      "TotalOut": 279.0,
       "SellPrice": 1000.0,
       "Cost": 833.33333333333337,
       "LastClient": "كؤمبانياي مارد-دينار"
@@ -4125,10 +4125,10 @@
         "4796015728133",
         "5014176007720"
       ],
-      "Balance": 191.0,
+      "Balance": 190.0,
       "OpeningStock": 103.0,
       "NetPurchases": 300.0,
-      "TotalOut": 212.0,
+      "TotalOut": 213.0,
       "SellPrice": 8500.0,
       "Cost": 8142.0000000000009,
       "LastClient": "شركة جيهان-نوي"
@@ -4205,10 +4205,10 @@
         "5281019048022",
         "5281019051725"
       ],
-      "Balance": 333.0,
+      "Balance": 332.0,
       "OpeningStock": 350.0,
       "NetPurchases": 495.0,
-      "TotalOut": 512.0,
+      "TotalOut": 513.0,
       "SellPrice": 2500.0,
       "Cost": 2250.0,
       "LastClient": "كؤمبانياي مارد-دينار"
@@ -4336,10 +4336,10 @@
         "5900486111274",
         "5900486111427"
       ],
-      "Balance": 410.0,
+      "Balance": 409.0,
       "OpeningStock": 10.0,
       "NetPurchases": 840.0,
-      "TotalOut": 440.0,
+      "TotalOut": 441.0,
       "SellPrice": 1000.0,
       "Cost": 766.66666666666663,
       "LastClient": "3.ابراهيم بةراد"
@@ -4371,10 +4371,10 @@
         "8850006324172",
         "8850006324189"
       ],
-      "Balance": 603.0,
+      "Balance": 601.0,
       "OpeningStock": 1059.0,
       "NetPurchases": 1.0,
-      "TotalOut": 457.0,
+      "TotalOut": 459.0,
       "SellPrice": 1500.0,
       "Cost": 1131.944,
       "LastClient": ""
@@ -4622,10 +4622,10 @@
         "8690526891095",
         "8690526984759"
       ],
-      "Balance": 1603.0,
+      "Balance": 1600.0,
       "OpeningStock": 1206.0,
       "NetPurchases": 5438.0,
-      "TotalOut": 5041.0,
+      "TotalOut": 5044.0,
       "SellPrice": 250.0,
       "Cost": 218.75,
       "LastClient": "نورهات-ئيتي-دينار"
@@ -4967,10 +4967,10 @@
       "Barcodes": [
         "8690536802265"
       ],
-      "Balance": 175.0,
+      "Balance": 174.0,
       "OpeningStock": 281.0,
       "NetPurchases": 3.0,
-      "TotalOut": 109.0,
+      "TotalOut": 110.0,
       "SellPrice": 6500.0,
       "Cost": 5875.0,
       "LastClient": ""
@@ -5034,10 +5034,10 @@
         "8690547040052",
         "8690547090088"
       ],
-      "Balance": 1517.0,
+      "Balance": 1493.0,
       "OpeningStock": 3643.0,
       "NetPurchases": 8640.0,
-      "TotalOut": 10766.0,
+      "TotalOut": 10790.0,
       "SellPrice": 83.33,
       "Cost": 60.185185185185183,
       "LastClient": "5-فرؤشكاي ئازاد-جةرةزات-كةلار"
@@ -5191,10 +5191,10 @@
         "8850002807082",
         "8850002807754"
       ],
-      "Balance": 115.0,
+      "Balance": 113.0,
       "OpeningStock": 329.0,
       "NetPurchases": 0.0,
-      "TotalOut": 214.0,
+      "TotalOut": 216.0,
       "SellPrice": 3750.0,
       "Cost": 3500.0,
       "LastClient": ""
@@ -5269,10 +5269,10 @@
         "8938530622169",
         "8938530622282"
       ],
-      "Balance": 50.0,
+      "Balance": 49.0,
       "OpeningStock": 67.0,
       "NetPurchases": 48.0,
-      "TotalOut": 65.0,
+      "TotalOut": 66.0,
       "SellPrice": 1750.0,
       "Cost": 1458.3333333333333,
       "LastClient": "طريق الافظل-كسيح -دينار"
@@ -5687,10 +5687,10 @@
         "8909170000068",
         "8909170000853"
       ],
-      "Balance": 183.0,
+      "Balance": 182.0,
       "OpeningStock": 101.0,
       "NetPurchases": 561.0,
-      "TotalOut": 479.0,
+      "TotalOut": 480.0,
       "SellPrice": 2000.0,
       "Cost": 1875.0,
       "LastClient": "مخزن سركش"
@@ -6095,10 +6095,10 @@
         "4796002510819",
         "4796015722704"
       ],
-      "Balance": 325.0,
+      "Balance": 324.0,
       "OpeningStock": 137.0,
       "NetPurchases": 1241.0,
-      "TotalOut": 1053.0,
+      "TotalOut": 1054.0,
       "SellPrice": 2250.0,
       "Cost": 2035.5000000000002,
       "LastClient": "شركة جيهان-نوي"
@@ -6111,10 +6111,10 @@
         "4796015722735",
         "4796027557912"
       ],
-      "Balance": 189.0,
+      "Balance": 186.0,
       "OpeningStock": 44.0,
       "NetPurchases": 1539.0,
-      "TotalOut": 1394.0,
+      "TotalOut": 1397.0,
       "SellPrice": 3750.0,
       "Cost": 3484.5,
       "LastClient": "شركة جيهان-نوي"
@@ -6207,10 +6207,10 @@
         "717273502482",
         "717273502505"
       ],
-      "Balance": 47.0,
+      "Balance": 46.0,
       "OpeningStock": 84.0,
       "NetPurchases": 0.0,
-      "TotalOut": 37.0,
+      "TotalOut": 38.0,
       "SellPrice": 3750.0,
       "Cost": 3175.385,
       "LastClient": ""
@@ -6495,10 +6495,10 @@
         "8000500033784",
         "80177609"
       ],
-      "Balance": 580.0,
+      "Balance": 578.0,
       "OpeningStock": 706.0,
       "NetPurchases": 800.0,
-      "TotalOut": 926.0,
+      "TotalOut": 928.0,
       "SellPrice": 1250.0,
       "Cost": 1021.2642500000001,
       "LastClient": "كؤمبانيايي البا-كيندةر"
@@ -6530,10 +6530,10 @@
         "80768258",
         "80974482"
       ],
-      "Balance": 269.0,
+      "Balance": 267.0,
       "OpeningStock": 3.0,
       "NetPurchases": 722.0,
-      "TotalOut": 456.0,
+      "TotalOut": 458.0,
       "SellPrice": 1000.0,
       "Cost": 809.938,
       "LastClient": "كؤمبانيايي البا-كيندةر"
@@ -6946,12 +6946,12 @@
         "2000070",
         "200090"
       ],
-      "Balance": 79.831400000005516,
+      "Balance": 123.37190000000649,
       "OpeningStock": -122.201,
-      "NetPurchases": 8569.082099999996,
-      "TotalOut": 8367.0497000000214,
+      "NetPurchases": 8624.0820999999978,
+      "TotalOut": 8378.50920000002,
       "SellPrice": 5750.0,
-      "Cost": 4795.9183673469388,
+      "Cost": 4836.363636363636,
       "LastClient": "12مريشك فرؤشي  حاجي"
     },
     {
@@ -6964,12 +6964,12 @@
         "2000081",
         "2000082"
       ],
-      "Balance": 32.119600000012866,
+      "Balance": 60.548000000012649,
       "OpeningStock": -161.206,
-      "NetPurchases": 6948.5627000000013,
-      "TotalOut": 6755.2371000000085,
+      "NetPurchases": 6986.5627000000013,
+      "TotalOut": 6764.8087000000087,
       "SellPrice": 4750.0,
-      "Cost": 3840.5797101449275,
+      "Cost": 3842.1052631578946,
       "LastClient": "12مريشك فرؤشي  حاجي"
     },
     {
@@ -6979,10 +6979,10 @@
       "Barcodes": [
         "2000008"
       ],
-      "Balance": 11.470700000000056,
+      "Balance": 9.37980000000008,
       "OpeningStock": 9.588,
       "NetPurchases": 314.75,
-      "TotalOut": 312.8673,
+      "TotalOut": 314.9582,
       "SellPrice": 5000.0,
       "Cost": 4213.11475409836,
       "LastClient": "12مريشك فرؤشي  حاجي"
@@ -6995,10 +6995,10 @@
         "2000009",
         "2000074"
       ],
-      "Balance": -16.245399999987484,
+      "Balance": 1.5187000000119326,
       "OpeningStock": -64.797,
-      "NetPurchases": 4562.8896,
-      "TotalOut": 4514.3379999999916,
+      "NetPurchases": 4589.8896,
+      "TotalOut": 4523.5738999999912,
       "SellPrice": 1500.0,
       "Cost": 1000.0,
       "LastClient": "12مريشك فرؤشي  حاجي"
@@ -7010,9 +7010,9 @@
       "Barcodes": [
         "2000012"
       ],
-      "Balance": 60.164499999999379,
+      "Balance": 120.16449999999938,
       "OpeningStock": 91.398,
-      "NetPurchases": 485.0,
+      "NetPurchases": 545.0,
       "TotalOut": 516.23350000000028,
       "SellPrice": 3000.0,
       "Cost": 1750.0,
@@ -7162,10 +7162,10 @@
         "2103",
         "4946866303007"
       ],
-      "Balance": 160.5,
+      "Balance": 159.0,
       "OpeningStock": 32.0,
       "NetPurchases": 200.0,
-      "TotalOut": 71.5,
+      "TotalOut": 73.0,
       "SellPrice": 1500.0,
       "Cost": 900.0,
       "LastClient": "فرؤشكاو كةنجينةي ئارام-سليماني"
@@ -7237,10 +7237,10 @@
       "Barcodes": [
         "2143"
       ],
-      "Balance": 153.5,
+      "Balance": 150.0,
       "OpeningStock": 82.0,
       "NetPurchases": 2568.5,
-      "TotalOut": 2497.0,
+      "TotalOut": 2500.5,
       "SellPrice": 5000.0,
       "Cost": 4500.0,
       "LastClient": "كوكاى سةيوان هيلكة"
@@ -7252,10 +7252,10 @@
       "Barcodes": [
         "2152"
       ],
-      "Balance": 43.0,
+      "Balance": 42.0,
       "OpeningStock": -29.0,
       "NetPurchases": 1553.0,
-      "TotalOut": 1481.0,
+      "TotalOut": 1482.0,
       "SellPrice": 1750.0,
       "Cost": 1500.0,
       "LastClient": "شيرةمةني لادي-كاك صلاح ماست"
@@ -7282,10 +7282,10 @@
       "Barcodes": [
         "2158"
       ],
-      "Balance": 299.0,
+      "Balance": 298.0,
       "OpeningStock": 157.0,
       "NetPurchases": 795.0,
-      "TotalOut": 653.0,
+      "TotalOut": 654.0,
       "SellPrice": 3750.0,
       "Cost": 3075.0,
       "LastClient": "عبدالله سمير-خةلوز"
@@ -7382,10 +7382,10 @@
         "6260418710517",
         "6936624700573"
       ],
-      "Balance": 47.0,
+      "Balance": 46.0,
       "OpeningStock": 18.0,
       "NetPurchases": 72.0,
-      "TotalOut": 43.0,
+      "TotalOut": 44.0,
       "SellPrice": 1000.0,
       "Cost": 541.66666666666663,
       "LastClient": "كؤمبانياي دةشتي خةرمان-سليماني"
@@ -7467,10 +7467,10 @@
         "2676",
         "6260213300364"
       ],
-      "Balance": 111.0,
+      "Balance": 109.0,
       "OpeningStock": 859.0,
       "NetPurchases": 1.0,
-      "TotalOut": 749.0,
+      "TotalOut": 751.0,
       "SellPrice": 250.0,
       "Cost": 176.471,
       "LastClient": ""
@@ -7482,10 +7482,10 @@
       "Barcodes": [
         "2700001"
       ],
-      "Balance": 28.50979999999986,
+      "Balance": 28.009699999999857,
       "OpeningStock": 28.538,
       "NetPurchases": 188.0,
-      "TotalOut": 188.02820000000023,
+      "TotalOut": 188.52830000000023,
       "SellPrice": 3000.0,
       "Cost": 2250.0,
       "LastClient": "2-كوكاي ئالين+هاوار كروب"
@@ -7497,10 +7497,10 @@
       "Barcodes": [
         "2700003"
       ],
-      "Balance": 28.723899999999489,
+      "Balance": 27.433699999999462,
       "OpeningStock": 3.658,
       "NetPurchases": 616.6082,
-      "TotalOut": 591.54230000000155,
+      "TotalOut": 592.83250000000157,
       "SellPrice": 4500.0,
       "Cost": 3700.0,
       "LastClient": "5-فرؤشكاي ئازاد-جةرةزات-كةلار"
@@ -7557,10 +7557,10 @@
       "Barcodes": [
         "2700007"
       ],
-      "Balance": 4.9991999999999148,
+      "Balance": 4.4788999999999231,
       "OpeningStock": 5.548,
       "NetPurchases": 187.91660000000002,
-      "TotalOut": 188.46540000000002,
+      "TotalOut": 188.9857,
       "SellPrice": 5000.0,
       "Cost": 4500.0,
       "LastClient": "5-فرؤشكاي ئازاد-جةرةزات-كةلار"
@@ -7632,10 +7632,10 @@
       "Barcodes": [
         "2700012"
       ],
-      "Balance": 58.410899999999984,
+      "Balance": 57.906399999999977,
       "OpeningStock": 31.354,
       "NetPurchases": 281.6371,
-      "TotalOut": 254.58020000000016,
+      "TotalOut": 255.08470000000017,
       "SellPrice": 14000.0,
       "Cost": 12500.0,
       "LastClient": "5-فرؤشكاي ئازاد-جةرةزات-كةلار"
@@ -7688,10 +7688,10 @@
       "Barcodes": [
         "2700016"
       ],
-      "Balance": 65.825200000000081,
+      "Balance": 65.542400000000072,
       "OpeningStock": 22.78,
       "NetPurchases": 245.0,
-      "TotalOut": 201.95480000000021,
+      "TotalOut": 202.23760000000021,
       "SellPrice": 17000.0,
       "Cost": 14500.0,
       "LastClient": "5-فرؤشكاي ئازاد-جةرةزات-كةلار"
@@ -7703,10 +7703,10 @@
       "Barcodes": [
         "2700017"
       ],
-      "Balance": 62.585699999999889,
+      "Balance": 62.0799999999999,
       "OpeningStock": 32.41,
       "NetPurchases": 175.5026,
-      "TotalOut": 145.32690000000014,
+      "TotalOut": 145.83260000000013,
       "SellPrice": 8000.0,
       "Cost": 5800.0,
       "LastClient": "5-فرؤشكاي ئازاد-جةرةزات-كةلار"
@@ -7748,10 +7748,10 @@
       "Barcodes": [
         "2700022"
       ],
-      "Balance": 3244.3792000000108,
+      "Balance": 3242.4399000000108,
       "OpeningStock": 299.313,
       "NetPurchases": 5490.8373,
-      "TotalOut": 2545.7710999999945,
+      "TotalOut": 2547.7103999999945,
       "SellPrice": 2500.0,
       "Cost": 1717.1717171717171,
       "LastClient": "كؤمبانياي نةورةس-دينار"
@@ -7794,10 +7794,10 @@
       "Barcodes": [
         "2700025"
       ],
-      "Balance": 19.467400000000019,
+      "Balance": 18.680900000000022,
       "OpeningStock": 33.418,
       "NetPurchases": 42.6053,
-      "TotalOut": 56.555899999999994,
+      "TotalOut": 57.342399999999991,
       "SellPrice": 2500.0,
       "Cost": 1285.7142857142858,
       "LastClient": "كؤكاي محمد حاجي كلسوم"
@@ -7856,10 +7856,10 @@
       "Barcodes": [
         "2700030"
       ],
-      "Balance": 1184.8798999999954,
+      "Balance": 1184.3709999999953,
       "OpeningStock": 239.795,
       "NetPurchases": 2743.0498,
-      "TotalOut": 1797.9649000000047,
+      "TotalOut": 1798.4738000000048,
       "SellPrice": 7000.0,
       "Cost": 5906.25,
       "LastClient": "كؤمبانياي نةورةس-دينار"
@@ -7871,10 +7871,10 @@
       "Barcodes": [
         "2700031"
       ],
-      "Balance": 191.72070000000031,
+      "Balance": 190.6940000000003,
       "OpeningStock": 182.985,
       "NetPurchases": 521.9736,
-      "TotalOut": 513.23789999999951,
+      "TotalOut": 514.26459999999952,
       "SellPrice": 5500.0,
       "Cost": 4733.333333333333,
       "LastClient": "هةردي كروب-تؤري"
@@ -7931,10 +7931,10 @@
       "Barcodes": [
         "2700036"
       ],
-      "Balance": 34.214800000000089,
+      "Balance": 33.586000000000077,
       "OpeningStock": 63.618,
       "NetPurchases": 302.80830000000003,
-      "TotalOut": 332.2114999999996,
+      "TotalOut": 332.84029999999962,
       "SellPrice": 16000.0,
       "Cost": 14000.0,
       "LastClient": "5-فرؤشكاي ئازاد-جةرةزات-كةلار"
@@ -7961,10 +7961,10 @@
       "Barcodes": [
         "2700038"
       ],
-      "Balance": 410.10410000000206,
+      "Balance": 409.08200000000215,
       "OpeningStock": 99.673,
       "NetPurchases": 1639.5227,
-      "TotalOut": 1329.091599999997,
+      "TotalOut": 1330.1136999999967,
       "SellPrice": 4000.0,
       "Cost": 3282.0512820512822,
       "LastClient": "هةردي كروب-تؤري"
@@ -8008,10 +8008,10 @@
       "Barcodes": [
         "2700043"
       ],
-      "Balance": 1025.0008999999996,
+      "Balance": 1023.9959999999996,
       "OpeningStock": 118.086,
       "NetPurchases": 2254.0027,
-      "TotalOut": 1347.0878000000016,
+      "TotalOut": 1348.0927000000015,
       "SellPrice": 3000.0,
       "Cost": 2380.0,
       "LastClient": "مخزن سركش"
@@ -8073,10 +8073,10 @@
       "Barcodes": [
         "2700048"
       ],
-      "Balance": 23.592500000001266,
+      "Balance": 22.534700000001223,
       "OpeningStock": 20.098,
       "NetPurchases": 820.0,
-      "TotalOut": 816.50549999999907,
+      "TotalOut": 817.56329999999912,
       "SellPrice": 5000.0,
       "Cost": 4000.0,
       "LastClient": "5-فرؤشكاي ئازاد-جةرةزات-كةلار"
@@ -8196,10 +8196,10 @@
       "Barcodes": [
         "2700059"
       ],
-      "Balance": 84.7706000000006,
+      "Balance": 79.73760000000064,
       "OpeningStock": 66.16,
       "NetPurchases": 497.0066,
-      "TotalOut": 478.39599999999939,
+      "TotalOut": 483.42899999999935,
       "SellPrice": 3500.0,
       "Cost": 2480.0,
       "LastClient": "كؤكاي محمد حاجي كلسوم"
@@ -8231,10 +8231,10 @@
         "027507701570186",
         "2736"
       ],
-      "Balance": 279.0,
+      "Balance": 278.0,
       "OpeningStock": 824.0,
       "NetPurchases": 0.0,
-      "TotalOut": 545.0,
+      "TotalOut": 546.0,
       "SellPrice": 750.0,
       "Cost": 420.0,
       "LastClient": ""
@@ -8374,10 +8374,10 @@
       "Barcodes": [
         "3716"
       ],
-      "Balance": 191.0,
+      "Balance": 189.0,
       "OpeningStock": 131.0,
       "NetPurchases": 423.0,
-      "TotalOut": 363.0,
+      "TotalOut": 365.0,
       "SellPrice": 1750.0,
       "Cost": 1600.0,
       "LastClient": "عبد-شار"
@@ -8528,10 +8528,10 @@
         "5000159559034",
         "6221134014495"
       ],
-      "Balance": 132.0,
+      "Balance": 131.0,
       "OpeningStock": 182.0,
       "NetPurchases": 292.0,
-      "TotalOut": 342.0,
+      "TotalOut": 343.0,
       "SellPrice": 1000.0,
       "Cost": 833.33333333333337,
       "LastClient": "كؤمبانياي مارد-دينار"
@@ -8596,10 +8596,10 @@
         "8680417214218",
         "8697449901269"
       ],
-      "Balance": 80.0,
+      "Balance": 79.0,
       "OpeningStock": 251.0,
       "NetPurchases": 774.0,
-      "TotalOut": 945.0,
+      "TotalOut": 946.0,
       "SellPrice": 17250.0,
       "Cost": 16000.0,
       "LastClient": "بشتيوان جملة دينار-باناسياو"
@@ -8778,10 +8778,10 @@
       "Barcodes": [
         "8697449908725"
       ],
-      "Balance": 20.0,
+      "Balance": 19.0,
       "OpeningStock": 10.0,
       "NetPurchases": 96.0,
-      "TotalOut": 86.0,
+      "TotalOut": 87.0,
       "SellPrice": 1250.0,
       "Cost": 930.41666666666674,
       "LastClient": "كؤمبانياي تيشنة-ئالتونسا نوي"
@@ -8838,10 +8838,10 @@
       "Barcodes": [
         "8697449910957"
       ],
-      "Balance": 611.0,
+      "Balance": 597.0,
       "OpeningStock": 86.0,
       "NetPurchases": 1321.0,
-      "TotalOut": 796.0,
+      "TotalOut": 810.0,
       "SellPrice": 1400.0,
       "Cost": 1193.2291666666665,
       "LastClient": "كؤمبانياي تيشنة-ئالتونسا نوي"
@@ -8868,10 +8868,10 @@
       "Barcodes": [
         "8697449911510"
       ],
-      "Balance": 153.0,
+      "Balance": 150.0,
       "OpeningStock": -1.0,
       "NetPurchases": 1185.0,
-      "TotalOut": 1031.0,
+      "TotalOut": 1034.0,
       "SellPrice": 333.33,
       "Cost": 242.87500000000003,
       "LastClient": "كؤمبانياي تيشنة-ئالتونسا نوي"
@@ -9046,10 +9046,10 @@
         "8697449916522",
         "8697449916522"
       ],
-      "Balance": 76.0,
+      "Balance": 75.0,
       "OpeningStock": 83.0,
       "NetPurchases": 60.0,
-      "TotalOut": 67.0,
+      "TotalOut": 68.0,
       "SellPrice": 8500.0,
       "Cost": 8000.0,
       "LastClient": "دابةشكاري جاي محمود-بشوو--دينار"
@@ -9252,10 +9252,10 @@
         "9780201379624",
         "9925781374786"
       ],
-      "Balance": 199.0,
+      "Balance": 189.0,
       "OpeningStock": 235.0,
       "NetPurchases": 1221.0,
-      "TotalOut": 1257.0,
+      "TotalOut": 1267.0,
       "SellPrice": 750.0,
       "Cost": 487.5,
       "LastClient": "فروشكاي محمد و احمد-حاجي سمايل"
@@ -9455,10 +9455,10 @@
         "6974399690019",
         "78511"
       ],
-      "Balance": 710.0,
+      "Balance": 708.0,
       "OpeningStock": 346.0,
       "NetPurchases": 600.0,
-      "TotalOut": 236.0,
+      "TotalOut": 238.0,
       "SellPrice": 750.0,
       "Cost": 550.0,
       "LastClient": "كةنجينةي نيكا-مواد سةفةري "
@@ -9570,10 +9570,10 @@
       "Barcodes": [
         "8697924590698"
       ],
-      "Balance": 1134.0,
+      "Balance": 1117.0,
       "OpeningStock": 214.0,
       "NetPurchases": 6107.0,
-      "TotalOut": 5187.0,
+      "TotalOut": 5204.0,
       "SellPrice": 2750.0,
       "Cost": 2439.625,
       "LastClient": "كؤمبانياي تيشنة-ئالتونسا نوي"
@@ -9616,10 +9616,10 @@
         "8697924593781",
         "8697924593798"
       ],
-      "Balance": 40.0,
+      "Balance": 39.0,
       "OpeningStock": 53.0,
       "NetPurchases": 158.0,
-      "TotalOut": 171.0,
+      "TotalOut": 172.0,
       "SellPrice": 1250.0,
       "Cost": 1083.3333333333333,
       "LastClient": "كؤكاي باران-كؤكاي ئاراز"
@@ -9827,10 +9827,10 @@
       "Barcodes": [
         "8698995510837"
       ],
-      "Balance": 146.0,
+      "Balance": 145.0,
       "OpeningStock": 60.0,
       "NetPurchases": 225.0,
-      "TotalOut": 139.0,
+      "TotalOut": 140.0,
       "SellPrice": 15000.0,
       "Cost": 13937.5,
       "LastClient": "كؤمبانياي نةورةس-دينار"
@@ -9847,10 +9847,10 @@
         "8698995510929",
         "8698995511209"
       ],
-      "Balance": 820.0,
+      "Balance": 818.0,
       "OpeningStock": 578.0,
       "NetPurchases": 2442.0,
-      "TotalOut": 2200.0,
+      "TotalOut": 2202.0,
       "SellPrice": 250.0,
       "Cost": 225.0,
       "LastClient": "كؤمبانياي نةورةس-دينار"
@@ -9985,10 +9985,10 @@
       "Barcodes": [
         "8698995511926"
       ],
-      "Balance": 214.0,
+      "Balance": 213.0,
       "OpeningStock": 40.0,
       "NetPurchases": 851.0,
-      "TotalOut": 677.0,
+      "TotalOut": 678.0,
       "SellPrice": 1000.0,
       "Cost": 800.0,
       "LastClient": "كؤمبانياي نةورةس-دينار"
@@ -10000,10 +10000,10 @@
       "Barcodes": [
         "8698995511964"
       ],
-      "Balance": 1688.0,
+      "Balance": 1687.0,
       "OpeningStock": 82.0,
       "NetPurchases": 2901.0,
-      "TotalOut": 1295.0,
+      "TotalOut": 1296.0,
       "SellPrice": 1750.0,
       "Cost": 1425.0,
       "LastClient": "كؤمبانياي نةورةس-دينار"
@@ -10143,10 +10143,10 @@
         "8698995511872",
         "8698995513197"
       ],
-      "Balance": 179.0,
+      "Balance": 178.0,
       "OpeningStock": 53.0,
       "NetPurchases": 553.0,
-      "TotalOut": 427.0,
+      "TotalOut": 428.0,
       "SellPrice": 1000.0,
       "Cost": 800.0,
       "LastClient": "كؤمبانياي نةورةس-دينار"
@@ -10173,10 +10173,10 @@
       "Barcodes": [
         "8698995513470"
       ],
-      "Balance": 91.0,
+      "Balance": 90.0,
       "OpeningStock": 60.0,
       "NetPurchases": 325.0,
-      "TotalOut": 294.0,
+      "TotalOut": 295.0,
       "SellPrice": 5750.0,
       "Cost": 5000.0,
       "LastClient": "كؤمبانياي نةورةس-دينار"
@@ -10452,10 +10452,10 @@
       "Barcodes": [
         "6271003014019"
       ],
-      "Balance": 86.0,
+      "Balance": 83.0,
       "OpeningStock": 941.0,
       "NetPurchases": 1103.0,
-      "TotalOut": 1958.0,
+      "TotalOut": 1961.0,
       "SellPrice": 2250.0,
       "Cost": 1900.0,
       "LastClient": "فرؤشكاي عبدالله-كةلار-عثمان"
@@ -10698,10 +10698,10 @@
         "6251044001452",
         "6281036564207"
       ],
-      "Balance": 407.0,
+      "Balance": 404.0,
       "OpeningStock": 251.0,
       "NetPurchases": 727.0,
-      "TotalOut": 571.0,
+      "TotalOut": 574.0,
       "SellPrice": 500.0,
       "Cost": 406.25,
       "LastClient": "فرؤشكاي زمناكؤ / جبس"
@@ -11097,10 +11097,10 @@
         "6425825853220",
         "6425825873211"
       ],
-      "Balance": 22.0,
+      "Balance": 21.0,
       "OpeningStock": 25.0,
       "NetPurchases": 24.0,
-      "TotalOut": 27.0,
+      "TotalOut": 28.0,
       "SellPrice": 2500.0,
       "Cost": 2000.0,
       "LastClient": "3.ابراهيم بةراد"
@@ -11331,10 +11331,10 @@
       "Barcodes": [
         "8695117102093"
       ],
-      "Balance": 19.0,
+      "Balance": 18.0,
       "OpeningStock": 33.0,
       "NetPurchases": 0.0,
-      "TotalOut": 14.0,
+      "TotalOut": 15.0,
       "SellPrice": 3500.0,
       "Cost": 3166.667,
       "LastClient": ""
@@ -11361,10 +11361,10 @@
       "Barcodes": [
         "8695122003347"
       ],
-      "Balance": 23.0,
+      "Balance": 22.0,
       "OpeningStock": 36.0,
       "NetPurchases": 0.0,
-      "TotalOut": 13.0,
+      "TotalOut": 14.0,
       "SellPrice": 2250.0,
       "Cost": 1663.89,
       "LastClient": ""
@@ -11405,10 +11405,10 @@
         "8695280327507",
         "8695280327705"
       ],
-      "Balance": 682.0,
+      "Balance": 675.0,
       "OpeningStock": 1895.0,
       "NetPurchases": 3580.0,
-      "TotalOut": 4793.0,
+      "TotalOut": 4800.0,
       "SellPrice": 166.66,
       "Cost": 104.79797979797979,
       "LastClient": "كاروانجي / تازج"
@@ -11444,10 +11444,10 @@
         "8695280820107",
         "8695280820206"
       ],
-      "Balance": 186.0,
+      "Balance": 184.0,
       "OpeningStock": 244.0,
       "NetPurchases": 288.0,
-      "TotalOut": 346.0,
+      "TotalOut": 348.0,
       "SellPrice": 500.0,
       "Cost": 312.5,
       "LastClient": "كاروانجي / تازج"
@@ -12028,10 +12028,10 @@
       "Barcodes": [
         "8690949000098"
       ],
-      "Balance": 48.0,
+      "Balance": 47.0,
       "OpeningStock": 30.0,
       "NetPurchases": 160.0,
-      "TotalOut": 142.0,
+      "TotalOut": 143.0,
       "SellPrice": 1000.0,
       "Cost": 875.0,
       "LastClient": "زانياركريم -كؤكاي موبين-"
@@ -12337,10 +12337,10 @@
         "8691707090597",
         "8691707190594"
       ],
-      "Balance": 176.0,
+      "Balance": 174.0,
       "OpeningStock": 115.0,
       "NetPurchases": 722.0,
-      "TotalOut": 661.0,
+      "TotalOut": 663.0,
       "SellPrice": 250.0,
       "Cost": 229.16666666666666,
       "LastClient": "6-كوكاي محمد \\ بسكيت"
@@ -12563,10 +12563,10 @@
       "Barcodes": [
         "102401"
       ],
-      "Balance": 413.0,
+      "Balance": 410.0,
       "OpeningStock": 225.0,
       "NetPurchases": 1508.0,
-      "TotalOut": 1320.0,
+      "TotalOut": 1323.0,
       "SellPrice": 2000.0,
       "Cost": 1800.0,
       "LastClient": "عبد-شار"
@@ -12676,10 +12676,10 @@
         "8001090682673",
         "8001090682765"
       ],
-      "Balance": 224.0,
+      "Balance": 223.0,
       "OpeningStock": 222.0,
       "NetPurchases": 241.0,
-      "TotalOut": 239.0,
+      "TotalOut": 240.0,
       "SellPrice": 4500.0,
       "Cost": 3750.0,
       "LastClient": "مرموقة-زانا"
@@ -12776,10 +12776,10 @@
         "8690526018874",
         "8690526075556"
       ],
-      "Balance": 179.0,
+      "Balance": 178.0,
       "OpeningStock": 32.0,
       "NetPurchases": 378.0,
-      "TotalOut": 231.0,
+      "TotalOut": 232.0,
       "SellPrice": 500.0,
       "Cost": 444.44444444444446,
       "LastClient": "نورهات-ئيتي-دينار"
@@ -13441,10 +13441,10 @@
         "9277013108080",
         "9277013108097"
       ],
-      "Balance": 1635.0,
+      "Balance": 1633.0,
       "OpeningStock": 1544.0,
       "NetPurchases": 3871.0,
-      "TotalOut": 3780.0,
+      "TotalOut": 3782.0,
       "SellPrice": 1000.0,
       "Cost": 850.0,
       "LastClient": "زانياركريم-طباخ"
@@ -13500,10 +13500,10 @@
         "6260272499016",
         "6260272499399"
       ],
-      "Balance": 135.0,
+      "Balance": 131.0,
       "OpeningStock": 133.0,
       "NetPurchases": 408.0,
-      "TotalOut": 406.0,
+      "TotalOut": 410.0,
       "SellPrice": 500.0,
       "Cost": 395.83333333333331,
       "LastClient": "4.كومبانياي سةفرة مانيزان"
@@ -13526,10 +13526,10 @@
         "9504000291372",
         "9504000291402"
       ],
-      "Balance": 168.0,
+      "Balance": 167.0,
       "OpeningStock": 158.0,
       "NetPurchases": 265.0,
-      "TotalOut": 255.0,
+      "TotalOut": 256.0,
       "SellPrice": 1000.0,
       "Cost": 708.33333333333337,
       "LastClient": "كؤكاي رؤزي-شةربةت"
@@ -13559,10 +13559,10 @@
         "2000029",
         "2000052"
       ],
-      "Balance": 30.470900000000306,
+      "Balance": 30.093300000000276,
       "OpeningStock": -1.046,
-      "NetPurchases": 924.4249,
-      "TotalOut": 892.90799999999922,
+      "NetPurchases": 924.669,
+      "TotalOut": 893.52969999999925,
       "SellPrice": 13000.0,
       "Cost": 8000.0,
       "LastClient": "11كؤشت بةرخ- كاك احمد 2"
@@ -13704,10 +13704,10 @@
         "6253504118359",
         "6253504119943"
       ],
-      "Balance": 1237.0,
+      "Balance": 1235.0,
       "OpeningStock": 268.0,
       "NetPurchases": 2873.0,
-      "TotalOut": 1904.0,
+      "TotalOut": 1906.0,
       "SellPrice": 2000.0,
       "Cost": 1823.5294117647059,
       "LastClient": "لاوزةند كروب-تؤري"
@@ -13781,10 +13781,10 @@
         "6957928610085",
         "8682320300506"
       ],
-      "Balance": 393.0,
+      "Balance": 392.0,
       "OpeningStock": 740.0,
       "NetPurchases": 145.0,
-      "TotalOut": 492.0,
+      "TotalOut": 493.0,
       "SellPrice": 1000.0,
       "Cost": 708.33333333333337,
       "LastClient": "نؤفان كروب-دينار"
@@ -13987,10 +13987,10 @@
       "Barcodes": [
         "5701638134284"
       ],
-      "Balance": 15.0,
+      "Balance": 14.0,
       "OpeningStock": 16.0,
       "NetPurchases": 42.0,
-      "TotalOut": 43.0,
+      "TotalOut": 44.0,
       "SellPrice": 3750.0,
       "Cost": 3272.7272727272725,
       "LastClient": "4.كومبانياي سةفرة مانيزان"
@@ -14556,10 +14556,10 @@
         "8699969122117",
         "8699969122216"
       ],
-      "Balance": 781.0,
+      "Balance": 778.0,
       "OpeningStock": 867.0,
       "NetPurchases": 1024.0,
-      "TotalOut": 1110.0,
+      "TotalOut": 1113.0,
       "SellPrice": 1000.0,
       "Cost": 750.0,
       "LastClient": "2-كوكاي ئالين+هاوار كروب"
@@ -15316,10 +15316,10 @@
         "6260164200157",
         "6260164212228"
       ],
-      "Balance": 121.0,
+      "Balance": 118.0,
       "OpeningStock": 81.0,
       "NetPurchases": 501.0,
-      "TotalOut": 461.0,
+      "TotalOut": 464.0,
       "SellPrice": 2250.0,
       "Cost": 2040.0,
       "LastClient": "9-كؤمبانياي سةفرة-بةشي وشةكة- نان و تؤست"
@@ -15382,10 +15382,10 @@
       "Barcodes": [
         "8697449904307"
       ],
-      "Balance": 261.0,
+      "Balance": 260.0,
       "OpeningStock": 739.0,
       "NetPurchases": 0.0,
-      "TotalOut": 478.0,
+      "TotalOut": 479.0,
       "SellPrice": 2500.0,
       "Cost": 2163.462,
       "LastClient": ""
@@ -15493,10 +15493,10 @@
       "Barcodes": [
         "103126"
       ],
-      "Balance": 19.0,
+      "Balance": 16.0,
       "OpeningStock": 67.0,
       "NetPurchases": 125.0,
-      "TotalOut": 173.0,
+      "TotalOut": 176.0,
       "SellPrice": 1000.0,
       "Cost": 850.0,
       "LastClient": "ناني تيري-ئاية"
@@ -16272,10 +16272,10 @@
         "6294017111055",
         "6294017132821"
       ],
-      "Balance": 1219.0,
+      "Balance": 1217.0,
       "OpeningStock": 884.0,
       "NetPurchases": 888.0,
-      "TotalOut": 553.0,
+      "TotalOut": 555.0,
       "SellPrice": 3500.0,
       "Cost": 3243.549375,
       "LastClient": "شركة برايان-نيدؤ -دينار"
@@ -16617,10 +16617,10 @@
         "9415007009245",
         "9415007018735"
       ],
-      "Balance": 36.0,
+      "Balance": 35.0,
       "OpeningStock": 52.0,
       "NetPurchases": 48.0,
-      "TotalOut": 64.0,
+      "TotalOut": 65.0,
       "SellPrice": 2750.0,
       "Cost": 2416.6666666666665,
       "LastClient": "فرؤشكاي عبدالله-كةلار-عثمان"
@@ -16689,10 +16689,10 @@
         "8690120153223",
         "8690120153247"
       ],
-      "Balance": 1059.0,
+      "Balance": 1056.0,
       "OpeningStock": 862.0,
       "NetPurchases": 2936.0,
-      "TotalOut": 2739.0,
+      "TotalOut": 2742.0,
       "SellPrice": 250.0,
       "Cost": 229.16666666666666,
       "LastClient": "كؤمبانياي بيري-جكليت و نةستةلة"
@@ -16805,10 +16805,10 @@
       "Barcodes": [
         "7131"
       ],
-      "Balance": 127.0,
+      "Balance": 125.0,
       "OpeningStock": 64.0,
       "NetPurchases": 655.0,
-      "TotalOut": 592.0,
+      "TotalOut": 594.0,
       "SellPrice": 10500.0,
       "Cost": 10000.0,
       "LastClient": "نوسينكةي جيهاد-كارت موبايل"
@@ -16884,10 +16884,10 @@
         "6253504113095",
         "6253504113118"
       ],
-      "Balance": 860.0,
+      "Balance": 859.0,
       "OpeningStock": 618.0,
       "NetPurchases": 1280.0,
-      "TotalOut": 1038.0,
+      "TotalOut": 1039.0,
       "SellPrice": 3500.0,
       "Cost": 3166.6666666666665,
       "LastClient": "لاوزةند كروب-تؤري"
@@ -16899,10 +16899,10 @@
       "Barcodes": [
         "6253504112203"
       ],
-      "Balance": 213.0,
+      "Balance": 212.0,
       "OpeningStock": 57.0,
       "NetPurchases": 702.0,
-      "TotalOut": 546.0,
+      "TotalOut": 547.0,
       "SellPrice": 9750.0,
       "Cost": 9125.0,
       "LastClient": "لاوزةند كروب-تؤري"
@@ -17031,10 +17031,10 @@
       "Barcodes": [
         "8697901920616"
       ],
-      "Balance": 61.0,
+      "Balance": 60.0,
       "OpeningStock": 74.0,
       "NetPurchases": 127.0,
-      "TotalOut": 140.0,
+      "TotalOut": 141.0,
       "SellPrice": 3000.0,
       "Cost": 2800.0,
       "LastClient": "بشتيوان جملة دينار-باناسياو"
@@ -17326,10 +17326,10 @@
         "8425006987049",
         "9051"
       ],
-      "Balance": 859.0,
+      "Balance": 853.0,
       "OpeningStock": 787.0,
       "NetPurchases": 455.0,
-      "TotalOut": 383.0,
+      "TotalOut": 389.0,
       "SellPrice": 250.0,
       "Cost": 112.5,
       "LastClient": "كؤمبانياي دةشتي خةرمان-سليماني"
@@ -17565,10 +17565,10 @@
         "6985632695623",
         "8973426"
       ],
-      "Balance": 347.0,
+      "Balance": 346.0,
       "OpeningStock": 382.0,
       "NetPurchases": 194.0,
-      "TotalOut": 229.0,
+      "TotalOut": 230.0,
       "SellPrice": 1000.0,
       "Cost": 750.0,
       "LastClient": "كةنجينةى بةهمةن-ناومالة"
@@ -17615,10 +17615,10 @@
         "6949067505537",
         "6949067505544"
       ],
-      "Balance": 34.0,
+      "Balance": 33.0,
       "OpeningStock": 38.0,
       "NetPurchases": 72.0,
-      "TotalOut": 76.0,
+      "TotalOut": 77.0,
       "SellPrice": 1000.0,
       "Cost": 750.0,
       "LastClient": "بيشانكاو كةنجينةي MHD-سليماني"
@@ -17708,10 +17708,10 @@
         "6221012251240",
         "6221012370255"
       ],
-      "Balance": 72.0,
+      "Balance": 67.0,
       "OpeningStock": 25.0,
       "NetPurchases": 217.0,
-      "TotalOut": 170.0,
+      "TotalOut": 175.0,
       "SellPrice": 2000.0,
       "Cost": 1303.0833333333333,
       "LastClient": "اليسرة-ساديا سليماني"
@@ -17934,10 +17934,10 @@
         "6251044001216",
         "6251044001285"
       ],
-      "Balance": 153.0,
+      "Balance": 150.0,
       "OpeningStock": 3868.0,
       "NetPurchases": 2053.0,
-      "TotalOut": 5768.0,
+      "TotalOut": 5771.0,
       "SellPrice": 500.0,
       "Cost": 422.91666666666669,
       "LastClient": "فرؤشكاي زمناكؤ / جبس"
@@ -17954,10 +17954,10 @@
         "8414716502826",
         "8414716502925"
       ],
-      "Balance": 550.0,
+      "Balance": 548.0,
       "OpeningStock": 852.0,
       "NetPurchases": 1.0,
-      "TotalOut": 303.0,
+      "TotalOut": 305.0,
       "SellPrice": 3750.0,
       "Cost": 3251.6130000000003,
       "LastClient": ""
@@ -18148,10 +18148,10 @@
         "8691707091631",
         "8691707091648"
       ],
-      "Balance": 165.0,
+      "Balance": 162.0,
       "OpeningStock": 45.0,
       "NetPurchases": 816.0,
-      "TotalOut": 696.0,
+      "TotalOut": 699.0,
       "SellPrice": 250.0,
       "Cost": 229.16666666666666,
       "LastClient": "6-كوكاي محمد \\ بسكيت"
@@ -18546,10 +18546,10 @@
         "7350110170012",
         "8224263026320"
       ],
-      "Balance": 1392.0,
+      "Balance": 1248.0,
       "OpeningStock": 1224.0,
       "NetPurchases": 13560.0,
-      "TotalOut": 13392.0,
+      "TotalOut": 13536.0,
       "SellPrice": 1750.0,
       "Cost": 56.25,
       "LastClient": "حاجي جوهر باوةجاني-ئاوي ئالا"
@@ -18973,10 +18973,10 @@
         "8680417212177",
         "8680417212184"
       ],
-      "Balance": 31.0,
+      "Balance": 30.0,
       "OpeningStock": 34.0,
       "NetPurchases": 48.0,
-      "TotalOut": 51.0,
+      "TotalOut": 52.0,
       "SellPrice": 2000.0,
       "Cost": 1601.0416666666667,
       "LastClient": "كؤمبانياي تيشنة-ئالتونسا نوي"
@@ -19080,10 +19080,10 @@
       "Barcodes": [
         "8695122001817"
       ],
-      "Balance": 34.0,
+      "Balance": 33.0,
       "OpeningStock": 39.0,
       "NetPurchases": 0.0,
-      "TotalOut": 5.0,
+      "TotalOut": 6.0,
       "SellPrice": 2250.0,
       "Cost": 1750.0,
       "LastClient": ""
@@ -19111,10 +19111,10 @@
       "Barcodes": [
         "8680171930324"
       ],
-      "Balance": 4.0,
+      "Balance": 3.0,
       "OpeningStock": 3.0,
       "NetPurchases": 1.0,
-      "TotalOut": 0.0,
+      "TotalOut": 1.0,
       "SellPrice": 5000.0,
       "Cost": 4000.0,
       "LastClient": ""
@@ -19258,10 +19258,10 @@
       "Barcodes": [
         "6260308320154"
       ],
-      "Balance": 79.0,
+      "Balance": 78.0,
       "OpeningStock": 24.0,
       "NetPurchases": 243.0,
-      "TotalOut": 188.0,
+      "TotalOut": 189.0,
       "SellPrice": 1250.0,
       "Cost": 1050.0,
       "LastClient": "كؤكاي بةهمةن-سحر معلبات"
@@ -19429,10 +19429,10 @@
         "5900820000806",
         "5900820017767"
       ],
-      "Balance": 6.0,
+      "Balance": 4.0,
       "OpeningStock": 22.0,
       "NetPurchases": 48.0,
-      "TotalOut": 64.0,
+      "TotalOut": 66.0,
       "SellPrice": 1750.0,
       "Cost": 1500.0,
       "LastClient": "4.كومبانياي سةفرة مانيزان"
@@ -19526,10 +19526,10 @@
         "9641172000446",
         "9641172000477"
       ],
-      "Balance": 252.0,
+      "Balance": 250.0,
       "OpeningStock": 615.0,
       "NetPurchases": 661.0,
-      "TotalOut": 1024.0,
+      "TotalOut": 1026.0,
       "SellPrice": 1000.0,
       "Cost": 750.0,
       "LastClient": "2-كوكاي ئالين+هاوار كروب"
@@ -19557,10 +19557,10 @@
         "2558",
         "7071"
       ],
-      "Balance": 46.0,
+      "Balance": 41.0,
       "OpeningStock": 10.0,
       "NetPurchases": 600.0,
-      "TotalOut": 564.0,
+      "TotalOut": 569.0,
       "SellPrice": 750.0,
       "Cost": 666.66666666666663,
       "LastClient": "5-فرؤشكاي ئازاد-جةرةزات-كةلار"
@@ -19633,10 +19633,10 @@
       "Barcodes": [
         "1141"
       ],
-      "Balance": 52.0,
+      "Balance": 50.0,
       "OpeningStock": 3.0,
       "NetPurchases": 120.0,
-      "TotalOut": 71.0,
+      "TotalOut": 73.0,
       "SellPrice": 3500.0,
       "Cost": 2166.6666666666665,
       "LastClient": "بيشانكاي هيلين-سليماني"
@@ -20214,10 +20214,10 @@
       "Barcodes": [
         "5760466738095"
       ],
-      "Balance": 51.0,
+      "Balance": 50.0,
       "OpeningStock": 34.0,
       "NetPurchases": 301.0,
-      "TotalOut": 284.0,
+      "TotalOut": 285.0,
       "SellPrice": 2500.0,
       "Cost": 2000.0,
       "LastClient": "ابراهيم براد-بوك"
@@ -20712,10 +20712,10 @@
       "Barcodes": [
         "8695572000606"
       ],
-      "Balance": 10.0,
+      "Balance": 9.0,
       "OpeningStock": 44.0,
       "NetPurchases": 105.0,
-      "TotalOut": 139.0,
+      "TotalOut": 140.0,
       "SellPrice": 2750.0,
       "Cost": 2200.0,
       "LastClient": "كؤمبانياي البة-ميرسين دينار-حسين"
@@ -20952,10 +20952,10 @@
       "Barcodes": [
         "9506000136462"
       ],
-      "Balance": 18.0,
+      "Balance": 17.0,
       "OpeningStock": 15.0,
       "NetPurchases": 27.0,
-      "TotalOut": 24.0,
+      "TotalOut": 25.0,
       "SellPrice": 13500.0,
       "Cost": 12500.0,
       "LastClient": "2-كوكاي ئالين+هاوار كروب"
@@ -21040,10 +21040,10 @@
       "Barcodes": [
         "6260480101909"
       ],
-      "Balance": 5.0,
+      "Balance": 4.0,
       "OpeningStock": 12.0,
       "NetPurchases": 341.0,
-      "TotalOut": 348.0,
+      "TotalOut": 349.0,
       "SellPrice": 3750.0,
       "Cost": 3375.0,
       "LastClient": "4.كومبانياي سةفرة مانيزان"
@@ -21556,10 +21556,10 @@
       "Barcodes": [
         "3480"
       ],
-      "Balance": 93.0,
+      "Balance": 91.0,
       "OpeningStock": 1.0,
       "NetPurchases": 128.0,
-      "TotalOut": 36.0,
+      "TotalOut": 38.0,
       "SellPrice": 9000.0,
       "Cost": 6120.0,
       "LastClient": "مةكتوم كريستال-سليماني ناومالة"
@@ -22042,10 +22042,10 @@
         "6973160400956",
         "8690536843084"
       ],
-      "Balance": 44.0,
+      "Balance": 41.0,
       "OpeningStock": 95.0,
       "NetPurchases": 240.0,
-      "TotalOut": 291.0,
+      "TotalOut": 294.0,
       "SellPrice": 1000.0,
       "Cost": 645.83333333333337,
       "LastClient": "محل حميد الزهاوي-كةلار"
@@ -22421,10 +22421,10 @@
       "Barcodes": [
         "8690885224534"
       ],
-      "Balance": 276.0,
+      "Balance": 274.0,
       "OpeningStock": 282.0,
       "NetPurchases": 378.0,
-      "TotalOut": 384.0,
+      "TotalOut": 386.0,
       "SellPrice": 1250.0,
       "Cost": 1053.5714285714287,
       "LastClient": "كؤكايي حاجي ريزوان "
@@ -22539,10 +22539,10 @@
         "745314618045",
         "745314618052"
       ],
-      "Balance": 432.0,
+      "Balance": 429.0,
       "OpeningStock": 358.0,
       "NetPurchases": 900.0,
-      "TotalOut": 826.0,
+      "TotalOut": 829.0,
       "SellPrice": 1500.0,
       "Cost": 1250.0,
       "LastClient": "الراشدية -جميل -دينار"
@@ -22917,10 +22917,10 @@
         "8053323158318",
         "8053323158325"
       ],
-      "Balance": 354.0,
+      "Balance": 352.0,
       "OpeningStock": 428.0,
       "NetPurchases": 205.0,
-      "TotalOut": 279.0,
+      "TotalOut": 281.0,
       "SellPrice": 4250.0,
       "Cost": 3646.4646464646466,
       "LastClient": "فروشكاي برايان - هؤشيار"
@@ -23522,10 +23522,10 @@
       "Barcodes": [
         "8698995517560"
       ],
-      "Balance": 137.0,
+      "Balance": 136.0,
       "OpeningStock": 31.0,
       "NetPurchases": 292.0,
-      "TotalOut": 186.0,
+      "TotalOut": 187.0,
       "SellPrice": 14000.0,
       "Cost": 12750.0,
       "LastClient": "كؤمبانياي نةورةس-دينار"
@@ -23554,10 +23554,10 @@
         "8690547030022",
         "8690547030039"
       ],
-      "Balance": 3373.0,
+      "Balance": 3363.0,
       "OpeningStock": 3552.0,
       "NetPurchases": 8695.0,
-      "TotalOut": 8874.0,
+      "TotalOut": 8884.0,
       "SellPrice": 83.33,
       "Cost": 43.981481481481481,
       "LastClient": "5-فرؤشكاي ئازاد-جةرةزات-كةلار"
@@ -24075,10 +24075,10 @@
       "Barcodes": [
         "5044"
       ],
-      "Balance": 113.0,
+      "Balance": 112.0,
       "OpeningStock": 86.0,
       "NetPurchases": 539.0,
-      "TotalOut": 512.0,
+      "TotalOut": 513.0,
       "SellPrice": 2750.0,
       "Cost": 2500.0,
       "LastClient": "عبد-شار"
@@ -24265,10 +24265,10 @@
       "Barcodes": [
         "8680805284335"
       ],
-      "Balance": 10.0,
+      "Balance": 9.0,
       "OpeningStock": 6.0,
       "NetPurchases": 157.0,
-      "TotalOut": 153.0,
+      "TotalOut": 154.0,
       "SellPrice": 1250.0,
       "Cost": 916.66666666666663,
       "LastClient": "نبع الرحمة-عبدالرزاق صباح-دينار"
@@ -25206,10 +25206,10 @@
         "6261526601490",
         "6261526601841"
       ],
-      "Balance": 20.0,
+      "Balance": 19.0,
       "OpeningStock": 10.0,
       "NetPurchases": 244.0,
-      "TotalOut": 234.0,
+      "TotalOut": 235.0,
       "SellPrice": 2750.0,
       "Cost": 2250.0,
       "LastClient": "نبع الرحمة-عبدالرزاق صباح-دينار"
@@ -25379,10 +25379,10 @@
         "6294003550196",
         "6294017108932"
       ],
-      "Balance": 2166.0,
+      "Balance": 2165.0,
       "OpeningStock": 358.0,
       "NetPurchases": 3634.0,
-      "TotalOut": 1826.0,
+      "TotalOut": 1827.0,
       "SellPrice": 250.0,
       "Cost": 201.31900000000002,
       "LastClient": "شركة برايان-نيدؤ -دينار"
@@ -26272,10 +26272,10 @@
       "Barcodes": [
         "8906117001867"
       ],
-      "Balance": 138.0,
+      "Balance": 137.0,
       "OpeningStock": 67.0,
       "NetPurchases": 467.0,
-      "TotalOut": 396.0,
+      "TotalOut": 397.0,
       "SellPrice": 7500.0,
       "Cost": 7230.6034482758623,
       "LastClient": "9-كؤمبانياي سةفرة-بةشي وشةكة- نان و تؤست"
@@ -26484,12 +26484,12 @@
       "Barcodes": [
         "2000010"
       ],
-      "Balance": -11.053299999999336,
+      "Balance": -6.9046999999993481,
       "OpeningStock": -5.855,
-      "NetPurchases": 1089.85,
-      "TotalOut": 1095.0482999999997,
+      "NetPurchases": 1095.6,
+      "TotalOut": 1096.6496999999997,
       "SellPrice": 5500.0,
-      "Cost": 4166.666666666667,
+      "Cost": 4173.913043478261,
       "LastClient": "12مريشك فرؤشي  حاجي"
     },
     {
@@ -27085,10 +27085,10 @@
         "5907471400153",
         "5907471400160"
       ],
-      "Balance": 175.0,
+      "Balance": 174.0,
       "OpeningStock": 2.0,
       "NetPurchases": 576.0,
-      "TotalOut": 403.0,
+      "TotalOut": 404.0,
       "SellPrice": 250.0,
       "Cost": 229.16666666666666,
       "LastClient": "زانياركريم -كؤكاي موبين-"
@@ -27259,10 +27259,10 @@
         "6260272488606",
         "6260272498606"
       ],
-      "Balance": 68.0,
+      "Balance": 66.0,
       "OpeningStock": 108.0,
       "NetPurchases": 324.0,
-      "TotalOut": 364.0,
+      "TotalOut": 366.0,
       "SellPrice": 1000.0,
       "Cost": 833.33333333333337,
       "LastClient": "4.كومبانياي سةفرة مانيزان"
@@ -27380,9 +27380,9 @@
       "Barcodes": [
         "6260161521125"
       ],
-      "Balance": 9.0,
+      "Balance": 3.0,
       "OpeningStock": 1.0,
-      "NetPurchases": 30.0,
+      "NetPurchases": 24.0,
       "TotalOut": 22.0,
       "SellPrice": 1250.0,
       "Cost": 1083.3333333333333,
@@ -27565,10 +27565,10 @@
       "Barcodes": [
         "8996001414040"
       ],
-      "Balance": 6.0,
+      "Balance": 5.0,
       "OpeningStock": 21.0,
       "NetPurchases": 24.0,
-      "TotalOut": 39.0,
+      "TotalOut": 40.0,
       "SellPrice": 4500.0,
       "Cost": 4166.666666666667,
       "LastClient": "فرؤشكاي كؤباني-كةلار رياض"
@@ -27600,10 +27600,10 @@
         "7077",
         "8681820172263"
       ],
-      "Balance": 56.0,
+      "Balance": 55.0,
       "OpeningStock": 16.0,
       "NetPurchases": 125.0,
-      "TotalOut": 85.0,
+      "TotalOut": 86.0,
       "SellPrice": 7750.0,
       "Cost": 7200.0,
       "LastClient": "كؤمبانياي نةورةس-دينار"
@@ -27741,10 +27741,10 @@
       "Barcodes": [
         "8697449901412"
       ],
-      "Balance": 83.0,
+      "Balance": 82.0,
       "OpeningStock": 133.0,
       "NetPurchases": 156.0,
-      "TotalOut": 206.0,
+      "TotalOut": 207.0,
       "SellPrice": 3000.0,
       "Cost": 2597.916666666667,
       "LastClient": "كؤمبانياي تيشنة-ئالتونسا نوي"
@@ -28049,10 +28049,10 @@
         "6221134012965",
         "7896423423822"
       ],
-      "Balance": 266.0,
+      "Balance": 265.0,
       "OpeningStock": 172.0,
       "NetPurchases": 696.0,
-      "TotalOut": 602.0,
+      "TotalOut": 603.0,
       "SellPrice": 1000.0,
       "Cost": 833.33333333333337,
       "LastClient": "كؤمبانياي مارد-دينار"
@@ -28649,10 +28649,10 @@
         "7893000089570",
         "7893000089624"
       ],
-      "Balance": 32.0,
+      "Balance": 31.0,
       "OpeningStock": 67.0,
       "NetPurchases": 81.0,
-      "TotalOut": 116.0,
+      "TotalOut": 117.0,
       "SellPrice": 3250.0,
       "Cost": 3000.0,
       "LastClient": "3.ابراهيم بةراد"
@@ -28747,10 +28747,10 @@
         "5285000395164",
         "8606108584163"
       ],
-      "Balance": 726.0,
+      "Balance": 722.0,
       "OpeningStock": 2277.0,
       "NetPurchases": 9015.0,
-      "TotalOut": 10566.0,
+      "TotalOut": 10570.0,
       "SellPrice": 250.0,
       "Cost": 225.0,
       "LastClient": "فرؤشكاي عبدالله-كةلار-عثمان"
@@ -29207,10 +29207,10 @@
         "2240",
         "6942556700222"
       ],
-      "Balance": 151.0,
+      "Balance": 150.0,
       "OpeningStock": 100.0,
       "NetPurchases": 700.0,
-      "TotalOut": 649.0,
+      "TotalOut": 650.0,
       "SellPrice": 1000.0,
       "Cost": 696.42857142857144,
       "LastClient": "كاركةي بنيشتي بةمؤ"
@@ -30278,10 +30278,10 @@
         "8690506498887",
         "8690506536442"
       ],
-      "Balance": 131.0,
+      "Balance": 581.0,
       "OpeningStock": 268.0,
-      "NetPurchases": 326.0,
-      "TotalOut": 463.0,
+      "NetPurchases": 785.0,
+      "TotalOut": 472.0,
       "SellPrice": 3000.0,
       "Cost": 2500.0,
       "LastClient": "زيد ميديا-دورو -ئيفي دينار"
@@ -30438,10 +30438,10 @@
       "Barcodes": [
         "8697449901177"
       ],
-      "Balance": 68.0,
+      "Balance": 67.0,
       "OpeningStock": 26.0,
       "NetPurchases": 144.0,
-      "TotalOut": 102.0,
+      "TotalOut": 103.0,
       "SellPrice": 750.0,
       "Cost": 649.47916666666674,
       "LastClient": "كؤمبانياي تيشنة-ئالتونسا نوي"
@@ -31139,10 +31139,10 @@
       "Barcodes": [
         "6260918600332"
       ],
-      "Balance": 77.0,
+      "Balance": 76.0,
       "OpeningStock": 50.0,
       "NetPurchases": 182.0,
-      "TotalOut": 155.0,
+      "TotalOut": 156.0,
       "SellPrice": 3000.0,
       "Cost": 2800.0,
       "LastClient": "ساحل العراق / بكاه"
@@ -31238,10 +31238,10 @@
         "6260100681613",
         "9504000258269"
       ],
-      "Balance": 212.0,
+      "Balance": 211.0,
       "OpeningStock": 186.0,
       "NetPurchases": 288.0,
-      "TotalOut": 262.0,
+      "TotalOut": 263.0,
       "SellPrice": 2000.0,
       "Cost": 1750.0,
       "LastClient": "كومبانياي حسن باقي- سن ايج"
@@ -31478,10 +31478,10 @@
       "Barcodes": [
         "4796015725576"
       ],
-      "Balance": 144.0,
+      "Balance": 143.0,
       "OpeningStock": 259.0,
       "NetPurchases": 501.0,
-      "TotalOut": 616.0,
+      "TotalOut": 617.0,
       "SellPrice": 3750.0,
       "Cost": 3484.5,
       "LastClient": "شركة جيهان-نوي"
@@ -31542,10 +31542,10 @@
       "Barcodes": [
         "3073781010725"
       ],
-      "Balance": 8.0,
+      "Balance": 7.0,
       "OpeningStock": 42.0,
       "NetPurchases": 53.0,
-      "TotalOut": 87.0,
+      "TotalOut": 88.0,
       "SellPrice": 3500.0,
       "Cost": 3222.2222222222222,
       "LastClient": "3.ابراهيم بةراد"
@@ -31558,10 +31558,10 @@
         "0626120005",
         "2858"
       ],
-      "Balance": 63.0,
+      "Balance": 62.0,
       "OpeningStock": 43.0,
       "NetPurchases": 90.0,
-      "TotalOut": 70.0,
+      "TotalOut": 71.0,
       "SellPrice": 4000.0,
       "Cost": 3000.0,
       "LastClient": "جةرةزاتي سةلام-سليماني"
@@ -31754,10 +31754,10 @@
         "2000025",
         "2000101"
       ],
-      "Balance": 939.0,
+      "Balance": 934.0,
       "OpeningStock": 1558.0,
       "NetPurchases": 238.0,
-      "TotalOut": 861.0,
+      "TotalOut": 866.0,
       "SellPrice": 14000.0,
       "Cost": 11000.0,
       "LastClient": "11كؤشت بةرخ- كاك احمد 2"
@@ -31838,10 +31838,10 @@
       "Barcodes": [
         "6949201000638"
       ],
-      "Balance": 28.0,
+      "Balance": 27.0,
       "OpeningStock": 44.0,
       "NetPurchases": 108.0,
-      "TotalOut": 124.0,
+      "TotalOut": 125.0,
       "SellPrice": 1000.0,
       "Cost": 833.33333333333337,
       "LastClient": "فرؤشكاي ابو محمد-م.مسعود "
@@ -32044,10 +32044,10 @@
         "6260308301139",
         "6260308301146"
       ],
-      "Balance": 27.0,
+      "Balance": 26.0,
       "OpeningStock": 43.0,
       "NetPurchases": 312.0,
-      "TotalOut": 328.0,
+      "TotalOut": 329.0,
       "SellPrice": 1250.0,
       "Cost": 1050.0,
       "LastClient": "كؤكاي بةهمةن-سحر معلبات"
@@ -32119,10 +32119,10 @@
       "Barcodes": [
         "8697404263807"
       ],
-      "Balance": 36.0,
+      "Balance": 31.0,
       "OpeningStock": 134.0,
       "NetPurchases": 700.0,
-      "TotalOut": 798.0,
+      "TotalOut": 803.0,
       "SellPrice": 1250.0,
       "Cost": 1125.0,
       "LastClient": "ساحل العراق / بكاه"
@@ -32731,10 +32731,10 @@
         "5775345612021",
         "5775345612083"
       ],
-      "Balance": 2143.0,
+      "Balance": 2136.0,
       "OpeningStock": 1207.0,
       "NetPurchases": 2701.0,
-      "TotalOut": 1765.0,
+      "TotalOut": 1772.0,
       "SellPrice": 250.0,
       "Cost": 194.44444444444446,
       "LastClient": "شركة نادر -سليماني"
@@ -32827,10 +32827,10 @@
         "8809327886982",
         "8859070621033"
       ],
-      "Balance": 133.0,
+      "Balance": 132.0,
       "OpeningStock": 219.0,
       "NetPurchases": 0.0,
-      "TotalOut": 86.0,
+      "TotalOut": 87.0,
       "SellPrice": 1000.0,
       "Cost": 868.05599999999993,
       "LastClient": ""
@@ -32843,13 +32843,13 @@
         "01807701570186",
         "31311"
       ],
-      "Balance": 96.0,
+      "Balance": 672.0,
       "OpeningStock": 246.0,
-      "NetPurchases": 1.0,
+      "NetPurchases": 577.0,
       "TotalOut": 151.0,
       "SellPrice": 1000.0,
-      "Cost": 833.333,
-      "LastClient": ""
+      "Cost": 666.66666666666663,
+      "LastClient": "كؤكايي حاجي ريزوان "
     },
     {
       "Name": "كيري دةبل 10عدد",
@@ -32966,10 +32966,10 @@
       "Barcodes": [
         "6945449388798"
       ],
-      "Balance": 5.0,
+      "Balance": 4.0,
       "OpeningStock": 4.0,
       "NetPurchases": 12.0,
-      "TotalOut": 11.0,
+      "TotalOut": 12.0,
       "SellPrice": 3000.0,
       "Cost": 2375.0,
       "LastClient": "فرؤشكاي خاوين- برايةتي-ريبوار-دينار"
@@ -33323,10 +33323,10 @@
       "Barcodes": [
         "3156"
       ],
-      "Balance": 134.0,
+      "Balance": 133.0,
       "OpeningStock": 152.0,
       "NetPurchases": 157.0,
-      "TotalOut": 175.0,
+      "TotalOut": 176.0,
       "SellPrice": 5000.0,
       "Cost": 3423.0769230769229,
       "LastClient": "بؤشاكي h&h سليماني"
@@ -33744,10 +33744,10 @@
         "50296484",
         "96080825"
       ],
-      "Balance": 497.0,
+      "Balance": 496.0,
       "OpeningStock": 146.0,
       "NetPurchases": 927.0,
-      "TotalOut": 576.0,
+      "TotalOut": 577.0,
       "SellPrice": 1000.0,
       "Cost": 854.16666666666663,
       "LastClient": "زانياركريم -كؤكاي موبين-"
@@ -33828,10 +33828,10 @@
         "8935001722472",
         "8935001722496"
       ],
-      "Balance": 544.0,
+      "Balance": 543.0,
       "OpeningStock": 819.0,
       "NetPurchases": 866.0,
-      "TotalOut": 1141.0,
+      "TotalOut": 1142.0,
       "SellPrice": 500.0,
       "Cost": 437.5,
       "LastClient": "كؤمبانياي مارد-دينار"
@@ -33845,10 +33845,10 @@
         "8935001723820",
         "8935001723844"
       ],
-      "Balance": 209.0,
+      "Balance": 205.0,
       "OpeningStock": 215.0,
       "NetPurchases": 631.0,
-      "TotalOut": 637.0,
+      "TotalOut": 641.0,
       "SellPrice": 250.0,
       "Cost": 216.66666666666666,
       "LastClient": "كؤمبانياي مارد-دينار"
@@ -33869,10 +33869,10 @@
         "8695280827151",
         "8695280827168"
       ],
-      "Balance": 19.0,
+      "Balance": 18.0,
       "OpeningStock": 151.0,
       "NetPurchases": 240.0,
-      "TotalOut": 372.0,
+      "TotalOut": 373.0,
       "SellPrice": 500.0,
       "Cost": 395.83333333333331,
       "LastClient": "كؤكاي كاروانجي -فاخرة -فايربؤل"
@@ -33949,10 +33949,10 @@
         "717273503113",
         "717273509320"
       ],
-      "Balance": 8.0,
+      "Balance": 7.0,
       "OpeningStock": 36.0,
       "NetPurchases": 0.0,
-      "TotalOut": 28.0,
+      "TotalOut": 29.0,
       "SellPrice": 4500.0,
       "Cost": 3756.9230000000002,
       "LastClient": ""
@@ -34017,10 +34017,10 @@
         "8690566507857",
         "8691375674631"
       ],
-      "Balance": 160.0,
+      "Balance": 159.0,
       "OpeningStock": 40.0,
       "NetPurchases": 663.0,
-      "TotalOut": 543.0,
+      "TotalOut": 544.0,
       "SellPrice": 1000.0,
       "Cost": 733.33333333333337,
       "LastClient": "3.ابراهيم بةراد"
@@ -34215,10 +34215,10 @@
         "0770",
         "1845"
       ],
-      "Balance": 65.0,
+      "Balance": 59.0,
       "OpeningStock": 110.0,
       "NetPurchases": 2915.0,
-      "TotalOut": 2960.0,
+      "TotalOut": 2966.0,
       "SellPrice": 750.0,
       "Cost": 500.0,
       "LastClient": "ماست شار -خؤمالي"
@@ -34355,10 +34355,10 @@
         "8655445569654",
         "8655445569654"
       ],
-      "Balance": 135.0,
+      "Balance": 134.0,
       "OpeningStock": 192.0,
       "NetPurchases": 1.0,
-      "TotalOut": 58.0,
+      "TotalOut": 59.0,
       "SellPrice": 1500.0,
       "Cost": 1250.0,
       "LastClient": ""
@@ -34415,10 +34415,10 @@
         "8699956115511",
         "8699956116006"
       ],
-      "Balance": 22.0,
+      "Balance": 21.0,
       "OpeningStock": 59.0,
       "NetPurchases": 0.0,
-      "TotalOut": 37.0,
+      "TotalOut": 38.0,
       "SellPrice": 1750.0,
       "Cost": 1125.0,
       "LastClient": ""
@@ -34605,10 +34605,10 @@
       "Barcodes": [
         "9002490220709"
       ],
-      "Balance": 80.0,
+      "Balance": 78.0,
       "OpeningStock": 70.0,
       "NetPurchases": 144.0,
-      "TotalOut": 134.0,
+      "TotalOut": 136.0,
       "SellPrice": 1750.0,
       "Cost": 1500.0,
       "LastClient": "كؤمبانياي مارد-دينار"
@@ -34713,10 +34713,10 @@
         "6262238755624",
         "6262238755662"
       ],
-      "Balance": 58.0,
+      "Balance": 57.0,
       "OpeningStock": 35.0,
       "NetPurchases": 234.0,
-      "TotalOut": 211.0,
+      "TotalOut": 212.0,
       "SellPrice": 500.0,
       "Cost": 403.84615384615387,
       "LastClient": "4.كومبانياي سةفرة مانيزان"
@@ -34806,10 +34806,10 @@
         "6260308304437",
         "6260308304444"
       ],
-      "Balance": 49.0,
+      "Balance": 48.0,
       "OpeningStock": 39.0,
       "NetPurchases": 228.0,
-      "TotalOut": 218.0,
+      "TotalOut": 219.0,
       "SellPrice": 1000.0,
       "Cost": 840.0,
       "LastClient": "كؤكاي بةهمةن-سحر معلبات"
@@ -35213,10 +35213,10 @@
       "Barcodes": [
         "8697449907445"
       ],
-      "Balance": 197.0,
+      "Balance": 196.0,
       "OpeningStock": 86.0,
       "NetPurchases": 301.0,
-      "TotalOut": 190.0,
+      "TotalOut": 191.0,
       "SellPrice": 1500.0,
       "Cost": 1138.25,
       "LastClient": "كؤمبانياي تيشنة-ئالتونسا نوي"
@@ -35626,10 +35626,10 @@
         "9780203379622",
         "9780206379629"
       ],
-      "Balance": 4403.0,
+      "Balance": 4388.0,
       "OpeningStock": 6974.0,
       "NetPurchases": 19257.0,
-      "TotalOut": 21828.0,
+      "TotalOut": 21843.0,
       "SellPrice": 250.0,
       "Cost": 203.125,
       "LastClient": "فرؤشكاي زمناكؤ / جبس"
@@ -36573,9 +36573,9 @@
       "Barcodes": [
         "2000037"
       ],
-      "Balance": 6.2912000000000132,
+      "Balance": 12.291200000000043,
       "OpeningStock": -1.889,
-      "NetPurchases": 254.56920000000002,
+      "NetPurchases": 260.5692,
       "TotalOut": 246.38899999999998,
       "SellPrice": 10500.0,
       "Cost": 10000.0,
@@ -36589,9 +36589,9 @@
         "2000041",
         "2000075"
       ],
-      "Balance": 69.727200000000011,
+      "Balance": 71.727200000000011,
       "OpeningStock": 22.299,
-      "NetPurchases": 70.0001,
+      "NetPurchases": 72.0001,
       "TotalOut": 22.571899999999996,
       "SellPrice": 1500.0,
       "Cost": 1000.0,
@@ -36928,10 +36928,10 @@
         "5701638143712",
         "5701638143712"
       ],
-      "Balance": 24.0,
+      "Balance": 22.0,
       "OpeningStock": 9.0,
       "NetPurchases": 201.0,
-      "TotalOut": 186.0,
+      "TotalOut": 188.0,
       "SellPrice": 2250.0,
       "Cost": 1800.0,
       "LastClient": "4.كومبانياي سةفرة مانيزان"
@@ -36949,10 +36949,10 @@
         "8224630263204",
         "99"
       ],
-      "Balance": 3735.0,
+      "Balance": 3663.0,
       "OpeningStock": 3501.0,
       "NetPurchases": 32583.0,
-      "TotalOut": 32349.0,
+      "TotalOut": 32421.0,
       "SellPrice": 125.0,
       "Cost": 58.333333333333336,
       "LastClient": "حاجي جوهر باوةجاني-ئاوي ئالا"
@@ -37176,6 +37176,7 @@
         "6260176805487",
         "6260176833831",
         "6260176838218",
+        "6260176871772",
         "6260315400146",
         "6260428000929",
         "9501101891753",
@@ -37241,10 +37242,10 @@
         "8934673402033",
         "8934673420037"
       ],
-      "Balance": 29.0,
+      "Balance": 28.0,
       "OpeningStock": 4.0,
       "NetPurchases": 72.0,
-      "TotalOut": 47.0,
+      "TotalOut": 48.0,
       "SellPrice": 2750.0,
       "Cost": 2333.3333333333335,
       "LastClient": "مكتب صهيب-حاجي صباح"
@@ -37298,10 +37299,10 @@
         "8699141057732",
         "8699141058340"
       ],
-      "Balance": 183.0,
+      "Balance": 182.0,
       "OpeningStock": 38.0,
       "NetPurchases": 192.0,
-      "TotalOut": 47.0,
+      "TotalOut": 48.0,
       "SellPrice": 2000.0,
       "Cost": 1662.1354166666667,
       "LastClient": "شركة احسان-دينار"
@@ -37400,10 +37401,10 @@
         "8695280836702",
         "8695280836900"
       ],
-      "Balance": 86.0,
+      "Balance": 84.0,
       "OpeningStock": 213.0,
       "NetPurchases": 216.0,
-      "TotalOut": 343.0,
+      "TotalOut": 345.0,
       "SellPrice": 500.0,
       "Cost": 416.66666666666669,
       "LastClient": "كؤكاي كاروانجي -فاخرة -فايربؤل"
@@ -37492,10 +37493,10 @@
       "Barcodes": [
         "6253504970292"
       ],
-      "Balance": 17.0,
+      "Balance": 15.0,
       "OpeningStock": 31.0,
       "NetPurchases": 15.0,
-      "TotalOut": 29.0,
+      "TotalOut": 31.0,
       "SellPrice": 2250.0,
       "Cost": 1950.0,
       "LastClient": "كؤمبانياي البة-ميرسين دينار-حسين"
@@ -37875,10 +37876,10 @@
         "2100001",
         "2100101"
       ],
-      "Balance": 13.653199999999988,
+      "Balance": 13.517999999999987,
       "OpeningStock": 6.123,
       "NetPurchases": 23.7855,
-      "TotalOut": 16.255300000000013,
+      "TotalOut": 16.39050000000001,
       "SellPrice": 15000.0,
       "Cost": 10000.0,
       "LastClient": "كاك ابراهيم-هةنجير وشك"
@@ -38307,10 +38308,10 @@
       "Barcodes": [
         "9410320370003"
       ],
-      "Balance": 16.0,
+      "Balance": 15.0,
       "OpeningStock": 6.0,
       "NetPurchases": 18.0,
-      "TotalOut": 8.0,
+      "TotalOut": 9.0,
       "SellPrice": 4000.0,
       "Cost": 2869.1666666666665,
       "LastClient": "فرؤشكاي ميهران-سليماني"
@@ -38468,10 +38469,10 @@
         "5775345139498",
         "5775345139504"
       ],
-      "Balance": 298.0,
+      "Balance": 297.0,
       "OpeningStock": 539.0,
       "NetPurchases": 1217.0,
-      "TotalOut": 1458.0,
+      "TotalOut": 1459.0,
       "SellPrice": 6250.0,
       "Cost": 6083.333333333333,
       "LastClient": "شركة نادر -سليماني"
@@ -38586,10 +38587,10 @@
       "Barcodes": [
         "8655445569555"
       ],
-      "Balance": 62.0,
+      "Balance": 61.0,
       "OpeningStock": 120.0,
       "NetPurchases": 0.0,
-      "TotalOut": 58.0,
+      "TotalOut": 59.0,
       "SellPrice": 1250.0,
       "Cost": 833.33,
       "LastClient": ""
@@ -38785,10 +38786,10 @@
       "Barcodes": [
         "4820219863298"
       ],
-      "Balance": 16.0,
+      "Balance": 15.0,
       "OpeningStock": 3.0,
       "NetPurchases": 36.0,
-      "TotalOut": 23.0,
+      "TotalOut": 24.0,
       "SellPrice": 2000.0,
       "Cost": 1666.6666666666667,
       "LastClient": "شركة الامين-كؤلدستار"
@@ -39592,10 +39593,10 @@
       "Barcodes": [
         "725272730706"
       ],
-      "Balance": 67.0,
+      "Balance": 65.0,
       "OpeningStock": 2.0,
       "NetPurchases": 201.0,
-      "TotalOut": 136.0,
+      "TotalOut": 138.0,
       "SellPrice": 1000.0,
       "Cost": 562.5,
       "LastClient": "رؤزلاك-خيلان"
@@ -39685,13 +39686,13 @@
         "8690506507312",
         "8690506512033"
       ],
-      "Balance": 7.0,
+      "Balance": 31.0,
       "OpeningStock": 23.0,
-      "NetPurchases": 0.0,
+      "NetPurchases": 24.0,
       "TotalOut": 16.0,
       "SellPrice": 2500.0,
-      "Cost": 1916.667,
-      "LastClient": ""
+      "Cost": 2000.0,
+      "LastClient": "زيد ميديا-دورو -ئيفي دينار"
     },
     {
       "Name": "تايكر مؤنستر 500مل هةموو",
@@ -39779,10 +39780,10 @@
         "5940568000171",
         "777200000"
       ],
-      "Balance": 48.0,
+      "Balance": 47.0,
       "OpeningStock": 42.0,
       "NetPurchases": 132.0,
-      "TotalOut": 126.0,
+      "TotalOut": 127.0,
       "SellPrice": 2000.0,
       "Cost": 1833.3333333333333,
       "LastClient": "6-كوكاي محمد \\ بسكيت"
@@ -39796,10 +39797,10 @@
         "8008857406152",
         "8008857601052"
       ],
-      "Balance": 66.0,
+      "Balance": 65.0,
       "OpeningStock": 22.0,
       "NetPurchases": 168.0,
-      "TotalOut": 124.0,
+      "TotalOut": 125.0,
       "SellPrice": 3750.0,
       "Cost": 3333.3333333333335,
       "LastClient": "زانياركريم -كؤكاي موبين-"
@@ -39837,7 +39838,7 @@
     },
     {
       "Name": "معطر جو ئيفيل 120مل شوشة",
-      "m_class": "مكتب ئالان-كؤران",
+      "m_class": "مكتب ئالان",
       "MatType": "بةشي باككةرةوة ",
       "Barcodes": [
         "8680902514212",
@@ -39878,9 +39879,9 @@
         "8681301037326",
         "8681301037333"
       ],
-      "Balance": 86.0,
+      "Balance": 134.0,
       "OpeningStock": 144.0,
-      "NetPurchases": 48.0,
+      "NetPurchases": 96.0,
       "TotalOut": 106.0,
       "SellPrice": 4000.0,
       "Cost": 3500.0,
@@ -40201,18 +40202,18 @@
       "LastClient": ""
     },
     {
-      "Name": "سةعات ناومالة 30000ي",
+      "Name": "سةعات ناومالة 32000ي",
       "m_class": "بيشانكاي هيلين-سليماني",
       "MatType": "بةشي خوارةوة ناومالة ",
       "Barcodes": [
         "1020"
       ],
-      "Balance": 6.0,
+      "Balance": 14.0,
       "OpeningStock": 4.0,
-      "NetPurchases": 4.0,
+      "NetPurchases": 12.0,
       "TotalOut": 2.0,
-      "SellPrice": 30000.0,
-      "Cost": 25000.0,
+      "SellPrice": 32000.0,
+      "Cost": 27000.0,
       "LastClient": "بيشانكاي هيلين-سليماني"
     },
     {
@@ -40254,10 +40255,10 @@
       "Barcodes": [
         "8697404263999"
       ],
-      "Balance": 119.0,
+      "Balance": 118.0,
       "OpeningStock": 127.0,
       "NetPurchases": 242.0,
-      "TotalOut": 250.0,
+      "TotalOut": 251.0,
       "SellPrice": 1500.0,
       "Cost": 1291.6666666666667,
       "LastClient": "ساحل العراق / بكاه"
@@ -40270,10 +40271,10 @@
         "1500192811215",
         "9641500210720"
       ],
-      "Balance": 574.0,
+      "Balance": 573.0,
       "OpeningStock": 372.0,
       "NetPurchases": 1852.0,
-      "TotalOut": 1650.0,
+      "TotalOut": 1651.0,
       "SellPrice": 6500.0,
       "Cost": 6095.833,
       "LastClient": "كؤكاي بينايي-دينار"
@@ -40420,10 +40421,10 @@
         "6281007042253",
         "6281007042499"
       ],
-      "Balance": 255.0,
+      "Balance": 251.0,
       "OpeningStock": 82.0,
       "NetPurchases": 600.0,
-      "TotalOut": 427.0,
+      "TotalOut": 431.0,
       "SellPrice": 1000.0,
       "Cost": 895.83333333333337,
       "LastClient": "ابراهيم براد-المراعي"
@@ -40730,10 +40731,10 @@
         "8801038580654",
         "8801038583396"
       ],
-      "Balance": 86.0,
+      "Balance": 85.0,
       "OpeningStock": 125.0,
       "NetPurchases": 1.0,
-      "TotalOut": 40.0,
+      "TotalOut": 41.0,
       "SellPrice": 4500.0,
       "Cost": 3666.667,
       "LastClient": ""
@@ -40810,12 +40811,12 @@
       "Barcodes": [
         "2000001"
       ],
-      "Balance": -130.30530000002187,
+      "Balance": 96.665099999979191,
       "OpeningStock": -1.214,
-      "NetPurchases": 7429.9641999999976,
-      "TotalOut": 7559.05550000005,
+      "NetPurchases": 7667.9641999999976,
+      "TotalOut": 7570.0851000000494,
       "SellPrice": 18000.0,
-      "Cost": 12720.417633410672,
+      "Cost": 13077.731092436974,
       "LastClient": "كؤشت كويرةكة شار-كاك احمد"
     },
     {
@@ -40826,10 +40827,10 @@
         "200000333",
         "2000046"
       ],
-      "Balance": 283.47999999998723,
+      "Balance": 279.82889999998719,
       "OpeningStock": 67.94,
       "NetPurchases": 4957.9034,
-      "TotalOut": 4742.3634000000038,
+      "TotalOut": 4746.014500000003,
       "SellPrice": 22000.0,
       "Cost": 18878.359264497878,
       "LastClient": "11كؤشت بةرخ- كاك احمد 2"
@@ -41266,10 +41267,10 @@
         "4760060602038",
         "4760060612853"
       ],
-      "Balance": 99.0,
+      "Balance": 98.0,
       "OpeningStock": 19.0,
       "NetPurchases": 120.0,
-      "TotalOut": 40.0,
+      "TotalOut": 41.0,
       "SellPrice": 4500.0,
       "Cost": 4250.0,
       "LastClient": "كؤكاي مارينا-جلال كلارة-"
@@ -41583,10 +41584,10 @@
       "Barcodes": [
         "2009"
       ],
-      "Balance": 210.0,
+      "Balance": 209.0,
       "OpeningStock": 174.0,
       "NetPurchases": 155.0,
-      "TotalOut": 119.0,
+      "TotalOut": 120.0,
       "SellPrice": 2000.0,
       "Cost": 1266.6666666666667,
       "LastClient": "ئاسؤي حاجي ابراهيم-ناومالة"
@@ -41668,10 +41669,10 @@
         "6261149013298",
         "6261149013465"
       ],
-      "Balance": 22.0,
+      "Balance": 21.0,
       "OpeningStock": 65.0,
       "NetPurchases": 281.0,
-      "TotalOut": 324.0,
+      "TotalOut": 325.0,
       "SellPrice": 250.0,
       "Cost": 175.0,
       "LastClient": "6-كوكاي محمد \\ بسكيت"
@@ -41801,10 +41802,10 @@
         "6932620208426",
         "6932620208433"
       ],
-      "Balance": 620.0,
+      "Balance": 619.0,
       "OpeningStock": 503.0,
       "NetPurchases": 385.0,
-      "TotalOut": 268.0,
+      "TotalOut": 269.0,
       "SellPrice": 750.0,
       "Cost": 497.39583333333331,
       "LastClient": "شاكولي زال-سليماني"
@@ -42240,12 +42241,12 @@
         "6973220349607",
         "6974686481269"
       ],
-      "Balance": 79.0,
+      "Balance": 559.0,
       "OpeningStock": 16.0,
-      "NetPurchases": 121.0,
+      "NetPurchases": 601.0,
       "TotalOut": 58.0,
       "SellPrice": 1000.0,
-      "Cost": 666.66666666666663,
+      "Cost": 614.58333333333337,
       "LastClient": "كؤكايي حاجي ريزوان "
     },
     {
@@ -42271,10 +42272,10 @@
         "6886487597400",
         "6886487597400"
       ],
-      "Balance": 815.0,
+      "Balance": 809.0,
       "OpeningStock": 1063.0,
       "NetPurchases": 1500.0,
-      "TotalOut": 1748.0,
+      "TotalOut": 1754.0,
       "SellPrice": 1500.0,
       "Cost": 1340.0,
       "LastClient": "كؤمبانيي كةي بيتي KBT-دينار"
@@ -42546,10 +42547,10 @@
         "6281100021896",
         "6281100021919"
       ],
-      "Balance": 57.0,
+      "Balance": 52.0,
       "OpeningStock": 25.0,
       "NetPurchases": 72.0,
-      "TotalOut": 40.0,
+      "TotalOut": 45.0,
       "SellPrice": 3750.0,
       "Cost": 3250.0,
       "LastClient": "فرؤشكاي عبدالله-كةلار-عثمان"
@@ -42689,10 +42690,10 @@
         "5000159020312",
         "5000159555715"
       ],
-      "Balance": 101.0,
+      "Balance": 100.0,
       "OpeningStock": 66.0,
       "NetPurchases": 450.0,
-      "TotalOut": 415.0,
+      "TotalOut": 416.0,
       "SellPrice": 1250.0,
       "Cost": 1060.0,
       "LastClient": "كؤمبانياي مارد-دينار"
@@ -42927,9 +42928,9 @@
         "8690506541712",
         "8690506541729"
       ],
-      "Balance": 80.0,
+      "Balance": 320.0,
       "OpeningStock": 196.0,
-      "NetPurchases": 96.0,
+      "NetPurchases": 336.0,
       "TotalOut": 212.0,
       "SellPrice": 2500.0,
       "Cost": 2000.0,
@@ -42949,13 +42950,13 @@
         "8690506512040",
         "8690506541019"
       ],
-      "Balance": 8.0,
+      "Balance": 32.0,
       "OpeningStock": 25.0,
-      "NetPurchases": 2.0,
+      "NetPurchases": 26.0,
       "TotalOut": 19.0,
       "SellPrice": 4000.0,
       "Cost": 3125.0,
-      "LastClient": ""
+      "LastClient": "زيد ميديا-دورو -ئيفي دينار"
     },
     {
       "Name": "كيندةر شكؤلاتة كةنتري",
@@ -42964,10 +42965,10 @@
       "Barcodes": [
         "80177180"
       ],
-      "Balance": 114.0,
+      "Balance": 112.0,
       "OpeningStock": 26.0,
       "NetPurchases": 240.0,
-      "TotalOut": 152.0,
+      "TotalOut": 154.0,
       "SellPrice": 1000.0,
       "Cost": 744.13716666666676,
       "LastClient": "كؤمبانيايي البا-كيندةر"
@@ -43088,12 +43089,12 @@
       "Barcodes": [
         "2000022"
       ],
-      "Balance": 112.85880000000117,
+      "Balance": 154.44230000000113,
       "OpeningStock": 193.517,
-      "NetPurchases": 868.8108,
-      "TotalOut": 949.46899999999937,
+      "NetPurchases": 911.8108,
+      "TotalOut": 950.88549999999941,
       "SellPrice": 5500.0,
-      "Cost": 2500.0,
+      "Cost": 3000.0,
       "LastClient": "ترشيات دوبرا-كةلار"
     },
     {
@@ -43156,10 +43157,10 @@
         "6261946100801",
         "6261946100863"
       ],
-      "Balance": 60.0,
+      "Balance": 59.0,
       "OpeningStock": 29.0,
       "NetPurchases": 745.0,
-      "TotalOut": 714.0,
+      "TotalOut": 715.0,
       "SellPrice": 1250.0,
       "Cost": 1083.3333333333333,
       "LastClient": "3.ابراهيم بةراد"
@@ -43305,10 +43306,10 @@
         "9504000356859",
         "9504000356866"
       ],
-      "Balance": 164.0,
+      "Balance": 163.0,
       "OpeningStock": 94.0,
       "NetPurchases": 336.0,
-      "TotalOut": 266.0,
+      "TotalOut": 267.0,
       "SellPrice": 500.0,
       "Cost": 381.25,
       "LastClient": "كؤكاي رؤزي-شةربةت"
@@ -43750,10 +43751,10 @@
         "6623002790249",
         "7213010985004"
       ],
-      "Balance": 127.0,
+      "Balance": 126.0,
       "OpeningStock": 330.0,
       "NetPurchases": 0.0,
-      "TotalOut": 203.0,
+      "TotalOut": 204.0,
       "SellPrice": 1750.0,
       "Cost": 1416.667,
       "LastClient": ""
@@ -44765,10 +44766,10 @@
         "6212900008688",
         "6212995037907"
       ],
-      "Balance": 112.0,
+      "Balance": 111.0,
       "OpeningStock": 188.0,
       "NetPurchases": 0.0,
-      "TotalOut": 76.0,
+      "TotalOut": 77.0,
       "SellPrice": 3500.0,
       "Cost": 2412.5,
       "LastClient": ""
@@ -44810,10 +44811,10 @@
       "Barcodes": [
         "8698720573519"
       ],
-      "Balance": 77.0,
+      "Balance": 76.0,
       "OpeningStock": 20.0,
       "NetPurchases": 96.0,
-      "TotalOut": 39.0,
+      "TotalOut": 40.0,
       "SellPrice": 2500.0,
       "Cost": 2125.0,
       "LastClient": "كؤمبانيي كةي بيتي KBT-دينار"
@@ -44933,10 +44934,10 @@
         "8699969231987",
         "8699969232014"
       ],
-      "Balance": 9687.0,
+      "Balance": 9684.0,
       "OpeningStock": 207.0,
       "NetPurchases": 13410.0,
-      "TotalOut": 3930.0,
+      "TotalOut": 3933.0,
       "SellPrice": 83.33,
       "Cost": 35.919540229885058,
       "LastClient": "2-كوكاي ئالين+هاوار كروب"
@@ -45933,10 +45934,10 @@
         "8973265417314",
         "8973265417895"
       ],
-      "Balance": 5.0,
+      "Balance": 4.0,
       "OpeningStock": 2.0,
       "NetPurchases": 67.0,
-      "TotalOut": 64.0,
+      "TotalOut": 65.0,
       "SellPrice": 4000.0,
       "Cost": 3583.3333333333335,
       "LastClient": "نبع الرحمة-عبدالرزاق صباح-دينار"
@@ -46392,10 +46393,10 @@
         "6281036008305",
         "6281036008312"
       ],
-      "Balance": 72.0,
+      "Balance": 71.0,
       "OpeningStock": 150.0,
       "NetPurchases": 240.0,
-      "TotalOut": 318.0,
+      "TotalOut": 319.0,
       "SellPrice": 1000.0,
       "Cost": 812.5,
       "LastClient": "فرؤشكاي زمناكؤ / جبس"
@@ -46580,9 +46581,9 @@
         "8699512454849",
         "8699686980052"
       ],
-      "Balance": 651.0,
+      "Balance": 652.0,
       "OpeningStock": 682.0,
-      "NetPurchases": 399.0,
+      "NetPurchases": 400.0,
       "TotalOut": 430.0,
       "SellPrice": 2000.0,
       "Cost": 1555.5555555555557,
@@ -46776,10 +46777,10 @@
         "90027819",
         "90027833"
       ],
-      "Balance": 34.0,
+      "Balance": 33.0,
       "OpeningStock": 40.0,
       "NetPurchases": 60.0,
-      "TotalOut": 66.0,
+      "TotalOut": 67.0,
       "SellPrice": 2000.0,
       "Cost": 1708.3333333333333,
       "LastClient": "شركة الشاب الملكي"
@@ -46861,10 +46862,10 @@
       "Barcodes": [
         "22003"
       ],
-      "Balance": 13.0,
+      "Balance": 12.0,
       "OpeningStock": 9.0,
       "NetPurchases": 127.0,
-      "TotalOut": 123.0,
+      "TotalOut": 124.0,
       "SellPrice": 21000.0,
       "Cost": 19500.0,
       "LastClient": "مخزن سركش"
@@ -47300,10 +47301,10 @@
         "8695280339081",
         "8695280339500"
       ],
-      "Balance": 330.0,
+      "Balance": 329.0,
       "OpeningStock": 356.0,
       "NetPurchases": 866.0,
-      "TotalOut": 892.0,
+      "TotalOut": 893.0,
       "SellPrice": 500.0,
       "Cost": 385.41666666666669,
       "LastClient": "كؤكاي كاروانجي -فاخرة -فايربؤل"
@@ -47582,9 +47583,9 @@
         "2000068",
         "2000069"
       ],
-      "Balance": 50.66380000000121,
+      "Balance": 94.6638000000012,
       "OpeningStock": 33.415,
-      "NetPurchases": 1630.0407000000002,
+      "NetPurchases": 1674.0407000000002,
       "TotalOut": 1612.7919,
       "SellPrice": 2000.0,
       "Cost": 1000.0,
@@ -47841,10 +47842,10 @@
         "6158057978842",
         "6998745610018"
       ],
-      "Balance": 19.0,
+      "Balance": 17.0,
       "OpeningStock": 61.0,
       "NetPurchases": 0.0,
-      "TotalOut": 42.0,
+      "TotalOut": 44.0,
       "SellPrice": 1000.0,
       "Cost": 666.67,
       "LastClient": ""
@@ -48415,10 +48416,10 @@
       "Barcodes": [
         "2700070"
       ],
-      "Balance": -44.163000000000096,
+      "Balance": -45.1673000000001,
       "OpeningStock": 1.286,
       "NetPurchases": 180.9531,
-      "TotalOut": 226.40210000000013,
+      "TotalOut": 227.40640000000013,
       "SellPrice": 2500.0,
       "Cost": 1950.0000000000002,
       "LastClient": ""
@@ -48711,10 +48712,10 @@
       "Barcodes": [
         "6221134000092"
       ],
-      "Balance": 327.0,
+      "Balance": 322.0,
       "OpeningStock": 21.0,
       "NetPurchases": 831.0,
-      "TotalOut": 525.0,
+      "TotalOut": 530.0,
       "SellPrice": 125.0,
       "Cost": 100.0,
       "LastClient": "كؤمبانياي مارد-دينار"
@@ -48726,10 +48727,10 @@
       "Barcodes": [
         "2134"
       ],
-      "Balance": 56.0,
+      "Balance": 54.0,
       "OpeningStock": 120.0,
       "NetPurchases": 618.0,
-      "TotalOut": 682.0,
+      "TotalOut": 684.0,
       "SellPrice": 2250.0,
       "Cost": 2000.0,
       "LastClient": "كؤكاي محمد حاجي كلسوم"
@@ -49071,10 +49072,10 @@
         "6254000260252",
         "9254000260259"
       ],
-      "Balance": 111.0,
+      "Balance": 110.0,
       "OpeningStock": 110.0,
       "NetPurchases": 313.0,
-      "TotalOut": 312.0,
+      "TotalOut": 313.0,
       "SellPrice": 1750.0,
       "Cost": 1520.8333333333333,
       "LastClient": "كؤمبانياي نةورةس-دينار"
@@ -49240,10 +49241,10 @@
         "9008700208420",
         "9008700208536"
       ],
-      "Balance": 479.0,
+      "Balance": 478.0,
       "OpeningStock": 1841.0,
       "NetPurchases": 2592.0,
-      "TotalOut": 3954.0,
+      "TotalOut": 3955.0,
       "SellPrice": 166.667,
       "Cost": 138.88888888888889,
       "LastClient": "كؤكاي كاروانجي -فاخرة -فايربؤل"
@@ -49443,10 +49444,10 @@
         "6269025297916",
         "6925497688774"
       ],
-      "Balance": -16.0,
+      "Balance": -17.0,
       "OpeningStock": 415.0,
       "NetPurchases": 1.0,
-      "TotalOut": 432.0,
+      "TotalOut": 433.0,
       "SellPrice": 500.0,
       "Cost": 300.0,
       "LastClient": ""
@@ -50520,10 +50521,10 @@
       "Barcodes": [
         "0485"
       ],
-      "Balance": 119.0,
+      "Balance": 118.0,
       "OpeningStock": 130.0,
       "NetPurchases": 86.0,
-      "TotalOut": 97.0,
+      "TotalOut": 98.0,
       "SellPrice": 3000.0,
       "Cost": 2000.0,
       "LastClient": "جةرةزاتي سةلام-سليماني"
@@ -50717,10 +50718,10 @@
         "8691440309475",
         "8691440309482"
       ],
-      "Balance": 651.0,
+      "Balance": 650.0,
       "OpeningStock": 434.0,
       "NetPurchases": 720.0,
-      "TotalOut": 503.0,
+      "TotalOut": 504.0,
       "SellPrice": 1500.0,
       "Cost": 1242.0,
       "LastClient": "كؤمبانياي بركات العراق"
@@ -51131,10 +51132,10 @@
         "4004600120508",
         "4004600120522"
       ],
-      "Balance": 6.0,
+      "Balance": 5.0,
       "OpeningStock": 3.0,
       "NetPurchases": 15.0,
-      "TotalOut": 12.0,
+      "TotalOut": 13.0,
       "SellPrice": 3000.0,
       "Cost": 2666.6666666666665,
       "LastClient": "كومبانياي لايف وةي-دينار"
@@ -52001,10 +52002,10 @@
         "8691707098258",
         "8691707098265"
       ],
-      "Balance": 200.0,
+      "Balance": 198.0,
       "OpeningStock": 40.0,
       "NetPurchases": 216.0,
-      "TotalOut": 56.0,
+      "TotalOut": 58.0,
       "SellPrice": 250.0,
       "Cost": 216.22916666666666,
       "LastClient": "شركة احسان-دينار"
@@ -52049,10 +52050,10 @@
         "2289",
         "9821"
       ],
-      "Balance": 1843.0,
+      "Balance": 1841.0,
       "OpeningStock": 888.0,
       "NetPurchases": 2690.0,
-      "TotalOut": 1735.0,
+      "TotalOut": 1737.0,
       "SellPrice": 2250.0,
       "Cost": 1748.5380116959063,
       "LastClient": "بؤشاكي h&h سليماني"
@@ -52200,10 +52201,10 @@
       "Barcodes": [
         "2700091"
       ],
-      "Balance": 24.060299999999859,
+      "Balance": 23.777399999999862,
       "OpeningStock": 6.303,
       "NetPurchases": 118.01,
-      "TotalOut": 100.25270000000003,
+      "TotalOut": 100.53560000000003,
       "SellPrice": 4500.0,
       "Cost": 3800.0,
       "LastClient": "5-فرؤشكاي ئازاد-جةرةزات-كةلار"
@@ -52835,10 +52836,10 @@
         "990013303420",
         "990013303444"
       ],
-      "Balance": 1254.0,
+      "Balance": 1250.0,
       "OpeningStock": 1380.0,
       "NetPurchases": 907.0,
-      "TotalOut": 1033.0,
+      "TotalOut": 1037.0,
       "SellPrice": 1000.0,
       "Cost": 500.0,
       "LastClient": "فرؤشكةي زانا-كؤرةوي سليماني"
@@ -53240,10 +53241,10 @@
         "6262484607456",
         "6262484609405"
       ],
-      "Balance": 255.48449999999988,
+      "Balance": 254.07379999999986,
       "OpeningStock": 30.672,
       "NetPurchases": 781.97579999999971,
-      "TotalOut": 557.1633,
+      "TotalOut": 558.574,
       "SellPrice": 3500.0,
       "Cost": 3100.0,
       "LastClient": "فرؤشكاي ياسين-شيريني سليماني"
@@ -53832,10 +53833,10 @@
       "Barcodes": [
         "7613287366702"
       ],
-      "Balance": 168.0,
+      "Balance": 167.0,
       "OpeningStock": 344.0,
       "NetPurchases": 261.0,
-      "TotalOut": 437.0,
+      "TotalOut": 438.0,
       "SellPrice": 3250.0,
       "Cost": 2803.4134615384614,
       "LastClient": "شركة برايان-نيدؤ -دينار"
@@ -53893,12 +53894,16 @@
       "MatType": "مؤتة-ميهن",
       "Barcodes": [
         "0-",
+        "0133100017680645",
         "0133100017680678",
+        "0133100218650024",
         "0162510017680001",
         "6260176804381",
+        "6260176805098",
         "6260176805135",
         "6260176805425",
         "6260176806675",
+        "6260176809751",
         "6260176810832",
         "6260176810856",
         "6260176816759",
@@ -53922,10 +53927,10 @@
         "6267199300234",
         "9501101892408"
       ],
-      "Balance": 1815.0,
+      "Balance": 1807.0,
       "OpeningStock": 729.0,
       "NetPurchases": 4546.0,
-      "TotalOut": 3460.0,
+      "TotalOut": 3468.0,
       "SellPrice": 250.0,
       "Cost": 210.0,
       "LastClient": "جملة فرؤشي محمد / ميهن"
@@ -53952,7 +53957,6 @@
         "6260176825386",
         "6260176825393",
         "6260176871512",
-        "6260176871772",
         "6260176871796",
         "6260176890261",
         "6260176890742",
@@ -54019,10 +54023,10 @@
         "6261946100580",
         "6261946103185"
       ],
-      "Balance": -7.0,
+      "Balance": -8.0,
       "OpeningStock": 49.0,
       "NetPurchases": 63.0,
-      "TotalOut": 119.0,
+      "TotalOut": 120.0,
       "SellPrice": 500.0,
       "Cost": 400.0,
       "LastClient": "3.ابراهيم بةراد"
@@ -54054,10 +54058,10 @@
         "9009301000369",
         "9009301000376"
       ],
-      "Balance": 76.0,
+      "Balance": 75.0,
       "OpeningStock": 27.0,
       "NetPurchases": 168.0,
-      "TotalOut": 119.0,
+      "TotalOut": 120.0,
       "SellPrice": 2500.0,
       "Cost": 2208.3333333333335,
       "LastClient": "ابراهيم براد-بوك"
@@ -54301,10 +54305,10 @@
       "Barcodes": [
         "69993"
       ],
-      "Balance": 21.0,
+      "Balance": 20.0,
       "OpeningStock": 24.0,
       "NetPurchases": 44.0,
-      "TotalOut": 47.0,
+      "TotalOut": 48.0,
       "SellPrice": 5000.0,
       "Cost": 3250.0,
       "LastClient": "بيلاوي دياري-كةلار"
@@ -54503,10 +54507,10 @@
       "Barcodes": [
         "01648"
       ],
-      "Balance": 25.0,
+      "Balance": 24.0,
       "OpeningStock": 56.0,
       "NetPurchases": 0.0,
-      "TotalOut": 31.0,
+      "TotalOut": 32.0,
       "SellPrice": 2500.0,
       "Cost": 1200.0,
       "LastClient": ""
@@ -54624,10 +54628,10 @@
         "02728",
         "6999250807009"
       ],
-      "Balance": 609.0,
+      "Balance": 607.0,
       "OpeningStock": 98.0,
       "NetPurchases": 600.0,
-      "TotalOut": 89.0,
+      "TotalOut": 91.0,
       "SellPrice": 500.0,
       "Cost": 166.66666666666666,
       "LastClient": "كةنجينةي نيكا-مواد سةفةري "
@@ -55322,10 +55326,10 @@
       "Barcodes": [
         "01733"
       ],
-      "Balance": 113.0,
+      "Balance": 111.0,
       "OpeningStock": 54.0,
       "NetPurchases": 154.0,
-      "TotalOut": 95.0,
+      "TotalOut": 97.0,
       "SellPrice": 12000.0,
       "Cost": 9178.57142857143,
       "LastClient": "مةكتوم كريستال-سليماني ناومالة"
@@ -56608,10 +56612,10 @@
       "Barcodes": [
         "6251071004082"
       ],
-      "Balance": 7.0,
+      "Balance": 6.0,
       "OpeningStock": 4.0,
       "NetPurchases": 12.0,
-      "TotalOut": 9.0,
+      "TotalOut": 10.0,
       "SellPrice": 2500.0,
       "Cost": 2250.0,
       "LastClient": "كومبانياي بيري-سليماني"
@@ -58245,10 +58249,10 @@
         "9551007521834",
         "9551007521841"
       ],
-      "Balance": 866.0,
+      "Balance": 865.0,
       "OpeningStock": 7.0,
       "NetPurchases": 2402.0,
-      "TotalOut": 1543.0,
+      "TotalOut": 1544.0,
       "SellPrice": 500.0,
       "Cost": 395.83333333333331,
       "LastClient": "جبسي كيش-بةرهةم"
@@ -59056,10 +59060,10 @@
         "8690533044149",
         "8690533044231"
       ],
-      "Balance": 67.0,
+      "Balance": 65.0,
       "OpeningStock": 97.0,
       "NetPurchases": 1219.0,
-      "TotalOut": 1249.0,
+      "TotalOut": 1251.0,
       "SellPrice": 250.0,
       "Cost": 226.1904761904762,
       "LastClient": "نورهات-ئيتي-دينار"
@@ -59208,10 +59212,10 @@
       "Barcodes": [
         "40125"
       ],
-      "Balance": 123.0,
+      "Balance": 110.0,
       "OpeningStock": 130.0,
       "NetPurchases": 120.0,
-      "TotalOut": 127.0,
+      "TotalOut": 140.0,
       "SellPrice": 4000.0,
       "Cost": 2666.6666666666665,
       "LastClient": "بؤشاكي h&h سليماني"
@@ -60235,10 +60239,10 @@
       "Barcodes": [
         "4023103071209"
       ],
-      "Balance": 66.0,
+      "Balance": 65.0,
       "OpeningStock": 104.0,
       "NetPurchases": 0.0,
-      "TotalOut": 38.0,
+      "TotalOut": 39.0,
       "SellPrice": 2500.0,
       "Cost": 2170.0,
       "LastClient": ""
@@ -60280,10 +60284,10 @@
       "Barcodes": [
         "2000020"
       ],
-      "Balance": 302.66709999999978,
+      "Balance": 302.0666999999998,
       "OpeningStock": 162.531,
       "NetPurchases": 452.2006,
-      "TotalOut": 312.06450000000018,
+      "TotalOut": 312.66490000000016,
       "SellPrice": 7000.0,
       "Cost": 2192.3076923076924,
       "LastClient": "دابةشكاري زيرين-سليماني"
@@ -61006,10 +61010,10 @@
       "Barcodes": [
         "2029"
       ],
-      "Balance": 56.0,
+      "Balance": 44.0,
       "OpeningStock": 133.0,
       "NetPurchases": 0.0,
-      "TotalOut": 77.0,
+      "TotalOut": 89.0,
       "SellPrice": 1500.0,
       "Cost": 1000.0,
       "LastClient": ""
@@ -61112,10 +61116,10 @@
         "50",
         "70"
       ],
-      "Balance": 164.0,
+      "Balance": 162.0,
       "OpeningStock": 151.0,
       "NetPurchases": 3544.0,
-      "TotalOut": 3531.0,
+      "TotalOut": 3533.0,
       "SellPrice": 1750.0,
       "Cost": 1500.0,
       "LastClient": "حاجي جوهر باوةجاني-ئاوي ئالا"
@@ -61210,10 +61214,10 @@
         "8697924598373",
         "8697924598397"
       ],
-      "Balance": 46.0,
+      "Balance": 45.0,
       "OpeningStock": 36.0,
       "NetPurchases": 75.0,
-      "TotalOut": 65.0,
+      "TotalOut": 66.0,
       "SellPrice": 13750.0,
       "Cost": 13267.789999999999,
       "LastClient": "كؤمبانياي تيشنة-ئالتونسا نوي"
@@ -61527,10 +61531,10 @@
         "6212203372400",
         "6212209382403"
       ],
-      "Balance": 2962.0,
+      "Balance": 2947.0,
       "OpeningStock": 432.0,
       "NetPurchases": 8102.0,
-      "TotalOut": 5572.0,
+      "TotalOut": 5587.0,
       "SellPrice": 250.0,
       "Cost": 218.61702127659575,
       "LastClient": "كؤمبانيايي حياة-بيبسي"
@@ -61956,10 +61960,10 @@
         "8697449901245",
         "8697449904444"
       ],
-      "Balance": 537.0,
+      "Balance": 536.0,
       "OpeningStock": 401.0,
       "NetPurchases": 2118.0,
-      "TotalOut": 1982.0,
+      "TotalOut": 1983.0,
       "SellPrice": 8500.0,
       "Cost": 8362.875,
       "LastClient": "كؤمبانياي بةمؤ-هةواري سليماني-برنج محمود"
@@ -62461,10 +62465,10 @@
       "Barcodes": [
         "8680417215437"
       ],
-      "Balance": 207.0,
+      "Balance": 199.0,
       "OpeningStock": 146.0,
       "NetPurchases": 607.0,
-      "TotalOut": 546.0,
+      "TotalOut": 554.0,
       "SellPrice": 2000.0,
       "Cost": 1703.75,
       "LastClient": "كؤمبانياي تيشنة-ئالتونسا نوي"
@@ -62615,10 +62619,10 @@
         "6947981501642",
         "6966437700590"
       ],
-      "Balance": 93.0,
+      "Balance": 91.0,
       "OpeningStock": 127.0,
       "NetPurchases": 1.0,
-      "TotalOut": 35.0,
+      "TotalOut": 37.0,
       "SellPrice": 5000.0,
       "Cost": 4000.0,
       "LastClient": ""
@@ -63362,10 +63366,10 @@
         "6260428070076",
         "6261946103314"
       ],
-      "Balance": 524.0,
+      "Balance": 522.0,
       "OpeningStock": 376.0,
       "NetPurchases": 2951.0,
-      "TotalOut": 2803.0,
+      "TotalOut": 2805.0,
       "SellPrice": 250.0,
       "Cost": 208.57142857142858,
       "LastClient": "3.ابراهيم بةراد"
@@ -64223,9 +64227,9 @@
         "8690506522063",
         "8690506522070"
       ],
-      "Balance": 95.0,
+      "Balance": 335.0,
       "OpeningStock": 113.0,
-      "NetPurchases": 278.0,
+      "NetPurchases": 518.0,
       "TotalOut": 296.0,
       "SellPrice": 2250.0,
       "Cost": 2000.0,
@@ -64640,10 +64644,10 @@
         "8699343927307",
         "8699343927314"
       ],
-      "Balance": 1951.0,
+      "Balance": 1948.0,
       "OpeningStock": 2425.0,
       "NetPurchases": 2.0,
-      "TotalOut": 476.0,
+      "TotalOut": 479.0,
       "SellPrice": 1750.0,
       "Cost": 998.81,
       "LastClient": ""
@@ -65118,10 +65122,10 @@
         "634240148934",
         "7777744444257"
       ],
-      "Balance": 38.0,
+      "Balance": 34.0,
       "OpeningStock": 70.0,
       "NetPurchases": 240.0,
-      "TotalOut": 272.0,
+      "TotalOut": 276.0,
       "SellPrice": 250.0,
       "Cost": 206.25,
       "LastClient": "شركة الجيد- KBB-شياو"
@@ -65592,10 +65596,10 @@
         "6251044001278",
         "6251044001544"
       ],
-      "Balance": 1832.0,
+      "Balance": 1816.0,
       "OpeningStock": 4582.0,
       "NetPurchases": 6008.0,
-      "TotalOut": 8758.0,
+      "TotalOut": 8774.0,
       "SellPrice": 250.0,
       "Cost": 211.45833333333334,
       "LastClient": "فرؤشكاي زمناكؤ / جبس"
@@ -65814,10 +65818,10 @@
       "Barcodes": [
         "404040"
       ],
-      "Balance": 295.0,
+      "Balance": 294.0,
       "OpeningStock": 5.0,
       "NetPurchases": 800.0,
-      "TotalOut": 510.0,
+      "TotalOut": 511.0,
       "SellPrice": 1500.0,
       "Cost": 1125.0,
       "LastClient": "كؤكاي هيليا-هاوكار"
@@ -66072,10 +66076,10 @@
       "Barcodes": [
         "4820006011482"
       ],
-      "Balance": 2.0,
+      "Balance": 1.0,
       "OpeningStock": 8.0,
       "NetPurchases": 37.0,
-      "TotalOut": 43.0,
+      "TotalOut": 44.0,
       "SellPrice": 2000.0,
       "Cost": 1416.6666666666667,
       "LastClient": "كؤمبانياي جمعة محمد-سليماني"
@@ -66592,13 +66596,13 @@
         "8683881000028",
         "8690506520298"
       ],
-      "Balance": 3.0,
+      "Balance": 83.0,
       "OpeningStock": 37.0,
-      "NetPurchases": 2.0,
+      "NetPurchases": 82.0,
       "TotalOut": 36.0,
       "SellPrice": 7500.0,
       "Cost": 6875.0,
-      "LastClient": ""
+      "LastClient": "زيد ميديا-دورو -ئيفي دينار"
     },
     {
       "Name": "ماسيحةي 55سم ماكزيل 410",
@@ -66637,10 +66641,10 @@
       "Barcodes": [
         "8697420956820"
       ],
-      "Balance": 43.0,
+      "Balance": 42.0,
       "OpeningStock": 50.0,
       "NetPurchases": 0.0,
-      "TotalOut": 7.0,
+      "TotalOut": 8.0,
       "SellPrice": 4000.0,
       "Cost": 3000.0,
       "LastClient": ""
@@ -66708,10 +66712,10 @@
         "8699323761600",
         "8699323761907"
       ],
-      "Balance": 3132.0,
+      "Balance": 3129.0,
       "OpeningStock": 885.0,
       "NetPurchases": 4398.0,
-      "TotalOut": 2151.0,
+      "TotalOut": 2154.0,
       "SellPrice": 1000.0,
       "Cost": 700.0,
       "LastClient": "كومبانياي سيفي / هيمن-دينار"
@@ -66850,10 +66854,10 @@
         "8695280836481",
         "8695280836498"
       ],
-      "Balance": 142.0,
+      "Balance": 140.0,
       "OpeningStock": 411.0,
       "NetPurchases": 496.0,
-      "TotalOut": 765.0,
+      "TotalOut": 767.0,
       "SellPrice": 250.0,
       "Cost": 208.33333333333334,
       "LastClient": "كاروانجي / تازج"
@@ -66961,10 +66965,10 @@
         "8690526946740",
         "8690526978093"
       ],
-      "Balance": 902.0,
+      "Balance": 901.0,
       "OpeningStock": 629.0,
       "NetPurchases": 2909.0,
-      "TotalOut": 2636.0,
+      "TotalOut": 2637.0,
       "SellPrice": 250.0,
       "Cost": 218.75,
       "LastClient": "نورهات-ئيتي-دينار"
@@ -67119,10 +67123,10 @@
       "Barcodes": [
         "2000026"
       ],
-      "Balance": 341.00420000000076,
+      "Balance": 337.39320000000066,
       "OpeningStock": 13.779,
       "NetPurchases": 1367.0183000000002,
-      "TotalOut": 1039.7930999999992,
+      "TotalOut": 1043.4040999999991,
       "SellPrice": 8000.0,
       "Cost": 5470.0,
       "LastClient": "12مريشك فرؤشي  حاجي"
@@ -67134,10 +67138,10 @@
       "Barcodes": [
         "2000027"
       ],
-      "Balance": 241.84650000000636,
+      "Balance": 252.16370000000654,
       "OpeningStock": 296.341,
-      "NetPurchases": 1934.4257,
-      "TotalOut": 1988.920199999993,
+      "NetPurchases": 1948.9257,
+      "TotalOut": 1993.1029999999928,
       "SellPrice": 8000.0,
       "Cost": 5000.0,
       "LastClient": "12مريشك فرؤشي  حاجي"
@@ -68103,10 +68107,10 @@
         "750122825578",
         "750122825585"
       ],
-      "Balance": 1334.0,
+      "Balance": 1332.0,
       "OpeningStock": 701.0,
       "NetPurchases": 2535.0,
-      "TotalOut": 1902.0,
+      "TotalOut": 1904.0,
       "SellPrice": 1000.0,
       "Cost": 791.66666666666663,
       "LastClient": "الراشدية -جميل -دينار"
@@ -68911,10 +68915,10 @@
         "6212201012070",
         "6212202022078"
       ],
-      "Balance": 653.0,
+      "Balance": 648.0,
       "OpeningStock": 166.0,
       "NetPurchases": 1280.0,
-      "TotalOut": 793.0,
+      "TotalOut": 798.0,
       "SellPrice": 1250.0,
       "Cost": 994.79166666666663,
       "LastClient": "كؤمبانيايي حياة-بيبسي"
@@ -69081,10 +69085,10 @@
       "Barcodes": [
         "8698758280182"
       ],
-      "Balance": 3.0,
+      "Balance": 1.0,
       "OpeningStock": 40.0,
       "NetPurchases": 33.0,
-      "TotalOut": 70.0,
+      "TotalOut": 72.0,
       "SellPrice": 2000.0,
       "Cost": 1515.1515151515152,
       "LastClient": "كؤمبانياي شكؤي مةليك-سليماني"
@@ -69172,10 +69176,10 @@
         "8697924594269",
         "8697924594269"
       ],
-      "Balance": 92.0,
+      "Balance": 91.0,
       "OpeningStock": 54.0,
       "NetPurchases": 285.0,
-      "TotalOut": 247.0,
+      "TotalOut": 248.0,
       "SellPrice": 5000.0,
       "Cost": 4621.875,
       "LastClient": "كؤمبانياي تيشنة-ئالتونسا نوي"
@@ -69630,10 +69634,10 @@
       "Barcodes": [
         "8698995510660"
       ],
-      "Balance": 247.0,
+      "Balance": 246.0,
       "OpeningStock": 96.0,
       "NetPurchases": 460.0,
-      "TotalOut": 309.0,
+      "TotalOut": 310.0,
       "SellPrice": 3000.0,
       "Cost": 2600.0,
       "LastClient": "كؤمبانياي نةورةس-دينار"
@@ -69786,10 +69790,10 @@
       "Barcodes": [
         "2700039"
       ],
-      "Balance": 43.57380000000034,
+      "Balance": 43.318500000000334,
       "OpeningStock": 44.109,
       "NetPurchases": 240.75820000000002,
-      "TotalOut": 241.29339999999976,
+      "TotalOut": 241.54869999999977,
       "SellPrice": 7000.0,
       "Cost": 5775.0,
       "LastClient": "كؤمبانياي نةورةس-دينار"
@@ -69865,13 +69869,13 @@
         "8683881000257",
         "8690506520205"
       ],
-      "Balance": 7.0,
+      "Balance": 27.0,
       "OpeningStock": 20.0,
-      "NetPurchases": 1.0,
+      "NetPurchases": 21.0,
       "TotalOut": 14.0,
       "SellPrice": 7500.0,
       "Cost": 6875.0,
-      "LastClient": ""
+      "LastClient": "زيد ميديا-دورو -ئيفي دينار"
     },
     {
       "Name": "عطرsexyunisex ",
@@ -70323,10 +70327,10 @@
         "9277013115392",
         "9277013115408"
       ],
-      "Balance": 28.0,
+      "Balance": 27.0,
       "OpeningStock": 65.0,
       "NetPurchases": 96.0,
-      "TotalOut": 133.0,
+      "TotalOut": 134.0,
       "SellPrice": 500.0,
       "Cost": 416.667,
       "LastClient": "زانياركريم-طباخ"
@@ -70522,10 +70526,10 @@
         "6260575902923",
         "6260575902930"
       ],
-      "Balance": 544.0,
+      "Balance": 541.0,
       "OpeningStock": 731.0,
       "NetPurchases": 2596.0,
-      "TotalOut": 2783.0,
+      "TotalOut": 2786.0,
       "SellPrice": 500.0,
       "Cost": 406.25,
       "LastClient": "فرؤشكاي زمناكؤ / جبس"
@@ -70766,10 +70770,10 @@
         "8906088968701",
         "8906088968787"
       ],
-      "Balance": 188.0,
+      "Balance": 187.0,
       "OpeningStock": 136.0,
       "NetPurchases": 288.0,
-      "TotalOut": 236.0,
+      "TotalOut": 237.0,
       "SellPrice": 1000.0,
       "Cost": 600.69444444444446,
       "LastClient": "شركة ارض الندى +بخور "
@@ -70811,10 +70815,10 @@
       "Barcodes": [
         "8698995511971"
       ],
-      "Balance": 756.0,
+      "Balance": 754.0,
       "OpeningStock": 183.0,
       "NetPurchases": 1651.0,
-      "TotalOut": 1078.0,
+      "TotalOut": 1080.0,
       "SellPrice": 900.0,
       "Cost": 725.0,
       "LastClient": "كؤمبانياي نةورةس-دينار"
@@ -71167,10 +71171,10 @@
         "8698995512145",
         "8698995512244"
       ],
-      "Balance": 3231.0,
+      "Balance": 3230.0,
       "OpeningStock": 156.0,
       "NetPurchases": 6003.0,
-      "TotalOut": 2928.0,
+      "TotalOut": 2929.0,
       "SellPrice": 1400.0,
       "Cost": 1225.0,
       "LastClient": "كؤمبانياي نةورةس-دينار"
@@ -71306,10 +71310,10 @@
         "8935001721482",
         "8935001721482"
       ],
-      "Balance": 397.0,
+      "Balance": 396.0,
       "OpeningStock": 298.0,
       "NetPurchases": 337.0,
-      "TotalOut": 238.0,
+      "TotalOut": 239.0,
       "SellPrice": 500.0,
       "Cost": 416.66666666666669,
       "LastClient": "كؤمبانياي مارد-دينار"
@@ -71634,10 +71638,10 @@
         "8935001726302",
         "8935001726326"
       ],
-      "Balance": 119.0,
+      "Balance": 118.0,
       "OpeningStock": 138.0,
       "NetPurchases": 210.0,
-      "TotalOut": 229.0,
+      "TotalOut": 230.0,
       "SellPrice": 1000.0,
       "Cost": 833.33333333333337,
       "LastClient": "كؤمبانياي مارد-دينار"
@@ -71779,10 +71783,10 @@
         "8683911060602",
         "8699847075900"
       ],
-      "Balance": 2.0,
+      "Balance": 0.0,
       "OpeningStock": 11.0,
       "NetPurchases": 37.0,
-      "TotalOut": 46.0,
+      "TotalOut": 48.0,
       "SellPrice": 2500.0,
       "Cost": 1875.0,
       "LastClient": "كؤمبانياي البة-ميرسين دينار-حسين"
@@ -71936,12 +71940,12 @@
       "Barcodes": [
         "8683881001032"
       ],
-      "Balance": 9.0,
+      "Balance": 49.0,
       "OpeningStock": 12.0,
-      "NetPurchases": 14.0,
+      "NetPurchases": 54.0,
       "TotalOut": 17.0,
       "SellPrice": 15750.0,
-      "Cost": 14000.0,
+      "Cost": 13500.0,
       "LastClient": "زيد ميديا-دورو -ئيفي دينار"
     },
     {
@@ -71951,12 +71955,12 @@
       "Barcodes": [
         "8683881001049"
       ],
-      "Balance": 0.0,
+      "Balance": 40.0,
       "OpeningStock": 17.0,
-      "NetPurchases": 28.0,
+      "NetPurchases": 68.0,
       "TotalOut": 45.0,
       "SellPrice": 15750.0,
-      "Cost": 14000.0,
+      "Cost": 13500.0,
       "LastClient": "زيد ميديا-دورو -ئيفي دينار"
     },
     {
@@ -71966,12 +71970,12 @@
       "Barcodes": [
         "8683881001056"
       ],
-      "Balance": 0.0,
+      "Balance": 40.0,
       "OpeningStock": 12.0,
-      "NetPurchases": 22.0,
+      "NetPurchases": 62.0,
       "TotalOut": 34.0,
       "SellPrice": 15750.0,
-      "Cost": 14000.0,
+      "Cost": 13500.0,
       "LastClient": "زيد ميديا-دورو -ئيفي دينار"
     },
     {
@@ -72348,10 +72352,10 @@
         "6253803257285",
         "6253810410796"
       ],
-      "Balance": 105.0,
+      "Balance": 104.0,
       "OpeningStock": 16.0,
       "NetPurchases": 415.0,
-      "TotalOut": 326.0,
+      "TotalOut": 327.0,
       "SellPrice": 3000.0,
       "Cost": 2651.5151515151515,
       "LastClient": "كؤكاي بينايي-دينار"
@@ -73026,10 +73030,10 @@
         "8697405345540",
         "8697405345557"
       ],
-      "Balance": 29.0,
+      "Balance": 28.0,
       "OpeningStock": 17.0,
       "NetPurchases": 115.0,
-      "TotalOut": 103.0,
+      "TotalOut": 104.0,
       "SellPrice": 8500.0,
       "Cost": 7122.80701754386,
       "LastClient": "فرؤشكاي خاوين- برايةتي-ريبوار-دينار"
@@ -73233,10 +73237,10 @@
       "Barcodes": [
         "9551007522046"
       ],
-      "Balance": 44.0,
+      "Balance": 43.0,
       "OpeningStock": 11.0,
       "NetPurchases": 224.0,
-      "TotalOut": 191.0,
+      "TotalOut": 192.0,
       "SellPrice": 9750.0,
       "Cost": 9000.0,
       "LastClient": "كؤكاي فةرهاد-رؤن مومتاز"
@@ -73400,10 +73404,10 @@
       "Barcodes": [
         "6750225548033"
       ],
-      "Balance": 5.0,
+      "Balance": 4.0,
       "OpeningStock": 1.0,
       "NetPurchases": 66.0,
-      "TotalOut": 62.0,
+      "TotalOut": 63.0,
       "SellPrice": 7250.0,
       "Cost": 6500.0,
       "LastClient": "نبع الرحمة-عبدالرزاق صباح-دينار"
@@ -73964,10 +73968,10 @@
         "8697439309303",
         "8697439309334"
       ],
-      "Balance": 0.0,
+      "Balance": -1.0,
       "OpeningStock": 573.0,
       "NetPurchases": 960.0,
-      "TotalOut": 1533.0,
+      "TotalOut": 1534.0,
       "SellPrice": 250.0,
       "Cost": 215.27777777777777,
       "LastClient": "6-كوكاي محمد \\ بسكيت"
@@ -74054,10 +74058,10 @@
       "Barcodes": [
         "6262922907797"
       ],
-      "Balance": 10.0,
+      "Balance": 9.0,
       "OpeningStock": 15.0,
       "NetPurchases": 0.0,
-      "TotalOut": 5.0,
+      "TotalOut": 6.0,
       "SellPrice": 10000.0,
       "Cost": 7518.25,
       "LastClient": ""
@@ -74069,10 +74073,10 @@
       "Barcodes": [
         "6262922907803"
       ],
-      "Balance": 4.0,
+      "Balance": 2.0,
       "OpeningStock": 16.0,
       "NetPurchases": 0.0,
-      "TotalOut": 12.0,
+      "TotalOut": 14.0,
       "SellPrice": 8500.0,
       "Cost": 6470.625,
       "LastClient": ""
@@ -74279,10 +74283,10 @@
         "5998207928553",
         "5998207931379"
       ],
-      "Balance": 23.0,
+      "Balance": 22.0,
       "OpeningStock": 72.0,
       "NetPurchases": 72.0,
-      "TotalOut": 121.0,
+      "TotalOut": 122.0,
       "SellPrice": 2000.0,
       "Cost": 1562.5,
       "LastClient": "نبع الرحمة-عبدالرزاق صباح-دينار"
@@ -75110,9 +75114,9 @@
         "8690506403102",
         "8690506520342"
       ],
-      "Balance": 0.0,
+      "Balance": 80.0,
       "OpeningStock": 44.0,
-      "NetPurchases": 20.0,
+      "NetPurchases": 100.0,
       "TotalOut": 64.0,
       "SellPrice": 7500.0,
       "Cost": 6875.0,
@@ -75685,10 +75689,10 @@
       "Barcodes": [
         "6281007056731"
       ],
-      "Balance": 66.0,
+      "Balance": 65.0,
       "OpeningStock": 2.0,
       "NetPurchases": 66.0,
-      "TotalOut": 2.0,
+      "TotalOut": 3.0,
       "SellPrice": 33000.0,
       "Cost": 31622.0,
       "LastClient": "شركة بيلاد-دينار"
@@ -75910,9 +75914,9 @@
       "Barcodes": [
         "8683881000240"
       ],
-      "Balance": 8.0,
+      "Balance": 48.0,
       "OpeningStock": 20.0,
-      "NetPurchases": 12.0,
+      "NetPurchases": 52.0,
       "TotalOut": 24.0,
       "SellPrice": 7500.0,
       "Cost": 6875.0,
@@ -76138,10 +76142,10 @@
       "Barcodes": [
         "5901135000017"
       ],
-      "Balance": 71.0,
+      "Balance": 70.0,
       "OpeningStock": 17.0,
       "NetPurchases": 138.0,
-      "TotalOut": 84.0,
+      "TotalOut": 85.0,
       "SellPrice": 5500.0,
       "Cost": 4800.0,
       "LastClient": "كؤكاي مارينا-جلال كلارة-"
@@ -76304,10 +76308,10 @@
         "8683347092932",
         "8698995510370"
       ],
-      "Balance": 821.0,
+      "Balance": 818.0,
       "OpeningStock": 225.0,
       "NetPurchases": 1601.0,
-      "TotalOut": 1005.0,
+      "TotalOut": 1008.0,
       "SellPrice": 750.0,
       "Cost": 650.0,
       "LastClient": "كؤمبانياي نةورةس-دينار"
@@ -77110,10 +77114,10 @@
         "6260000568229",
         "6268280601193"
       ],
-      "Balance": 340.0,
+      "Balance": 338.0,
       "OpeningStock": 2.0,
       "NetPurchases": 2137.0,
-      "TotalOut": 1799.0,
+      "TotalOut": 1801.0,
       "SellPrice": 2750.0,
       "Cost": 2500.0,
       "LastClient": "نبع الرحمة-عبدالرزاق صباح-دينار"
@@ -77140,13 +77144,13 @@
       "Barcodes": [
         "8683881000103"
       ],
-      "Balance": 7.0,
+      "Balance": 27.0,
       "OpeningStock": 25.0,
-      "NetPurchases": 3.0,
+      "NetPurchases": 23.0,
       "TotalOut": 21.0,
       "SellPrice": 7500.0,
       "Cost": 6875.0,
-      "LastClient": ""
+      "LastClient": "زيد ميديا-دورو -ئيفي دينار"
     },
     {
       "Name": "راشي موصلي دةبل ساحل كةورة",
@@ -77388,10 +77392,10 @@
         "6269469200213",
         "6269469200879"
       ],
-      "Balance": 263.0,
+      "Balance": 261.0,
       "OpeningStock": 141.0,
       "NetPurchases": 840.0,
-      "TotalOut": 718.0,
+      "TotalOut": 720.0,
       "SellPrice": 1250.0,
       "Cost": 1083.3333333333333,
       "LastClient": "ساحل العراق / بكاه"
@@ -77903,10 +77907,10 @@
         "8692751228417",
         "8857660088792"
       ],
-      "Balance": 454.0,
+      "Balance": 453.0,
       "OpeningStock": 254.0,
       "NetPurchases": 1311.0,
-      "TotalOut": 1111.0,
+      "TotalOut": 1112.0,
       "SellPrice": 250.0,
       "Cost": 208.33333333333334,
       "LastClient": "فرؤشكاي يارا-بسكيت ئؤكراني"
@@ -79071,10 +79075,10 @@
         "4408943763550",
         "4408965627755"
       ],
-      "Balance": 124.0,
+      "Balance": 123.0,
       "OpeningStock": 237.0,
       "NetPurchases": 0.0,
-      "TotalOut": 113.0,
+      "TotalOut": 114.0,
       "SellPrice": 2000.0,
       "Cost": 1500.0,
       "LastClient": ""
@@ -79169,10 +79173,10 @@
         "8680860005913",
         "8680860005975"
       ],
-      "Balance": 27.0,
+      "Balance": 26.0,
       "OpeningStock": 39.0,
       "NetPurchases": 425.0,
-      "TotalOut": 437.0,
+      "TotalOut": 438.0,
       "SellPrice": 1500.0,
       "Cost": 1205.8823529411766,
       "LastClient": "4.كومبانياي سةفرة مانيزان"
@@ -79260,10 +79264,10 @@
       "Barcodes": [
         "6260002738712"
       ],
-      "Balance": 20.0,
+      "Balance": 19.0,
       "OpeningStock": 22.0,
       "NetPurchases": 163.0,
-      "TotalOut": 165.0,
+      "TotalOut": 166.0,
       "SellPrice": 6500.0,
       "Cost": 5600.0,
       "LastClient": "كومبانياي بيري-سليماني"
@@ -79601,10 +79605,10 @@
       "Barcodes": [
         "6260667302570"
       ],
-      "Balance": 28.0,
+      "Balance": 27.0,
       "OpeningStock": 5.0,
       "NetPurchases": 192.0,
-      "TotalOut": 169.0,
+      "TotalOut": 170.0,
       "SellPrice": 1500.0,
       "Cost": 1250.0,
       "LastClient": "نبع الرحمة-عبدالرزاق صباح-دينار"
@@ -79778,10 +79782,10 @@
         "8857123863515",
         "8857128523445"
       ],
-      "Balance": 87.0,
+      "Balance": 86.0,
       "OpeningStock": 131.0,
       "NetPurchases": 195.0,
-      "TotalOut": 239.0,
+      "TotalOut": 240.0,
       "SellPrice": 1000.0,
       "Cost": 727.27272727272725,
       "LastClient": "شركة الشاب الملكي"
@@ -80453,10 +80457,10 @@
       "Barcodes": [
         "6260002738729"
       ],
-      "Balance": 43.0,
+      "Balance": 42.0,
       "OpeningStock": 4.0,
       "NetPurchases": 258.0,
-      "TotalOut": 219.0,
+      "TotalOut": 220.0,
       "SellPrice": 3000.0,
       "Cost": 2650.0,
       "LastClient": "كومبانياي بيري-سليماني"
@@ -80732,10 +80736,10 @@
         "6265489758659",
         "752574233307"
       ],
-      "Balance": 64.0,
+      "Balance": 63.0,
       "OpeningStock": 35.0,
       "NetPurchases": 226.0,
-      "TotalOut": 197.0,
+      "TotalOut": 198.0,
       "SellPrice": 6000.0,
       "Cost": 5500.0,
       "LastClient": "2-كوكاي ئالين+هاوار كروب"
@@ -81063,10 +81067,10 @@
       "Barcodes": [
         "8682109047678"
       ],
-      "Balance": 120.0,
+      "Balance": 119.0,
       "OpeningStock": 38.0,
       "NetPurchases": 168.0,
-      "TotalOut": 86.0,
+      "TotalOut": 87.0,
       "SellPrice": 1500.0,
       "Cost": 1144.047619047619,
       "LastClient": "كؤمبانياي تافي"
@@ -81147,10 +81151,10 @@
         "6931149446227",
         "6944424480748"
       ],
-      "Balance": 2324.0,
+      "Balance": 2314.0,
       "OpeningStock": 547.0,
       "NetPurchases": 5481.0,
-      "TotalOut": 3704.0,
+      "TotalOut": 3714.0,
       "SellPrice": 750.0,
       "Cost": 587.5,
       "LastClient": "فروشكاي محمد و احمد-حاجي سمايل"
@@ -81364,10 +81368,10 @@
         "9555890911673",
         "9559520316586"
       ],
-      "Balance": 451.0,
+      "Balance": 450.0,
       "OpeningStock": 562.0,
       "NetPurchases": 204.0,
-      "TotalOut": 315.0,
+      "TotalOut": 316.0,
       "SellPrice": 4000.0,
       "Cost": 3000.0,
       "LastClient": "كؤكاي رؤيا بلاست"
@@ -82231,10 +82235,10 @@
       "Barcodes": [
         "6957488384181"
       ],
-      "Balance": 1.0,
+      "Balance": 0.0,
       "OpeningStock": 4.0,
       "NetPurchases": 0.0,
-      "TotalOut": 3.0,
+      "TotalOut": 4.0,
       "SellPrice": 2500.0,
       "Cost": 1750.0,
       "LastClient": ""
@@ -82465,10 +82469,10 @@
         "6253504118328",
         "6253504118427"
       ],
-      "Balance": 806.0,
+      "Balance": 805.0,
       "OpeningStock": 539.0,
       "NetPurchases": 696.0,
-      "TotalOut": 429.0,
+      "TotalOut": 430.0,
       "SellPrice": 2500.0,
       "Cost": 1916.6666666666667,
       "LastClient": "هةردي كروب-تؤري"
@@ -82664,10 +82668,10 @@
       "Barcodes": [
         "6337101677720"
       ],
-      "Balance": 3.0,
+      "Balance": 2.0,
       "OpeningStock": 10.0,
       "NetPurchases": 1.0,
-      "TotalOut": 8.0,
+      "TotalOut": 9.0,
       "SellPrice": 4750.0,
       "Cost": 4286.86,
       "LastClient": ""
@@ -82840,10 +82844,10 @@
         "8682835302171",
         "8682835302355"
       ],
-      "Balance": 124.0,
+      "Balance": 116.0,
       "OpeningStock": 103.0,
       "NetPurchases": 539.0,
-      "TotalOut": 518.0,
+      "TotalOut": 526.0,
       "SellPrice": 250.0,
       "Cost": 203.125,
       "LastClient": "6-كوكاي محمد \\ بسكيت"
@@ -83576,10 +83580,10 @@
       "Barcodes": [
         "8806147001779"
       ],
-      "Balance": 60.0,
+      "Balance": 59.0,
       "OpeningStock": 110.0,
       "NetPurchases": 150.0,
-      "TotalOut": 200.0,
+      "TotalOut": 201.0,
       "SellPrice": 4500.0,
       "Cost": 4000.0,
       "LastClient": "فرؤشكاي باريس-جلال كلارة"
@@ -83595,10 +83599,10 @@
         "8801260419609",
         "8801260419647"
       ],
-      "Balance": 228.0,
+      "Balance": 227.0,
       "OpeningStock": 91.0,
       "NetPurchases": 384.0,
-      "TotalOut": 247.0,
+      "TotalOut": 248.0,
       "SellPrice": 3250.0,
       "Cost": 2812.5,
       "LastClient": "فرؤشكاي باريس-جلال كلارة"
@@ -83631,10 +83635,10 @@
         "8690562007207",
         "8690562007214"
       ],
-      "Balance": 167.0,
+      "Balance": 166.0,
       "OpeningStock": 125.0,
       "NetPurchases": 432.0,
-      "TotalOut": 390.0,
+      "TotalOut": 391.0,
       "SellPrice": 250.0,
       "Cost": 197.91666666666666,
       "LastClient": "6-كوكاي محمد \\ بسكيت"
@@ -83710,10 +83714,10 @@
         "8992696526327",
         "8992696527577"
       ],
-      "Balance": 209.0,
+      "Balance": 207.0,
       "OpeningStock": 4.0,
       "NetPurchases": 288.0,
-      "TotalOut": 83.0,
+      "TotalOut": 85.0,
       "SellPrice": 1000.0,
       "Cost": 765.332375,
       "LastClient": "شركة برايان-نيدؤ -دينار"
@@ -84382,10 +84386,10 @@
         "0162820218920033",
         "6262189200495"
       ],
-      "Balance": 32.0,
+      "Balance": 31.0,
       "OpeningStock": 5.0,
       "NetPurchases": 626.0,
-      "TotalOut": 599.0,
+      "TotalOut": 600.0,
       "SellPrice": 250.0,
       "Cost": 177.08333333333334,
       "LastClient": "6-كوكاي محمد \\ بسكيت"
@@ -84952,10 +84956,10 @@
         "8683717471459",
         "8683717471473"
       ],
-      "Balance": 7.0,
+      "Balance": 5.0,
       "OpeningStock": 39.0,
       "NetPurchases": 0.0,
-      "TotalOut": 32.0,
+      "TotalOut": 34.0,
       "SellPrice": 1250.0,
       "Cost": 1035.714,
       "LastClient": ""
@@ -85833,10 +85837,10 @@
       "Barcodes": [
         "4165116516107"
       ],
-      "Balance": 787.0,
+      "Balance": 775.0,
       "OpeningStock": 1319.0,
       "NetPurchases": 0.0,
-      "TotalOut": 532.0,
+      "TotalOut": 544.0,
       "SellPrice": 1000.0,
       "Cost": 875.0,
       "LastClient": ""
@@ -86017,10 +86021,10 @@
         "7725650330026",
         "7725650330026"
       ],
-      "Balance": 99.0,
+      "Balance": 98.0,
       "OpeningStock": 33.0,
       "NetPurchases": 120.0,
-      "TotalOut": 54.0,
+      "TotalOut": 55.0,
       "SellPrice": 1000.0,
       "Cost": 700.0,
       "LastClient": "دابةشكاري مينا-كةلار"
@@ -86103,10 +86107,10 @@
         "5283003372144",
         "5283003381146"
       ],
-      "Balance": 20.0,
+      "Balance": 18.0,
       "OpeningStock": 62.0,
       "NetPurchases": 0.0,
-      "TotalOut": 42.0,
+      "TotalOut": 44.0,
       "SellPrice": 3500.0,
       "Cost": 2803.81,
       "LastClient": ""
@@ -86970,10 +86974,10 @@
         "6210013012011",
         "6210014012010"
       ],
-      "Balance": 80.0,
+      "Balance": 78.0,
       "OpeningStock": 120.0,
       "NetPurchases": 0.0,
-      "TotalOut": 40.0,
+      "TotalOut": 42.0,
       "SellPrice": 1750.0,
       "Cost": 1041.667,
       "LastClient": ""
@@ -87821,10 +87825,10 @@
       "Barcodes": [
         "9501101940659"
       ],
-      "Balance": 15.0,
+      "Balance": 13.0,
       "OpeningStock": 84.0,
       "NetPurchases": 163.0,
-      "TotalOut": 232.0,
+      "TotalOut": 234.0,
       "SellPrice": 2500.0,
       "Cost": 2166.6666666666665,
       "LastClient": "وةنةوشةي شار-شرين عسل"
@@ -87933,10 +87937,10 @@
         "6214960116495",
         "6214960117492"
       ],
-      "Balance": 750.0,
+      "Balance": 745.0,
       "OpeningStock": 305.0,
       "NetPurchases": 1152.0,
-      "TotalOut": 707.0,
+      "TotalOut": 712.0,
       "SellPrice": 250.0,
       "Cost": 218.75,
       "LastClient": "فرؤشكاي يارا-بسكيت ئؤكراني"
@@ -88042,10 +88046,10 @@
         "6260377705043",
         "6260377705043"
       ],
-      "Balance": 16.0,
+      "Balance": 15.0,
       "OpeningStock": 5.0,
       "NetPurchases": 104.0,
-      "TotalOut": 93.0,
+      "TotalOut": 94.0,
       "SellPrice": 1000.0,
       "Cost": 875.0,
       "LastClient": "ساحل العراق / بكاه"
@@ -89148,10 +89152,10 @@
         "6219990197667",
         "6219990198664"
       ],
-      "Balance": 171.0,
+      "Balance": 170.0,
       "OpeningStock": 4.0,
       "NetPurchases": 865.0,
-      "TotalOut": 698.0,
+      "TotalOut": 699.0,
       "SellPrice": 250.0,
       "Cost": 218.75,
       "LastClient": "6-كوكاي محمد \\ بسكيت"
@@ -89284,10 +89288,10 @@
         "14446244100",
         "898974"
       ],
-      "Balance": 22.0,
+      "Balance": 21.0,
       "OpeningStock": 13.0,
       "NetPurchases": 61.0,
-      "TotalOut": 52.0,
+      "TotalOut": 53.0,
       "SellPrice": 9000.0,
       "Cost": 8000.0,
       "LastClient": "عبد-شار"
@@ -89595,10 +89599,10 @@
       "Barcodes": [
         "09875432"
       ],
-      "Balance": 9.0,
+      "Balance": 8.0,
       "OpeningStock": 7.0,
       "NetPurchases": 114.0,
-      "TotalOut": 112.0,
+      "TotalOut": 113.0,
       "SellPrice": 3750.0,
       "Cost": 3333.3333333333335,
       "LastClient": "3.ابراهيم بةراد"
@@ -90274,10 +90278,10 @@
         "8681323008809",
         "8681323008816"
       ],
-      "Balance": 54.0,
+      "Balance": 53.0,
       "OpeningStock": 39.0,
       "NetPurchases": 110.0,
-      "TotalOut": 95.0,
+      "TotalOut": 96.0,
       "SellPrice": 2000.0,
       "Cost": 1666.6666666666667,
       "LastClient": "كؤكاي رؤز-رؤيال و ليكزي"
@@ -90539,10 +90543,10 @@
       "Barcodes": [
         "6253350504887"
       ],
-      "Balance": 128.0,
+      "Balance": 126.0,
       "OpeningStock": 76.0,
       "NetPurchases": 314.0,
-      "TotalOut": 262.0,
+      "TotalOut": 264.0,
       "SellPrice": 1000.0,
       "Cost": 875.0,
       "LastClient": "شركة الجيد- KBB-شياو"
@@ -90672,10 +90676,10 @@
         "8693625582123",
         "8693625582130"
       ],
-      "Balance": 1717.0,
+      "Balance": 1660.0,
       "OpeningStock": 821.0,
       "NetPurchases": 13380.0,
-      "TotalOut": 12484.0,
+      "TotalOut": 12541.0,
       "SellPrice": 250.0,
       "Cost": 208.33333333333334,
       "LastClient": "كاروان-باب اغا"
@@ -90737,10 +90741,10 @@
       "Barcodes": [
         "8699969233301"
       ],
-      "Balance": 51.0,
+      "Balance": 50.0,
       "OpeningStock": 1.0,
       "NetPurchases": 84.0,
-      "TotalOut": 34.0,
+      "TotalOut": 35.0,
       "SellPrice": 3000.0,
       "Cost": 2750.0,
       "LastClient": "2-كوكاي ئالين+هاوار كروب"
@@ -92885,10 +92889,10 @@
         "8698753387183",
         "8698753387190"
       ],
-      "Balance": 259.0,
+      "Balance": 258.0,
       "OpeningStock": 330.0,
       "NetPurchases": 128.0,
-      "TotalOut": 199.0,
+      "TotalOut": 200.0,
       "SellPrice": 3000.0,
       "Cost": 2500.0,
       "LastClient": "فروشكاي برايان - هؤشيار"
@@ -94512,10 +94516,10 @@
       "Barcodes": [
         "8685535155313"
       ],
-      "Balance": 790.0,
+      "Balance": 789.0,
       "OpeningStock": 4.0,
       "NetPurchases": 1041.0,
-      "TotalOut": 255.0,
+      "TotalOut": 256.0,
       "SellPrice": 1000.0,
       "Cost": 793.26923076923072,
       "LastClient": "2-كوكاي ئالين+هاوار كروب"
@@ -94528,10 +94532,10 @@
         "8699969232991",
         "8699969233011"
       ],
-      "Balance": 476.0,
+      "Balance": 446.0,
       "OpeningStock": 295.0,
       "NetPurchases": 480.0,
-      "TotalOut": 299.0,
+      "TotalOut": 329.0,
       "SellPrice": 125.0,
       "Cost": 75.0,
       "LastClient": "2-كوكاي ئالين+هاوار كروب"
@@ -94596,10 +94600,10 @@
         "8682241212613",
         "8682241217694"
       ],
-      "Balance": 58.0,
+      "Balance": 57.0,
       "OpeningStock": 62.0,
       "NetPurchases": 211.0,
-      "TotalOut": 215.0,
+      "TotalOut": 216.0,
       "SellPrice": 5000.0,
       "Cost": 4500.0,
       "LastClient": "شركة الامين-كؤلدستار"
@@ -95225,10 +95229,10 @@
         "6260128709047",
         "6260128709054"
       ],
-      "Balance": 52.0,
+      "Balance": 51.0,
       "OpeningStock": 45.0,
       "NetPurchases": 168.0,
-      "TotalOut": 161.0,
+      "TotalOut": 162.0,
       "SellPrice": 1000.0,
       "Cost": 875.0,
       "LastClient": "6-كوكاي محمد \\ بسكيت"
@@ -95601,9 +95605,9 @@
       "Barcodes": [
         "2000040"
       ],
-      "Balance": 307.9655,
+      "Balance": 313.9655,
       "OpeningStock": 374.662,
-      "NetPurchases": 262.2905,
+      "NetPurchases": 268.2905,
       "TotalOut": 328.98700000000014,
       "SellPrice": 5000.0,
       "Cost": 4000.0,
@@ -95616,9 +95620,9 @@
       "Barcodes": [
         "2000044"
       ],
-      "Balance": 14.0,
+      "Balance": 15.0,
       "OpeningStock": 5.0,
-      "NetPurchases": 34.0,
+      "NetPurchases": 35.0,
       "TotalOut": 25.0,
       "SellPrice": 40000.0,
       "Cost": 25000.0,
@@ -96095,10 +96099,10 @@
         "6291003020483",
         "6291003021213"
       ],
-      "Balance": 22.0,
+      "Balance": 21.0,
       "OpeningStock": 11.0,
       "NetPurchases": 31.0,
-      "TotalOut": 20.0,
+      "TotalOut": 21.0,
       "SellPrice": 3750.0,
       "Cost": 3400.0,
       "LastClient": "كؤمبانياي بيري-جكليت و نةستةلة"
@@ -96561,10 +96565,10 @@
         "8698753383376",
         "8698753383383"
       ],
-      "Balance": 102.0,
+      "Balance": 100.0,
       "OpeningStock": 164.0,
       "NetPurchases": 61.0,
-      "TotalOut": 123.0,
+      "TotalOut": 125.0,
       "SellPrice": 4000.0,
       "Cost": 3500.0,
       "LastClient": "فروشكاي برايان - هؤشيار"
@@ -96624,10 +96628,10 @@
       "Barcodes": [
         "6294018807377"
       ],
-      "Balance": 391.0,
+      "Balance": 389.0,
       "OpeningStock": 331.0,
       "NetPurchases": 602.0,
-      "TotalOut": 542.0,
+      "TotalOut": 544.0,
       "SellPrice": 1000.0,
       "Cost": 800.0,
       "LastClient": "كؤكاي مارينا-بيرؤز"
@@ -96915,10 +96919,10 @@
       "Barcodes": [
         "6291003092497"
       ],
-      "Balance": 234.0,
+      "Balance": 233.0,
       "OpeningStock": 6.0,
       "NetPurchases": 578.0,
-      "TotalOut": 350.0,
+      "TotalOut": 351.0,
       "SellPrice": 250.0,
       "Cost": 229.16666666666666,
       "LastClient": "كؤمبانياي بيري-جكليت و نةستةلة"
@@ -97166,9 +97170,9 @@
         "8681301043365",
         "8681301043457"
       ],
-      "Balance": 71.0,
+      "Balance": 143.0,
       "OpeningStock": 90.0,
-      "NetPurchases": 85.0,
+      "NetPurchases": 157.0,
       "TotalOut": 104.0,
       "SellPrice": 4500.0,
       "Cost": 4000.0,
@@ -97380,10 +97384,10 @@
       "Barcodes": [
         "6262922907544"
       ],
-      "Balance": 1.0,
+      "Balance": 0.0,
       "OpeningStock": 2.0,
       "NetPurchases": 0.0,
-      "TotalOut": 1.0,
+      "TotalOut": 2.0,
       "SellPrice": 16000.0,
       "Cost": 12750.0,
       "LastClient": ""
@@ -97651,10 +97655,10 @@
       "Barcodes": [
         "194819841"
       ],
-      "Balance": 5.0,
+      "Balance": 2.0,
       "OpeningStock": 4.0,
       "NetPurchases": 102.0,
-      "TotalOut": 101.0,
+      "TotalOut": 104.0,
       "SellPrice": 1250.0,
       "Cost": 1050.0,
       "LastClient": "كاروان-باب اغا"
@@ -100341,10 +100345,10 @@
       "Barcodes": [
         "8696368166148"
       ],
-      "Balance": 15.0,
+      "Balance": 14.0,
       "OpeningStock": 53.0,
       "NetPurchases": 158.0,
-      "TotalOut": 196.0,
+      "TotalOut": 197.0,
       "SellPrice": 1750.0,
       "Cost": 1500.0,
       "LastClient": "كؤمبانياي البة-ميرسين دينار-حسين"
@@ -101479,12 +101483,12 @@
       "Barcodes": [
         "10010"
       ],
-      "Balance": 11.0,
+      "Balance": 23.0,
       "OpeningStock": 10.0,
-      "NetPurchases": 9.0,
+      "NetPurchases": 21.0,
       "TotalOut": 8.0,
-      "SellPrice": 40000.0,
-      "Cost": 35000.0,
+      "SellPrice": 42000.0,
+      "Cost": 38000.0,
       "LastClient": "بيشانكاي هيلين-سليماني"
     },
     {
@@ -101633,10 +101637,10 @@
       "Barcodes": [
         "6262922906561"
       ],
-      "Balance": 5.0,
+      "Balance": 4.0,
       "OpeningStock": 6.0,
       "NetPurchases": 0.0,
-      "TotalOut": 1.0,
+      "TotalOut": 2.0,
       "SellPrice": 7500.0,
       "Cost": 5854.37,
       "LastClient": ""
@@ -102204,10 +102208,10 @@
       "Barcodes": [
         "6262479700001"
       ],
-      "Balance": 13.0,
+      "Balance": 12.0,
       "OpeningStock": 35.0,
       "NetPurchases": 49.0,
-      "TotalOut": 71.0,
+      "TotalOut": 72.0,
       "SellPrice": 1250.0,
       "Cost": 958.33333333333337,
       "LastClient": "كؤكايي حاجي ريزوان "
@@ -102228,10 +102232,10 @@
         "8695280339746",
         "8695280834258"
       ],
-      "Balance": 270.0,
+      "Balance": 269.0,
       "OpeningStock": 761.0,
       "NetPurchases": 507.0,
-      "TotalOut": 998.0,
+      "TotalOut": 999.0,
       "SellPrice": 500.0,
       "Cost": 401.04166666666669,
       "LastClient": "كاروانجي / تازج"
@@ -102670,10 +102674,10 @@
         "3258016564949",
         "3258016564956"
       ],
-      "Balance": 8.0,
+      "Balance": 7.0,
       "OpeningStock": 10.0,
       "NetPurchases": 85.0,
-      "TotalOut": 87.0,
+      "TotalOut": 88.0,
       "SellPrice": 5000.0,
       "Cost": 4404.7619047619046,
       "LastClient": "كومبانياي ئاسيا -ئايلوكس"
@@ -103074,10 +103078,10 @@
       "Barcodes": [
         "6269319400565"
       ],
-      "Balance": 182.0,
+      "Balance": 180.0,
       "OpeningStock": 217.0,
       "NetPurchases": 601.0,
-      "TotalOut": 636.0,
+      "TotalOut": 638.0,
       "SellPrice": 1000.0,
       "Cost": 725.0,
       "LastClient": "دابةشكاري لةزةتي-سانتيفان"
@@ -103616,10 +103620,10 @@
         "8683347093748",
         "8755455254523"
       ],
-      "Balance": 397.0,
+      "Balance": 396.0,
       "OpeningStock": 179.0,
       "NetPurchases": 830.0,
-      "TotalOut": 612.0,
+      "TotalOut": 613.0,
       "SellPrice": 750.0,
       "Cost": 600.0,
       "LastClient": "كؤمبانياي نةورةس-دينار"
@@ -104580,10 +104584,10 @@
         "6253504118465",
         "6253504118472"
       ],
-      "Balance": 178.0,
+      "Balance": 176.0,
       "OpeningStock": 7.0,
       "NetPurchases": 240.0,
-      "TotalOut": 69.0,
+      "TotalOut": 71.0,
       "SellPrice": 2250.0,
       "Cost": 2000.0,
       "LastClient": "لاوزةند كروب-تؤري"
@@ -105494,10 +105498,10 @@
       "Barcodes": [
         "8690133010537"
       ],
-      "Balance": 10.0,
+      "Balance": 9.0,
       "OpeningStock": 16.0,
       "NetPurchases": 0.0,
-      "TotalOut": 6.0,
+      "TotalOut": 7.0,
       "SellPrice": 5000.0,
       "Cost": 4422.533,
       "LastClient": ""
@@ -105635,10 +105639,10 @@
         "42247340",
         "50173686"
       ],
-      "Balance": 8.0,
+      "Balance": 7.0,
       "OpeningStock": 50.0,
       "NetPurchases": 0.0,
-      "TotalOut": 42.0,
+      "TotalOut": 43.0,
       "SellPrice": 750.0,
       "Cost": 585.286,
       "LastClient": ""
@@ -106119,10 +106123,10 @@
       "Barcodes": [
         "6260003009262"
       ],
-      "Balance": 45.0,
+      "Balance": 43.0,
       "OpeningStock": 63.0,
       "NetPurchases": 180.0,
-      "TotalOut": 198.0,
+      "TotalOut": 200.0,
       "SellPrice": 1250.0,
       "Cost": 916.66666666666663,
       "LastClient": "هةردي كروب-تؤري"
@@ -106746,10 +106750,10 @@
         "8680805283598",
         "8680805283598"
       ],
-      "Balance": 28.0,
+      "Balance": 27.0,
       "OpeningStock": 90.0,
       "NetPurchases": 72.0,
-      "TotalOut": 134.0,
+      "TotalOut": 135.0,
       "SellPrice": 1250.0,
       "Cost": 1000.0,
       "LastClient": "ساحل العراق / بكاه"
@@ -107173,10 +107177,10 @@
       "Barcodes": [
         "8683347097088"
       ],
-      "Balance": 58.0,
+      "Balance": 57.0,
       "OpeningStock": 45.0,
       "NetPurchases": 180.0,
-      "TotalOut": 167.0,
+      "TotalOut": 168.0,
       "SellPrice": 1000.0,
       "Cost": 770.83333333333337,
       "LastClient": "كؤمبانياي نةورةس-دينار"
@@ -108793,10 +108797,10 @@
         "لمةلام152",
         "لمةلام152"
       ],
-      "Balance": 394.0,
+      "Balance": 393.0,
       "OpeningStock": 435.0,
       "NetPurchases": 200.0,
-      "TotalOut": 241.0,
+      "TotalOut": 242.0,
       "SellPrice": 5000.0,
       "Cost": 3300.0,
       "LastClient": "كؤكاي رؤيا بلاست"
@@ -109948,10 +109952,10 @@
         "8697924596645",
         "8697924596652"
       ],
-      "Balance": 252.0,
+      "Balance": 245.0,
       "OpeningStock": 180.0,
       "NetPurchases": 629.0,
-      "TotalOut": 557.0,
+      "TotalOut": 564.0,
       "SellPrice": 5500.0,
       "Cost": 5200.0,
       "LastClient": "كؤكاي باران-كؤكاي ئاراز"
@@ -110745,10 +110749,10 @@
       "Barcodes": [
         "619185647582"
       ],
-      "Balance": 231.0,
+      "Balance": 229.0,
       "OpeningStock": 248.0,
       "NetPurchases": 450.0,
-      "TotalOut": 467.0,
+      "TotalOut": 469.0,
       "SellPrice": 750.0,
       "Cost": 565.0,
       "LastClient": "دابةشكاري زيرين-سليماني"
@@ -111305,10 +111309,10 @@
       "Barcodes": [
         "6210000300725"
       ],
-      "Balance": 194.0,
+      "Balance": 193.0,
       "OpeningStock": 355.0,
       "NetPurchases": 0.0,
-      "TotalOut": 161.0,
+      "TotalOut": 162.0,
       "SellPrice": 1500.0,
       "Cost": 916.66700000000014,
       "LastClient": ""
@@ -112461,10 +112465,10 @@
       "Barcodes": [
         "8680848173245"
       ],
-      "Balance": 21.0,
+      "Balance": 20.0,
       "OpeningStock": 22.0,
       "NetPurchases": 48.0,
-      "TotalOut": 49.0,
+      "TotalOut": 50.0,
       "SellPrice": 1250.0,
       "Cost": 958.33333333333337,
       "LastClient": "كؤكاي جيهان-محمد بيرؤز"
@@ -114292,10 +114296,10 @@
         "8683704370529",
         "8697411510574"
       ],
-      "Balance": 305.0,
+      "Balance": 304.0,
       "OpeningStock": 114.0,
       "NetPurchases": 858.0,
-      "TotalOut": 667.0,
+      "TotalOut": 668.0,
       "SellPrice": 250.0,
       "Cost": 183.56643356643357,
       "LastClient": "شركة البركة-هةولير"
@@ -115532,10 +115536,10 @@
       "Barcodes": [
         "745314463270"
       ],
-      "Balance": 92.0,
+      "Balance": 91.0,
       "OpeningStock": 61.0,
       "NetPurchases": 250.0,
-      "TotalOut": 219.0,
+      "TotalOut": 220.0,
       "SellPrice": 10500.0,
       "Cost": 9750.0,
       "LastClient": "كؤكاي مارينا-جلال كلارة-"
@@ -115729,10 +115733,10 @@
         "6261946100399",
         "6261946100399"
       ],
-      "Balance": 29.0,
+      "Balance": 27.0,
       "OpeningStock": 8.0,
       "NetPurchases": 132.0,
-      "TotalOut": 111.0,
+      "TotalOut": 113.0,
       "SellPrice": 1500.0,
       "Cost": 1333.3333333333333,
       "LastClient": "3.ابراهيم بةراد"
@@ -115805,10 +115809,10 @@
         "8996001330722",
         "8996001330739"
       ],
-      "Balance": 13.0,
+      "Balance": 7.0,
       "OpeningStock": 24.0,
       "NetPurchases": 41.0,
-      "TotalOut": 52.0,
+      "TotalOut": 58.0,
       "SellPrice": 1000.0,
       "Cost": 750.0,
       "LastClient": "فرؤشكاي عبدالله-كةلار-عثمان"
@@ -116297,10 +116301,10 @@
         "637962524383",
         "750122826315"
       ],
-      "Balance": 384.0,
+      "Balance": 382.0,
       "OpeningStock": 254.0,
       "NetPurchases": 769.0,
-      "TotalOut": 639.0,
+      "TotalOut": 641.0,
       "SellPrice": 500.0,
       "Cost": 371.09375,
       "LastClient": "شركة الشاب الملكي"
@@ -116408,10 +116412,10 @@
       "Barcodes": [
         "416135135"
       ],
-      "Balance": 21.0,
+      "Balance": 20.0,
       "OpeningStock": 12.0,
       "NetPurchases": 144.0,
-      "TotalOut": 135.0,
+      "TotalOut": 136.0,
       "SellPrice": 3250.0,
       "Cost": 2750.0,
       "LastClient": "دابةشكاري مةليك-محمد شيخ رةزا"
@@ -117058,10 +117062,10 @@
         "4932475688455",
         "5932197684440"
       ],
-      "Balance": 4.0,
+      "Balance": 3.0,
       "OpeningStock": 15.0,
       "NetPurchases": 25.0,
-      "TotalOut": 36.0,
+      "TotalOut": 37.0,
       "SellPrice": 3000.0,
       "Cost": 2416.6666666666665,
       "LastClient": "كؤكايي حاجي ريزوان "
@@ -117408,10 +117412,10 @@
         "5658565976565",
         "818518412000"
       ],
-      "Balance": 171.0,
+      "Balance": 170.0,
       "OpeningStock": 486.0,
       "NetPurchases": 330.0,
-      "TotalOut": 645.0,
+      "TotalOut": 646.0,
       "SellPrice": 2250.0,
       "Cost": 1833.3333333333333,
       "LastClient": "كةنجينةي نيكا-مواد سةفةري "
@@ -117560,10 +117564,10 @@
       "Barcodes": [
         "6269169300046"
       ],
-      "Balance": 1.0,
+      "Balance": 0.0,
       "OpeningStock": 19.0,
       "NetPurchases": 55.0,
-      "TotalOut": 73.0,
+      "TotalOut": 74.0,
       "SellPrice": 13000.0,
       "Cost": 11600.0,
       "LastClient": "4.كومبانياي سةفرة مانيزان"
@@ -117673,10 +117677,10 @@
         "623594280257",
         "623594280257"
       ],
-      "Balance": 460.0,
+      "Balance": 459.0,
       "OpeningStock": 17.0,
       "NetPurchases": 600.0,
-      "TotalOut": 157.0,
+      "TotalOut": 158.0,
       "SellPrice": 2500.0,
       "Cost": 1958.3333333333333,
       "LastClient": "فرؤشكاي رةوةز-دينار عباس"
@@ -117945,10 +117949,10 @@
       "Barcodes": [
         "456824758"
       ],
-      "Balance": 0.0,
+      "Balance": -1.0,
       "OpeningStock": 31.0,
       "NetPurchases": 60.0,
-      "TotalOut": 91.0,
+      "TotalOut": 92.0,
       "SellPrice": 1000.0,
       "Cost": 708.33333333333337,
       "LastClient": "دابةشكاري مةليك-محمد شيخ رةزا"
@@ -118118,10 +118122,10 @@
         "8683318902437",
         "8683318902444"
       ],
-      "Balance": 46.0,
+      "Balance": 45.0,
       "OpeningStock": 22.0,
       "NetPurchases": 64.0,
-      "TotalOut": 40.0,
+      "TotalOut": 41.0,
       "SellPrice": 2500.0,
       "Cost": 2000.0,
       "LastClient": "كؤكاي باران-كؤكاي ئاراز"
@@ -118540,10 +118544,10 @@
       "Barcodes": [
         "4820227510788"
       ],
-      "Balance": 37.0,
+      "Balance": 36.0,
       "OpeningStock": 22.0,
       "NetPurchases": 121.0,
-      "TotalOut": 106.0,
+      "TotalOut": 107.0,
       "SellPrice": 500.0,
       "Cost": 375.0,
       "LastClient": "ساحل العراق / بكاه"
@@ -118769,10 +118773,10 @@
       "Barcodes": [
         "8698996006346"
       ],
-      "Balance": 78.0,
+      "Balance": 77.0,
       "OpeningStock": 38.0,
       "NetPurchases": 216.0,
-      "TotalOut": 176.0,
+      "TotalOut": 177.0,
       "SellPrice": 1750.0,
       "Cost": 1256.0874999999999,
       "LastClient": "شركة قلب الملوك-رةوا"
@@ -121384,10 +121388,10 @@
       "Barcodes": [
         "40144078"
       ],
-      "Balance": 4.0,
+      "Balance": 3.0,
       "OpeningStock": 25.0,
       "NetPurchases": 0.0,
-      "TotalOut": 21.0,
+      "TotalOut": 22.0,
       "SellPrice": 1250.0,
       "Cost": 1002.24,
       "LastClient": ""
@@ -121858,10 +121862,10 @@
         "6262004050",
         "99953"
       ],
-      "Balance": 52.0,
+      "Balance": 51.0,
       "OpeningStock": 0.0,
       "NetPurchases": 346.0,
-      "TotalOut": 294.0,
+      "TotalOut": 295.0,
       "SellPrice": 1000.0,
       "Cost": 784.31372549019613,
       "LastClient": "هةنجير بغداد-وتساب"
@@ -121948,10 +121952,10 @@
       "Barcodes": [
         "6268836"
       ],
-      "Balance": 196.0,
+      "Balance": 195.0,
       "OpeningStock": 0.0,
       "NetPurchases": 833.0,
-      "TotalOut": 637.0,
+      "TotalOut": 638.0,
       "SellPrice": 2000.0,
       "Cost": 1500.0,
       "LastClient": "كؤكاي هيليا-هاوكار"
@@ -122282,10 +122286,10 @@
       "Barcodes": [
         "6200789456126"
       ],
-      "Balance": 6.0,
+      "Balance": 5.0,
       "OpeningStock": 0.0,
       "NetPurchases": 90.0,
-      "TotalOut": 84.0,
+      "TotalOut": 85.0,
       "SellPrice": 5250.0,
       "Cost": 4583.333333333333,
       "LastClient": "نبع الرحمة-عبدالرزاق صباح-دينار"
@@ -122327,10 +122331,10 @@
       "Barcodes": [
         "6774435300335"
       ],
-      "Balance": 7.0,
+      "Balance": 6.0,
       "OpeningStock": 0.0,
       "NetPurchases": 81.0,
-      "TotalOut": 74.0,
+      "TotalOut": 75.0,
       "SellPrice": 2500.0,
       "Cost": 1859.375,
       "LastClient": "نبع الرحمة-عبدالرزاق صباح-دينار"
@@ -122475,10 +122479,10 @@
       "Barcodes": [
         "8683420544938"
       ],
-      "Balance": 15.0,
+      "Balance": 14.0,
       "OpeningStock": 0.0,
       "NetPurchases": 72.0,
-      "TotalOut": 57.0,
+      "TotalOut": 58.0,
       "SellPrice": 1750.0,
       "Cost": 1500.0,
       "LastClient": "زانياركريم-طباخ"
@@ -122565,10 +122569,10 @@
         "4820258641550",
         "4820258641574"
       ],
-      "Balance": 51.0,
+      "Balance": 50.0,
       "OpeningStock": 0.0,
       "NetPurchases": 156.0,
-      "TotalOut": 105.0,
+      "TotalOut": 106.0,
       "SellPrice": 2000.0,
       "Cost": 1833.3333333333333,
       "LastClient": "فرؤشكاي يارا-بسكيت ئؤكراني"
@@ -122765,10 +122769,10 @@
       "Barcodes": [
         "8682109802284"
       ],
-      "Balance": 139.0,
+      "Balance": 138.0,
       "OpeningStock": 0.0,
       "NetPurchases": 289.0,
-      "TotalOut": 150.0,
+      "TotalOut": 151.0,
       "SellPrice": 250.0,
       "Cost": 218.75,
       "LastClient": "فرؤشكاي يارا-بسكيت ئؤكراني"
@@ -123295,10 +123299,10 @@
       "Barcodes": [
         "6269169300022"
       ],
-      "Balance": 38.0,
+      "Balance": 37.0,
       "OpeningStock": 0.0,
       "NetPurchases": 281.0,
-      "TotalOut": 243.0,
+      "TotalOut": 244.0,
       "SellPrice": 1500.0,
       "Cost": 1214.2857142857142,
       "LastClient": "4.كومبانياي سةفرة مانيزان"
@@ -123477,10 +123481,10 @@
       "Barcodes": [
         "8697288517706"
       ],
-      "Balance": 55.0,
+      "Balance": 52.0,
       "OpeningStock": 0.0,
       "NetPurchases": 456.0,
-      "TotalOut": 401.0,
+      "TotalOut": 404.0,
       "SellPrice": 250.0,
       "Cost": 218.75,
       "LastClient": "6-كوكاي محمد \\ بسكيت"
@@ -123687,10 +123691,10 @@
         "8680918243045",
         "8680918243076"
       ],
-      "Balance": 19.0,
+      "Balance": 18.0,
       "OpeningStock": 0.0,
       "NetPurchases": 96.0,
-      "TotalOut": 77.0,
+      "TotalOut": 78.0,
       "SellPrice": 1250.0,
       "Cost": 1000.0,
       "LastClient": "كؤمبانياي بيري-جكليت و نةستةلة"
@@ -123732,10 +123736,10 @@
       "Barcodes": [
         "6260176834661"
       ],
-      "Balance": 4.0,
+      "Balance": 3.0,
       "OpeningStock": 0.0,
       "NetPurchases": 36.0,
-      "TotalOut": 32.0,
+      "TotalOut": 33.0,
       "SellPrice": 1000.0,
       "Cost": 833.33333333333337,
       "LastClient": "كومبانياي بيري-سليماني"
@@ -123913,10 +123917,10 @@
       "Barcodes": [
         "8680417213600"
       ],
-      "Balance": 77.0,
+      "Balance": 75.0,
       "OpeningStock": 0.0,
       "NetPurchases": 650.0,
-      "TotalOut": 573.0,
+      "TotalOut": 575.0,
       "SellPrice": 1000.0,
       "Cost": 884.5,
       "LastClient": "كؤمبانياي تيشنة-ئالتونسا نوي"
@@ -123928,10 +123932,10 @@
       "Barcodes": [
         "8697404263791"
       ],
-      "Balance": 139.0,
+      "Balance": 138.0,
       "OpeningStock": 0.0,
       "NetPurchases": 192.0,
-      "TotalOut": 53.0,
+      "TotalOut": 54.0,
       "SellPrice": 1500.0,
       "Cost": 1125.0,
       "LastClient": "ساحل العراق / بكاه"
@@ -124172,10 +124176,10 @@
       "Barcodes": [
         "8690566507680"
       ],
-      "Balance": 442.0,
+      "Balance": 441.0,
       "OpeningStock": 0.0,
       "NetPurchases": 750.0,
-      "TotalOut": 308.0,
+      "TotalOut": 309.0,
       "SellPrice": 750.0,
       "Cost": 533.33333333333337,
       "LastClient": "كؤمبانياي كولبةهار -دينار-الاحمد"
@@ -124454,10 +124458,10 @@
         "6253339109539",
         "6253339109546"
       ],
-      "Balance": 184.0,
+      "Balance": 182.0,
       "OpeningStock": 0.0,
       "NetPurchases": 300.0,
-      "TotalOut": 116.0,
+      "TotalOut": 118.0,
       "SellPrice": 2000.0,
       "Cost": 1583.3333333333333,
       "LastClient": "الودقشركة الودق الذهبي-لؤيال بغداد"
@@ -125616,10 +125620,10 @@
       "Barcodes": [
         "8682109048019"
       ],
-      "Balance": 141.0,
+      "Balance": 140.0,
       "OpeningStock": 0.0,
       "NetPurchases": 168.0,
-      "TotalOut": 27.0,
+      "TotalOut": 28.0,
       "SellPrice": 1500.0,
       "Cost": 1249.702380952381,
       "LastClient": "كؤمبانياي تافي"
@@ -125973,10 +125977,10 @@
       "Barcodes": [
         "8698995515146"
       ],
-      "Balance": 25.0,
+      "Balance": 24.0,
       "OpeningStock": 0.0,
       "NetPurchases": 270.0,
-      "TotalOut": 245.0,
+      "TotalOut": 246.0,
       "SellPrice": 1500.0,
       "Cost": 1250.0,
       "LastClient": "كؤمبانياي نةورةس-دينار"
@@ -126562,10 +126566,10 @@
       "Barcodes": [
         "8410376000726"
       ],
-      "Balance": 103.0,
+      "Balance": 102.0,
       "OpeningStock": 0.0,
       "NetPurchases": 180.0,
-      "TotalOut": 77.0,
+      "TotalOut": 78.0,
       "SellPrice": 4000.0,
       "Cost": 3583.3333333333335,
       "LastClient": "زانياركريم -كؤكاي موبين-"
@@ -127325,10 +127329,10 @@
       "Barcodes": [
         "8697409091634"
       ],
-      "Balance": 94.0,
+      "Balance": 93.0,
       "OpeningStock": 0.0,
       "NetPurchases": 303.0,
-      "TotalOut": 209.0,
+      "TotalOut": 210.0,
       "SellPrice": 4500.0,
       "Cost": 3875.0,
       "LastClient": "كؤمبانيي كةي بيتي KBT-دينار"
@@ -127854,10 +127858,10 @@
       "Barcodes": [
         "6260100604254"
       ],
-      "Balance": -9.0,
+      "Balance": -11.0,
       "OpeningStock": 0.0,
       "NetPurchases": 120.0,
-      "TotalOut": 129.0,
+      "TotalOut": 131.0,
       "SellPrice": 500.0,
       "Cost": 437.5,
       "LastClient": "كومبانياي حسن باقي- سن ايج"
@@ -128563,10 +128567,10 @@
       "Barcodes": [
         "2953"
       ],
-      "Balance": 28.0,
+      "Balance": 27.0,
       "OpeningStock": 0.0,
       "NetPurchases": 37.0,
-      "TotalOut": 9.0,
+      "TotalOut": 10.0,
       "SellPrice": 3500.0,
       "Cost": 2250.0,
       "LastClient": "كةنجينةى بةهمةن-ناومالة"
@@ -129171,10 +129175,10 @@
         "6260191502767",
         "6260191502767"
       ],
-      "Balance": 388.0,
+      "Balance": 374.0,
       "OpeningStock": 0.0,
       "NetPurchases": 576.0,
-      "TotalOut": 188.0,
+      "TotalOut": 202.0,
       "SellPrice": 125.0,
       "Cost": 65.972222222222229,
       "LastClient": "محل هونةر-باناسياو"
@@ -129607,10 +129611,10 @@
         "8852545585519",
         "8852545585571"
       ],
-      "Balance": 24.0,
+      "Balance": 23.0,
       "OpeningStock": 0.0,
       "NetPurchases": 187.0,
-      "TotalOut": 163.0,
+      "TotalOut": 164.0,
       "SellPrice": 6000.0,
       "Cost": 5483.8709677419356,
       "LastClient": "فرؤشكاي ياد-محمد"
@@ -129922,10 +129926,10 @@
       "Barcodes": [
         "6260159502921"
       ],
-      "Balance": 5.0,
+      "Balance": 4.0,
       "OpeningStock": 0.0,
       "NetPurchases": 12.0,
-      "TotalOut": 7.0,
+      "TotalOut": 8.0,
       "SellPrice": 8000.0,
       "Cost": 6205.0,
       "LastClient": "ليمؤن-ناومالة-سليماني"
@@ -130103,10 +130107,10 @@
       "Barcodes": [
         "6262922907407"
       ],
-      "Balance": 5.0,
+      "Balance": 4.0,
       "OpeningStock": 0.0,
       "NetPurchases": 24.0,
-      "TotalOut": 19.0,
+      "TotalOut": 20.0,
       "SellPrice": 1500.0,
       "Cost": 1054.8500000000001,
       "LastClient": "ليمؤن-ناومالة-سليماني"
@@ -130662,10 +130666,10 @@
         "5711953202940",
         "6281048109458"
       ],
-      "Balance": 13.0,
+      "Balance": 12.0,
       "OpeningStock": 0.0,
       "NetPurchases": 26.0,
-      "TotalOut": 13.0,
+      "TotalOut": 14.0,
       "SellPrice": 3000.0,
       "Cost": 2666.6666666666665,
       "LastClient": "ابراهيم براد-بوك"
@@ -131277,9 +131281,9 @@
         "8697426455860",
         "8697426455877"
       ],
-      "Balance": 24.0,
+      "Balance": 36.0,
       "OpeningStock": 0.0,
-      "NetPurchases": 97.0,
+      "NetPurchases": 109.0,
       "TotalOut": 73.0,
       "SellPrice": 1000.0,
       "Cost": 875.0,
@@ -131292,9 +131296,9 @@
       "Barcodes": [
         "8697426456102"
       ],
-      "Balance": 4.0,
+      "Balance": 16.0,
       "OpeningStock": 0.0,
-      "NetPurchases": 24.0,
+      "NetPurchases": 36.0,
       "TotalOut": 20.0,
       "SellPrice": 1000.0,
       "Cost": 833.33333333333337,
@@ -131475,13 +131479,13 @@
       "Barcodes": [
         "8682162010824"
       ],
-      "Balance": 11.0,
+      "Balance": 33.0,
       "OpeningStock": 0.0,
-      "NetPurchases": 216.0,
-      "TotalOut": 205.0,
+      "NetPurchases": 240.0,
+      "TotalOut": 207.0,
       "SellPrice": 1000.0,
       "Cost": 791.66666666666663,
-      "LastClient": "كولدين ميلك / كالة"
+      "LastClient": "وةنةوشةي شار-شرين عسل"
     },
     {
       "Name": "صؤص بيبةر ناميكا 410غم",
@@ -131914,10 +131918,10 @@
         "6294017116449",
         "6294017116456"
       ],
-      "Balance": 849.0,
+      "Balance": 845.0,
       "OpeningStock": 0.0,
       "NetPurchases": 2321.0,
-      "TotalOut": 1472.0,
+      "TotalOut": 1476.0,
       "SellPrice": 166.66,
       "Cost": 125.21520833333335,
       "LastClient": "شركة برايان-نيدؤ -دينار"
@@ -132093,10 +132097,10 @@
       "Barcodes": [
         "8699969223920"
       ],
-      "Balance": 77.0,
+      "Balance": 76.0,
       "OpeningStock": 0.0,
       "NetPurchases": 302.0,
-      "TotalOut": 225.0,
+      "TotalOut": 226.0,
       "SellPrice": 1000.0,
       "Cost": 791.66666666666663,
       "LastClient": "2-كوكاي ئالين+هاوار كروب"
@@ -132940,10 +132944,10 @@
       "Barcodes": [
         "6262206700229"
       ],
-      "Balance": 2.0,
+      "Balance": 1.0,
       "OpeningStock": 0.0,
       "NetPurchases": 120.0,
-      "TotalOut": 118.0,
+      "TotalOut": 119.0,
       "SellPrice": 250.0,
       "Cost": 216.66666666666666,
       "LastClient": "ساحل العراق / بكاه"
@@ -133483,10 +133487,10 @@
       "Barcodes": [
         "2687"
       ],
-      "Balance": 11.0,
+      "Balance": 10.0,
       "OpeningStock": 0.0,
       "NetPurchases": 165.0,
-      "TotalOut": 154.0,
+      "TotalOut": 155.0,
       "SellPrice": 3000.0,
       "Cost": 2500.0,
       "LastClient": "شيرةمةني لادي-كاك صلاح ماست"
@@ -133921,9 +133925,9 @@
       "Barcodes": [
         "8683881000233"
       ],
-      "Balance": 0.0,
+      "Balance": 80.0,
       "OpeningStock": 0.0,
-      "NetPurchases": 36.0,
+      "NetPurchases": 116.0,
       "TotalOut": 36.0,
       "SellPrice": 7500.0,
       "Cost": 6875.0,
@@ -134714,9 +134718,9 @@
         "8697426454429",
         "8697426454429"
       ],
-      "Balance": 33.0,
+      "Balance": 57.0,
       "OpeningStock": 0.0,
-      "NetPurchases": 96.0,
+      "NetPurchases": 120.0,
       "TotalOut": 63.0,
       "SellPrice": 250.0,
       "Cost": 208.33333333333334,
@@ -134795,10 +134799,10 @@
       "Barcodes": [
         "0484"
       ],
-      "Balance": 7.0,
+      "Balance": 6.0,
       "OpeningStock": 0.0,
       "NetPurchases": 55.0,
-      "TotalOut": 48.0,
+      "TotalOut": 49.0,
       "SellPrice": 2000.0,
       "Cost": 1490.909090909091,
       "LastClient": "جةرةزاتي سةلام-سليماني"
@@ -135237,9 +135241,9 @@
       "Barcodes": [
         "6926384027690"
       ],
-      "Balance": 77.0,
+      "Balance": 317.0,
       "OpeningStock": 0.0,
-      "NetPurchases": 145.0,
+      "NetPurchases": 385.0,
       "TotalOut": 68.0,
       "SellPrice": 1500.0,
       "Cost": 1041.6666666666667,
@@ -135717,10 +135721,10 @@
       "Barcodes": [
         "6977551240084"
       ],
-      "Balance": 158.0,
+      "Balance": 157.0,
       "OpeningStock": 0.0,
       "NetPurchases": 240.0,
-      "TotalOut": 82.0,
+      "TotalOut": 83.0,
       "SellPrice": 1000.0,
       "Cost": 625.0,
       "LastClient": "شويني ئةندام-هةولير"
@@ -136337,10 +136341,10 @@
       "Barcodes": [
         "6254000591226"
       ],
-      "Balance": 80.0,
+      "Balance": 79.0,
       "OpeningStock": 0.0,
       "NetPurchases": 120.0,
-      "TotalOut": 40.0,
+      "TotalOut": 41.0,
       "SellPrice": 2750.0,
       "Cost": 2333.3333333333335,
       "LastClient": "فرؤشكاي عبدالله-كةلار-عثمان"
@@ -136466,10 +136470,10 @@
       "Barcodes": [
         "8690526028330"
       ],
-      "Balance": 31.0,
+      "Balance": 29.0,
       "OpeningStock": 0.0,
       "NetPurchases": 625.0,
-      "TotalOut": 594.0,
+      "TotalOut": 596.0,
       "SellPrice": 500.0,
       "Cost": 437.5,
       "LastClient": "نورهات-ئيتي-دينار"
@@ -136547,10 +136551,10 @@
         "8697439309136",
         "8697439309198"
       ],
-      "Balance": 723.0,
+      "Balance": 711.0,
       "OpeningStock": 0.0,
       "NetPurchases": 2880.0,
-      "TotalOut": 2157.0,
+      "TotalOut": 2169.0,
       "SellPrice": 250.0,
       "Cost": 218.75,
       "LastClient": "نورفود-ماستةر ئيتي"
@@ -137223,10 +137227,10 @@
         "6281018140665",
         "6281018140764"
       ],
-      "Balance": 479.0,
+      "Balance": 478.0,
       "OpeningStock": 0.0,
       "NetPurchases": 721.0,
-      "TotalOut": 242.0,
+      "TotalOut": 243.0,
       "SellPrice": 1500.0,
       "Cost": 1291.6666666666667,
       "LastClient": "كؤمبانياي مارد-دينار"
@@ -137535,10 +137539,10 @@
       "Barcodes": [
         "9507143376418"
       ],
-      "Balance": 89.0,
+      "Balance": 88.0,
       "OpeningStock": 0.0,
       "NetPurchases": 120.0,
-      "TotalOut": 31.0,
+      "TotalOut": 32.0,
       "SellPrice": 3500.0,
       "Cost": 2833.3333333333335,
       "LastClient": "بةرزاييةكاني سارا-كؤكاي ليبي"
@@ -138311,10 +138315,10 @@
         "4066447711769",
         "4066447776515"
       ],
-      "Balance": 87.0,
+      "Balance": 86.0,
       "OpeningStock": 0.0,
       "NetPurchases": 280.0,
-      "TotalOut": 193.0,
+      "TotalOut": 194.0,
       "SellPrice": 2000.0,
       "Cost": 1464.75,
       "LastClient": "كومبانياي DM-ئايندةي جواني"
@@ -138635,10 +138639,10 @@
       "Barcodes": [
         "6267287302041"
       ],
-      "Balance": 14.0,
+      "Balance": 13.0,
       "OpeningStock": 0.0,
       "NetPurchases": 72.0,
-      "TotalOut": 58.0,
+      "TotalOut": 59.0,
       "SellPrice": 1250.0,
       "Cost": 1083.3333333333333,
       "LastClient": "كولدين ميلك / كالة"
@@ -138871,9 +138875,9 @@
       "Barcodes": [
         "8690506348755"
       ],
-      "Balance": 14.0,
+      "Balance": 50.0,
       "OpeningStock": 0.0,
-      "NetPurchases": 60.0,
+      "NetPurchases": 96.0,
       "TotalOut": 46.0,
       "SellPrice": 2500.0,
       "Cost": 2000.0,
@@ -139112,10 +139116,10 @@
         "8682205455896",
         "8682205455902"
       ],
-      "Balance": 223.0,
+      "Balance": 213.0,
       "OpeningStock": 0.0,
       "NetPurchases": 577.0,
-      "TotalOut": 354.0,
+      "TotalOut": 364.0,
       "SellPrice": 500.0,
       "Cost": 416.66666666666669,
       "LastClient": "ساحل العراق / بكاه"
@@ -139573,10 +139577,10 @@
       "Barcodes": [
         "6221048600159"
       ],
-      "Balance": 8.0,
+      "Balance": 7.0,
       "OpeningStock": 0.0,
       "NetPurchases": 17.0,
-      "TotalOut": 9.0,
+      "TotalOut": 10.0,
       "SellPrice": 3750.0,
       "Cost": 3571.7647058823532,
       "LastClient": "شركة الميسر-باكةرةوة-ناومالة"
@@ -139864,10 +139868,10 @@
       "Barcodes": [
         "6268603314601"
       ],
-      "Balance": 4.0,
+      "Balance": 3.0,
       "OpeningStock": 0.0,
       "NetPurchases": 10.0,
-      "TotalOut": 6.0,
+      "TotalOut": 7.0,
       "SellPrice": 2000.0,
       "Cost": 1647.6500000000003,
       "LastClient": "فرؤشكاي ميهران-سليماني"
@@ -140089,10 +140093,10 @@
       "Barcodes": [
         "5902802560391"
       ],
-      "Balance": 56.0,
+      "Balance": 53.0,
       "OpeningStock": 0.0,
       "NetPurchases": 89.0,
-      "TotalOut": 33.0,
+      "TotalOut": 36.0,
       "SellPrice": 4000.0,
       "Cost": 3300.0,
       "LastClient": "مكتب ئالان-كؤران"
@@ -140491,10 +140495,10 @@
         "15555555",
         "6291111326101"
       ],
-      "Balance": 298.0,
+      "Balance": 257.0,
       "OpeningStock": 0.0,
       "NetPurchases": 700.0,
-      "TotalOut": 402.0,
+      "TotalOut": 443.0,
       "SellPrice": 1250.0,
       "Cost": 1125.0,
       "LastClient": "كؤكاي مارينا-جلال كلارة-"
@@ -141355,10 +141359,10 @@
       "Barcodes": [
         "6253504118601"
       ],
-      "Balance": 15.0,
+      "Balance": 14.0,
       "OpeningStock": 0.0,
       "NetPurchases": 40.0,
-      "TotalOut": 25.0,
+      "TotalOut": 26.0,
       "SellPrice": 11000.0,
       "Cost": 10250.0,
       "LastClient": "لاوزةند كروب-تؤري"
@@ -141402,10 +141406,10 @@
         "6253504115716",
         "6253504115785"
       ],
-      "Balance": 90.0,
+      "Balance": 89.0,
       "OpeningStock": 0.0,
       "NetPurchases": 180.0,
-      "TotalOut": 90.0,
+      "TotalOut": 91.0,
       "SellPrice": 3000.0,
       "Cost": 2625.0,
       "LastClient": "لاوزةند كروب-تؤري"
@@ -141574,10 +141578,10 @@
       "Barcodes": [
         "6557"
       ],
-      "Balance": 90.0,
+      "Balance": 88.0,
       "OpeningStock": 0.0,
       "NetPurchases": 251.0,
-      "TotalOut": 161.0,
+      "TotalOut": 163.0,
       "SellPrice": 38000.0,
       "Cost": 37000.0,
       "LastClient": "كؤمبانياي بةمؤ-هةواري سليماني-برنج محمود"
@@ -141984,10 +141988,10 @@
       "Barcodes": [
         "6251091400017"
       ],
-      "Balance": 122.0,
+      "Balance": 121.0,
       "OpeningStock": 0.0,
       "NetPurchases": 200.0,
-      "TotalOut": 78.0,
+      "TotalOut": 79.0,
       "SellPrice": 500.0,
       "Cost": 350.0,
       "LastClient": "6-كوكاي محمد \\ بسكيت"
@@ -142155,10 +142159,10 @@
         "6260176838386",
         "6260176838393"
       ],
-      "Balance": 37.0,
+      "Balance": 36.0,
       "OpeningStock": 0.0,
       "NetPurchases": 48.0,
-      "TotalOut": 11.0,
+      "TotalOut": 12.0,
       "SellPrice": 500.0,
       "Cost": 416.66666666666669,
       "LastClient": "كومبانياي بيري-سليماني"
@@ -142399,10 +142403,10 @@
       "Barcodes": [
         "6928140302522"
       ],
-      "Balance": 130.0,
+      "Balance": 129.0,
       "OpeningStock": 0.0,
       "NetPurchases": 239.0,
-      "TotalOut": 109.0,
+      "TotalOut": 110.0,
       "SellPrice": 1250.0,
       "Cost": 920.50209205020917,
       "LastClient": "كؤكاي هاشم و قاسم"
@@ -142593,10 +142597,10 @@
       "Barcodes": [
         "2700152"
       ],
-      "Balance": 190.18940000000012,
+      "Balance": 187.16570000000013,
       "OpeningStock": 0.0,
       "NetPurchases": 320.5165,
-      "TotalOut": 130.32709999999995,
+      "TotalOut": 133.35079999999996,
       "SellPrice": 6500.0,
       "Cost": 4897.9591836734689,
       "LastClient": "5-فرؤشكاي ئازاد-جةرةزات-كةلار"
@@ -143314,10 +143318,10 @@
       "Barcodes": [
         "8699960541825"
       ],
-      "Balance": 24.0,
+      "Balance": 22.0,
       "OpeningStock": 0.0,
       "NetPurchases": 32.0,
-      "TotalOut": 8.0,
+      "TotalOut": 10.0,
       "SellPrice": 5250.0,
       "Cost": 4687.5,
       "LastClient": "2-كوكاي ئالين+هاوار كروب"
@@ -143569,9 +143573,9 @@
       "Barcodes": [
         "6262246700289"
       ],
-      "Balance": 0.0,
+      "Balance": 12.0,
       "OpeningStock": 0.0,
-      "NetPurchases": 12.0,
+      "NetPurchases": 24.0,
       "TotalOut": 12.0,
       "SellPrice": 750.0,
       "Cost": 604.16666666666663,
@@ -143639,10 +143643,10 @@
         "096459039999",
         "2006740740832001"
       ],
-      "Balance": 476.0,
+      "Balance": 475.0,
       "OpeningStock": 0.0,
       "NetPurchases": 987.0,
-      "TotalOut": 511.0,
+      "TotalOut": 512.0,
       "SellPrice": 250.0,
       "Cost": 218.75,
       "LastClient": "6-كوكاي محمد \\ بسكيت"
@@ -143684,10 +143688,10 @@
       "Barcodes": [
         "6713357880051"
       ],
-      "Balance": 365.0,
+      "Balance": 363.0,
       "OpeningStock": 0.0,
       "NetPurchases": 612.0,
-      "TotalOut": 247.0,
+      "TotalOut": 249.0,
       "SellPrice": 1500.0,
       "Cost": 1166.6666666666667,
       "LastClient": "كومبانياي سيفي / هيمن-دينار"
@@ -144315,10 +144319,10 @@
       "Barcodes": [
         "9551007521902"
       ],
-      "Balance": 13.0,
+      "Balance": 12.0,
       "OpeningStock": 0.0,
       "NetPurchases": 50.0,
-      "TotalOut": 37.0,
+      "TotalOut": 38.0,
       "SellPrice": 1500.0,
       "Cost": 1250.0,
       "LastClient": "شركة زاميا-دينار"
@@ -144511,10 +144515,10 @@
       "Barcodes": [
         "4894"
       ],
-      "Balance": 10.0,
+      "Balance": 9.0,
       "OpeningStock": 0.0,
       "NetPurchases": 12.0,
-      "TotalOut": 2.0,
+      "TotalOut": 3.0,
       "SellPrice": 13000.0,
       "Cost": 9000.0,
       "LastClient": "فرؤشكاي بشتيوان-سليماني"
@@ -144992,13 +144996,13 @@
       "Barcodes": [
         "1009"
       ],
-      "Balance": 12.0,
+      "Balance": 0.0,
       "OpeningStock": 0.0,
-      "NetPurchases": 12.0,
+      "NetPurchases": 0.0,
       "TotalOut": 0.0,
       "SellPrice": 45000.0,
       "Cost": 38000.0,
-      "LastClient": "بيشانكاي هيلين-سليماني"
+      "LastClient": ""
     },
     {
       "Name": "سةعات ناومالة 33000ي",
@@ -145007,13 +145011,13 @@
       "Barcodes": [
         "1022"
       ],
-      "Balance": 8.0,
+      "Balance": 0.0,
       "OpeningStock": 0.0,
-      "NetPurchases": 8.0,
+      "NetPurchases": 0.0,
       "TotalOut": 0.0,
       "SellPrice": 33000.0,
       "Cost": 28000.0,
-      "LastClient": "بيشانكاي هيلين-سليماني"
+      "LastClient": ""
     },
     {
       "Name": "سيت جةرةزات 40000ي",
@@ -145698,10 +145702,10 @@
         "8697426454764",
         "8697426454764"
       ],
-      "Balance": 25.0,
+      "Balance": 71.0,
       "OpeningStock": 0.0,
-      "NetPurchases": 48.0,
-      "TotalOut": 23.0,
+      "NetPurchases": 96.0,
+      "TotalOut": 25.0,
       "SellPrice": 250.0,
       "Cost": 208.33333333333334,
       "LastClient": "وةنةوشةي شار-شرين عسل"
@@ -146181,10 +146185,10 @@
       "Barcodes": [
         "8681820177671"
       ],
-      "Balance": 44.0,
+      "Balance": 43.0,
       "OpeningStock": 0.0,
       "NetPurchases": 50.0,
-      "TotalOut": 6.0,
+      "TotalOut": 7.0,
       "SellPrice": 13000.0,
       "Cost": 12000.0,
       "LastClient": "كؤمبانياي نةورةس-دينار"
@@ -146622,10 +146626,10 @@
       "Barcodes": [
         "6219990179755"
       ],
-      "Balance": 100.0,
+      "Balance": 99.0,
       "OpeningStock": 0.0,
       "NetPurchases": 144.0,
-      "TotalOut": 44.0,
+      "TotalOut": 45.0,
       "SellPrice": 250.0,
       "Cost": 208.33333333333334,
       "LastClient": "6-كوكاي محمد \\ بسكيت"
@@ -147010,10 +147014,10 @@
         "5666552223233",
         "987654321098"
       ],
-      "Balance": 83.0,
+      "Balance": 82.0,
       "OpeningStock": 0.0,
       "NetPurchases": 100.0,
-      "TotalOut": 17.0,
+      "TotalOut": 18.0,
       "SellPrice": 500.0,
       "Cost": 300.0,
       "LastClient": "كؤكاي سازكار-بةفر"
@@ -147085,10 +147089,10 @@
       "Barcodes": [
         "6251051000196"
       ],
-      "Balance": 30.0,
+      "Balance": 29.0,
       "OpeningStock": 0.0,
       "NetPurchases": 30.0,
-      "TotalOut": 0.0,
+      "TotalOut": 1.0,
       "SellPrice": 9000.0,
       "Cost": 8083.333333333333,
       "LastClient": "كؤمبانياي كولبةهار -دينار-الاحمد"
@@ -147178,10 +147182,10 @@
         "3800224892385",
         "3800233075731"
       ],
-      "Balance": 168.0,
+      "Balance": 164.0,
       "OpeningStock": 0.0,
       "NetPurchases": 168.0,
-      "TotalOut": 0.0,
+      "TotalOut": 4.0,
       "SellPrice": 2500.0,
       "Cost": 2196.4285714285716,
       "LastClient": "كؤكاي بيك ستارت-سليماني"
@@ -147191,12 +147195,13 @@
       "m_class": "كؤكاي بيك ستارت-سليماني",
       "MatType": "",
       "Barcodes": [
+        "3800224891012",
         "3800224891029"
       ],
-      "Balance": 24.0,
+      "Balance": 23.0,
       "OpeningStock": 0.0,
       "NetPurchases": 24.0,
-      "TotalOut": 0.0,
+      "TotalOut": 1.0,
       "SellPrice": 2750.0,
       "Cost": 2250.0,
       "LastClient": "كؤكاي بيك ستارت-سليماني"
@@ -147334,7 +147339,7 @@
       "NetPurchases": 8.0,
       "TotalOut": 0.0,
       "SellPrice": 5000.0,
-      "Cost": 0.0,
+      "Cost": 4500.0,
       "LastClient": "خواردني مالي خؤمان"
     },
     {
@@ -147351,6 +147356,71 @@
       "SellPrice": 1250.0,
       "Cost": 1000.0,
       "LastClient": "نبع الرحمة-عبدالرزاق صباح-دينار"
+    },
+    {
+      "Name": "دؤي دبة روتاش 200مل",
+      "m_class": "وةنةوشةي شار-شرين عسل",
+      "MatType": "",
+      "Barcodes": [
+        "8697426453798"
+      ],
+      "Balance": 40.0,
+      "OpeningStock": 0.0,
+      "NetPurchases": 40.0,
+      "TotalOut": 0.0,
+      "SellPrice": 250.0,
+      "Cost": 200.0,
+      "LastClient": "وةنةوشةي شار-شرين عسل"
+    },
+    {
+      "Name": "معجون دان سانينؤ 100مل",
+      "m_class": "",
+      "MatType": "",
+      "Barcodes": [
+        "8690506545116"
+      ],
+      "Balance": 12.0,
+      "OpeningStock": 0.0,
+      "NetPurchases": 12.0,
+      "TotalOut": 0.0,
+      "SellPrice": 1000.0,
+      "Cost": 750.0,
+      "LastClient": "زيد ميديا-دورو -ئيفي دينار"
+    },
+    {
+      "Name": "رؤل بن بال امالفي 50مل",
+      "m_class": "مكتب ئالان",
+      "MatType": "",
+      "Barcodes": [
+        "8414227043610",
+        "8414227043627",
+        "8414227043634",
+        "8414227043641"
+      ],
+      "Balance": 48.0,
+      "OpeningStock": 0.0,
+      "NetPurchases": 48.0,
+      "TotalOut": 0.0,
+      "SellPrice": 2500.0,
+      "Cost": 2000.0,
+      "LastClient": "مكتب ئالان-كؤران"
+    },
+    {
+      "Name": "معطر جو ايفل 150مل بخاخ",
+      "m_class": "مكتب ئالان",
+      "MatType": "",
+      "Barcodes": [
+        "8681301044164",
+        "8681301044171",
+        "8681301044423"
+      ],
+      "Balance": 36.0,
+      "OpeningStock": 0.0,
+      "NetPurchases": 36.0,
+      "TotalOut": 0.0,
+      "SellPrice": 2000.0,
+      "Cost": 1750.0,
+      "LastClient": "مكتب ئالان-كؤران"
     }
   ]
 }
