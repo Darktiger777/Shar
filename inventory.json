@@ -1,5 +1,5 @@
 {
-  "LastSync": "2026-03-28 10:34:30",
+  "LastSync": "2026-03-28 10:35:28",
   "Inventory": [
     {
       "Name": "سوراو+قةلةم جاو 1000ي",
@@ -7237,10 +7237,10 @@
       "Barcodes": [
         "2143"
       ],
-      "Balance": 88.0,
+      "Balance": 87.5,
       "OpeningStock": 82.0,
       "NetPurchases": 2569.0,
-      "TotalOut": 2563.0,
+      "TotalOut": 2563.5,
       "SellPrice": 5000.0,
       "Cost": 4500.0,
       "LastClient": "كوكاى سةيوان هيلكة"
