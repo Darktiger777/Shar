@@ -1,5 +1,5 @@
 {
-  "LastSync": "2026-04-02 09:48:57",
+  "LastSync": "2026-04-02 09:49:55",
   "Inventory": [
     {
       "Name": "سوراو+قةلةم جاو 1000ي",
@@ -69986,10 +69986,10 @@
       "Barcodes": [
         "8445290222503"
       ],
-      "Balance": 283.0,
+      "Balance": 282.0,
       "OpeningStock": 97.0,
       "NetPurchases": 352.0,
-      "TotalOut": 166.0,
+      "TotalOut": 167.0,
       "SellPrice": 3500.0,
       "Cost": 2620.1169999999997,
       "LastClient": "شركة برايان-نيدؤ -دينار"
@@ -123159,10 +123159,10 @@
       "Barcodes": [
         "138801"
       ],
-      "Balance": 3.0,
+      "Balance": 2.0,
       "OpeningStock": 0.0,
       "NetPurchases": 178.0,
-      "TotalOut": 175.0,
+      "TotalOut": 176.0,
       "SellPrice": 1000.0,
       "Cost": 750.0,
       "LastClient": "9-كؤمبانياي سةفرة-بةشي وشةكة- نان و تؤست"
@@ -137579,10 +137579,10 @@
       "Barcodes": [
         "77000025"
       ],
-      "Balance": 1.0,
+      "Balance": 0.0,
       "OpeningStock": 0.0,
       "NetPurchases": 83.0,
-      "TotalOut": 82.0,
+      "TotalOut": 83.0,
       "SellPrice": 1250.0,
       "Cost": 1000.0,
       "LastClient": "كؤمبانياي خةجي خانم-سليماني"
@@ -138898,10 +138898,10 @@
       "Barcodes": [
         "77000020"
       ],
-      "Balance": 2.0,
+      "Balance": 1.0,
       "OpeningStock": 0.0,
       "NetPurchases": 44.0,
-      "TotalOut": 42.0,
+      "TotalOut": 43.0,
       "SellPrice": 1250.0,
       "Cost": 1000.0,
       "LastClient": "كؤمبانياي خةجي خانم-سليماني"
